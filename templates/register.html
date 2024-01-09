@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agro Sage</title>
+    <link rel="stylesheet" href="/static/css/normalize.css">
+  <link rel="stylesheet" href="/static/css/styles.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
+</head>
+<body>
+  <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #8ac79a;">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="/"><b>Agro Sage</b></a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+          <li class="nav-item">
+            <a class="nav-link" href="/"><b>Home Page</b></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/about"><b>About Us</b></a>
+          </li>
+          <li class="nav-item">
+              <a class="nav-link active" href="/register"><b>Register/Login</b></a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+
+      <div class="card-wrapper">
+
+        <div class="card">
+    
+          <h1 class="center">Create an Account</h1>
+    
+          <form name="signup_form">
+    
+            <label for="name">Name</label>
+            <input type="text" name="name" class="field" required>
+    
+            <label for="email">Email</label>
+            <input type="email" name="email" class="field" required>
+    
+            <label for="password">Password</label>
+            <input type="password" name="password" class="field" required>
+
+            <label for="location">Location</label>
+            <input type="text" name="location" class="field" required>
+
+            <label for="profession">Profession</label>
+            <input type="text" name="profession" class="field" required>
+    
+            <p class="error error--hidden"></p>
+    
+            <input type="submit" value="Sign Up" class="btn">
+          
+          </form>
+          
+        </div>
+    
+        <div class="card">
+    
+          <h1 class="center">Log In</h1>
+    
+          <form name="login_form">
+    
+            <label for="email">Email</label>
+            <input type="email" name="email" class="field" required>
+    
+            <label for="password">Password</label>
+            <input type="password" name="password" class="field" required>
+    
+            <p class="error error--hidden"></p>
+    
+            <input type="submit" value="Log In" class="btn">
+          
+          </form>
+          
+        </div>
+      
+      </div>
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script> 
+      <script src="/static/js/jquery.js"></script>
+  <script src="/static/js/scripts.js"></script>
+</body>
+</html>

@@ -1,0 +1,179 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/x-icon" href="/static/images/logo.jpg">
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    
+    <link rel="stylesheet" type="text/css" href="/static/css/styles.css">
+    <link rel="stylesheet" type="text/css" href="/static/css/sts.css">
+    <link rel="stylesheet" type="text/css" href="/static/css/normalize.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+    <script src="/static/js/district.js"></script>
+    <title>Agro Sage</title>
+  </head>
+  <body style="font-family: 'Nunito', sans-serif; font-weight: 400; font-size: 100%;">
+    <header >
+      <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #8ac79a;">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="/"><b>Agro Sage</b></a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+              <li class="nav-item">
+                <a class="nav-link" href="/"><b>Home Page</b></a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="/about"><b>About Us</b></a>
+              </li>
+            
+              <li class="nav-item">
+                <a class="nav-link" href="/help"><b>Discussion Forum</b></a>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Services</a>
+                <div class="dropdown-menu">
+                  <a class="dropdown-item" href="/predictpage">Crop Prediction</a>
+                  <a class="dropdown-item" href="/base">Suggestion For Crop</a>
+                  <a class="dropdown-item" href="/fertilizer">Fertilizer Predictions</a>
+                  
+                </div>
+              </li>
+          </ul>
+           <ul class="navbar-nav">
+            <li class="nav-item" id="user-dropdown">
+                <a class="nav-link" href="#">
+                    <div style="display: flex; align-items: center;">
+                        <div style="width: 32px; height: 32px; border-radius: 50%; overflow: hidden; margin-right: 10px;">
+                            <img src="/static/images/plogo.jpg" alt="User Profile" style="width: 100%; height: 100%;">
+                        </div>
+                        <span>{{ session['user']['name'] }}</span>
+                    </div>
+                </a>
+                <div class="user-dropdown-content">
+                    <p><strong>Location:</strong> {{ session['user']['location'] }}</p>
+                    <p><strong>Profession:</strong> {{ session['user']['profession'] }}</p>
+                    <a href="/user/signout">Sign Out</a>
+                </div>
+            </li>
+        </ul>
+          </div>
+        </div>
+      </nav>
+   
+</header>
+    
+    <div class="card-wrapper">
+
+      <div class="card">
+        <h1> Enter the details </h1>
+        <form action="/exactpredict" method="POST" id="features">
+          <label for="states">Select State:</label>
+          <select id="states" name="states" class="field" onchange="updateDistricts()">
+            <option value="">Select a state</option>
+            <option value="ANDAMAN And NICOBAR ISLANDS">Andaman And Nicobar</option>
+            <option value="ARUNACHAL PRADESH">ARUNACHAL PRADESH</option>
+            <option value="ASSAM">ASSAM</option>
+            <option value="MEGHALAYA">MEGHALAYA</option>
+            <option value="MANIPUR">MANIPUR</option>
+            <option value="MIZORAM">MIZORAM</option>
+            <option value="NAGALAND">NAGALAND</option>
+            <option value="TRIPURA">TRIPURA</option>
+            <option value="WEST BENGAL">WEST BENGAL</option>
+            <option value="SIKKIM">SIKKIM</option>
+            <option value="ORISSA">ORISSA</option>
+            <option value="JHARKHAND">JHARKHAND</option>
+            <option value="BIHAR">BIHAR</option>
+            <option value="UTTAR PRADESH">UTTAR PRADESH</option>
+            <option value="UTTARANCHAL">UTTARANCHAL</option>
+            <option value="HARYANA">HARYANA</option>
+            <option value="DELHI">DELHI</option>
+            <option value="PUNJAB">PUNJAB</option>
+            <option value="HIMACHAL">HIMACHAL</option>
+            <option value="JAMMU AND KASHMIR">JAMMU AND KASHMIR</option>
+            <option value="RAJASTHAN">RAJASTHAN</option>
+            <option value="CHANDIGARH">CHANDIGARH</option>
+            <option value="GUJARAT">GUJARAT</option>
+            <option value="PUNJAB">PUNJAB</option>
+            <option value="HIMACHAL">HIMACHAL</option>
+            <option value="JAMMU AND KASHMIR">JAMMU AND KASHMIR</option>
+            <option value="DADAR NAGAR HAVELI">DADAR NAGAR HAVELI</option>
+            <option value="DAMAN AND DUI">DAMAN AND DUI</option>
+            <option value="MAHARASHTRA">MAHARASHTRA</option>
+            <option value="CHATISGARH">CHATISGARH</option>
+            <option value="ANDHRA PRADESH">ANDHRA PRADESH</option>
+            <option value="TAMIL NADU">TAMIL NADU</option>
+            <option value="PONDICHERRY">PONDICHERRY</option>
+            <option value="KARNATAKA">KARNATAKA</option>
+            <option value="KERALA">KERALA</option>
+          </select>
+          <label for="districts">Select District:</label>
+          <select id="districts" class="field" name="districts">
+            <option value="">Select a district</option>
+          </select>
+        
+        <label for="N">Ratio of Nitrogen content in soil:</label>
+        <input type="number"  id="N" name="N" class="field" max="200">
+        <label for="P">Ratio of Phosphorous content in soil:</label>
+        <input type="number"  id="P" name="P" class="field" max="200">
+        <label for="K">Ratio of Potassium content in soil:</label>
+        <input type="number"  id="K" name="K" class="field" max="200">
+        </div>
+        <div class="card">
+        <label for="temperature">Temperature in degree Celsius:</label>
+        <input type="number" step="0.000001" id="temperature" name="temperature" class="field" max="50">
+        <label for="humidity">Relative humidity in %:</label>
+        <input type="number" step="0.000001" id="humidity" name="humidity" class="field" max="100">
+        <label for="ph">PH value of the soil:</label>
+        <input type="number" step="0.0000001" id="ph" name="ph" class="field" min="0" max="14">
+        <label for="rainfall">Rainfall in mm:</label>
+        <input type="number" step="0.000001" id="rainfall" name="rainfall" class="field">
+
+        <label for="rainfall">Season:</label>
+        <select id="seasons" name="seasons" class="field">
+          <option value="">Select a season</option>
+              <option value="Jan-Feb">Jan-Feb</option>
+              <option value="Mar-May">Mar-May</option>
+              <option value="Jun-Sep">Jun-Sep</option>
+              <option value="Oct-Dec">Oct-Dec</option>
+              </select> 
+        <input type="submit"  id="button" name="button" class="btn">
+      </form>
+      <div class="center" id="pred">
+        Predictions will be here
+      </div>
+    </div></div>
+    <br>
+    <br>
+    
+    <script>
+    $(document).ready(function() {
+      $('#features').submit(function(e){
+        e.preventDefault();
+        $.ajax({
+          url: "/exactpredict",
+          type: 'post',
+          data: $('#features').serialize(),
+          success:function(){
+              console.log()
+          }
+        }).then((x) => {
+          $('#pred').html(x);
+          console.log(x);
+        });
+      });
+    });
+    </script>
+<!-- // Footer -->
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+      <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.3/dist/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.1.3/dist/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+      <script src="/static/js/jquery.js"></script>
+</body>
+</html>

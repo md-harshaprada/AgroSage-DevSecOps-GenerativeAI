@@ -1,0 +1,266 @@
+{
+    "ANDAMAN And NICOBAR ISLANDS": {
+        "State": "ANDAMAN And NICOBAR ISLANDS",
+        "SoilType": "lateritic",
+        "pH": "5",
+        "N": "68",
+        "K": "58",
+        "P": "38"
+    },
+    "ARUNACHAL PRADESH": {
+        "State": "ARUNACHAL PRADESH",
+        "SoilType": "alluvial",
+        "pH": "6",
+        "N": "91",
+        "K": "53",
+        "P": "40"
+    },
+    "ASSAM": {
+        "State": "ASSAM",
+        "SoilType": "alluvial",
+        "pH": "6",
+        "N": "91",
+        "K": "53",
+        "P": "40"
+    },
+    "MEGHALAYA": {
+        "State": "MEGHALAYA",
+        "SoilType": "red",
+        "pH": "7",
+        "N": "66",
+        "K": "53",
+        "P": "41"
+    },
+    "MANIPUR": {
+        "State": "MANIPUR",
+        "SoilType": "alluvial",
+        "pH": "6",
+        "N": "91",
+        "K": "53",
+        "P": "40"
+    },
+    "MIZORAM": {
+        "State": "MIZORAM",
+        "SoilType": "lateritic",
+        "pH": "5",
+        "N": "68",
+        "K": "58",
+        "P": "38"
+    },
+    "NAGALAND": {
+        "State": "NAGALAND",
+        "SoilType": "red",
+        "pH": "7",
+        "N": "66",
+        "K": "53",
+        "P": "41"
+    },
+    "TRIPURA": {
+        "State": "TRIPURA",
+        "SoilType": "alluvial",
+        "pH": "6",
+        "N": "91",
+        "K": "53",
+        "P": "40"
+    },
+    "WEST BENGAL": {
+        "State": "WEST BENGAL",
+        "SoilType": "alluvial",
+        "pH": "6",
+        "N": "91",
+        "K": "53",
+        "P": "40"
+    },
+    "SIKKIM": {
+        "State": "SIKKIM",
+        "SoilType": "alpine",
+        "pH": "7",
+        "N": "59",
+        "K": "49",
+        "P": "44"
+    },
+    "ORISSA": {
+        "State": "ORISSA",
+        "SoilType": "lateritic",
+        "pH": "5",
+        "N": "68",
+        "K": "58",
+        "P": "38"
+    },
+    "JHARKHAND": {
+        "State": "JHARKHAND",
+        "SoilType": "lateritic",
+        "pH": "5",
+        "N": "68",
+        "K": "58",
+        "P": "38"
+    },
+    "BIHAR": {
+        "State": "BIHAR",
+        "SoilType": "alluvial",
+        "pH": "6",
+        "N": "91",
+        "K": "53",
+        "P": "40"
+    },
+    "UTTAR PRADESH": {
+        "State": "UTTAR PRADESH",
+        "SoilType": "alluvial",
+        "pH": "6",
+        "N": "91",
+        "K": "53",
+        "P": "40"
+    },
+    "UTTARANCHAL": {
+        "State": "UTTARANCHAL",
+        "SoilType": "alpine",
+        "pH": "7",
+        "N": "59",
+        "K": "49",
+        "P": "44"
+    },
+    "HARYANA": {
+        "State": "HARYANA",
+        "SoilType": "alluvial",
+        "pH": "6",
+        "N": "91",
+        "K": "53",
+        "P": "40"
+    },
+    "CHANDIGARH": {
+        "State": "CHANDIGARH",
+        "SoilType": "alluvial",
+        "pH": "6",
+        "N": "91",
+        "K": "53",
+        "P": "40"
+    },
+    "DELHI": {
+        "State": "DELHI",
+        "SoilType": "alluvial",
+        "pH": "6",
+        "N": "91",
+        "K": "53",
+        "P": "40"
+    },
+    "PUNJAB": {
+        "State": "PUNJAB",
+        "SoilType": "alluvial",
+        "pH": "6",
+        "N": "91",
+        "K": "53",
+        "P": "40"
+    },
+    "HIMACHAL": {
+        "State": "HIMACHAL",
+        "SoilType": "alpine",
+        "pH": "7",
+        "N": "59",
+        "K": "49",
+        "P": "44"
+    },
+    "JAMMU AND KASHMIR": {
+        "State": "JAMMU AND KASHMIR",
+        "SoilType": "alluvial",
+        "pH": "6",
+        "N": "91",
+        "K": "53",
+        "P": "40"
+    },
+    "RAJASTHAN": {
+        "State": "RAJASTHAN",
+        "SoilType": "desert",
+        "pH": "8",
+        "N": "90",
+        "K": "44",
+        "P": "49"
+    },
+    "MADHYA PRADESH": {
+        "State": "MADHYA PRADESH",
+        "SoilType": "black",
+        "pH": "7",
+        "N": "89",
+        "K": "43",
+        "P": "44"
+    },
+    "GUJARAT": {
+        "State": "GUJARAT",
+        "SoilType": "alluvial",
+        "pH": "6",
+        "N": "91",
+        "K": "53",
+        "P": "40"
+    },
+    "DADAR NAGAR HAVELI": {
+        "State": "DADAR NAGAR HAVELI",
+        "SoilType": "lateritic",
+        "pH": "5",
+        "N": "68",
+        "K": "58",
+        "P": "38"
+    },
+    "DAMAN AND DUI": {
+        "State": "DAMAN AND DUI",
+        "SoilType": "lateritic",
+        "pH": "5",
+        "N": "68",
+        "K": "58",
+        "P": "38"
+    },
+    "MAHARASHTRA": {
+        "State": "MAHARASHTRA",
+        "SoilType": "black",
+        "pH": "7",
+        "N": "89",
+        "K": "43",
+        "P": "44"
+    },
+    "CHATISGARH": {
+        "State": "CHATISGARH",
+        "SoilType": "red",
+        "pH": "7",
+        "N": "66",
+        "K": "53",
+        "P": "41"
+    },
+    "ANDHRA PRADESH": {
+        "State": "ANDHRA PRADESH",
+        "SoilType": "red",
+        "pH": "7",
+        "N": "66",
+        "K": "53",
+        "P": "41"
+    },
+    "TAMIL NADU": {
+        "State": "TAMIL NADU",
+        "SoilType": "black",
+        "pH": "7",
+        "N": "89",
+        "K": "43",
+        "P": "44"
+    },
+    "PONDICHERRY": {
+        "State": "PONDICHERRY",
+        "SoilType": "costal sands",
+        "pH": "7",
+        "N": "90",
+        "K": "44",
+        "P": "49"
+    },
+    "KARNATAKA": {
+        "State": "KARNATAKA",
+        "SoilType": "red",
+        "pH": "7",
+        "N": "66",
+        "K": "53",
+        "P": "41"
+    },
+    "KERALA": {
+        "State": "KERALA",
+        "SoilType": "lateritic",
+        "pH": "5",
+        "N": "68",
+        "K": "58",
+        "P": "38"
+    }
+}

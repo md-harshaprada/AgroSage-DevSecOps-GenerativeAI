@@ -1,0 +1,248 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/x-icon" href="/static/images/logo.jpg">
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="/static/css/st.css">
+    <link rel="stylesheet" href="/static/css/stylechat.css">
+    <title>Agro Sage</title>
+  </head>
+  <body style="font-family: 'Nunito', sans-serif; font-weight: 400; font-size: 100%;">
+    <header >
+<nav class="navbar navbar-expand-lg navbar-light" style="background-color: #8ac79a;">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/"><b>Agro Sage</b></a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link active" href="/"><b>Home Page</b></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/about"><b>About Us</b></a>
+        </li>
+       
+        <li class="nav-item">
+          <a class="nav-link" href="/help"><b>Discussion Forum</b></a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Services</a>
+          <div class="dropdown-menu">
+            <a class="dropdown-item" href="/predictpage">Crop Prediction</a>
+            <a class="dropdown-item" href="/base">Suggestion For Crop</a>
+            <a class="dropdown-item" href="/fertilizer">Fertilizer Predictions</a>
+            
+          </div>
+        </li>
+    </ul>
+     <ul class="navbar-nav">
+      <li class="nav-item" id="user-dropdown">
+          <a class="nav-link" href="#">
+              <div style="display: flex; align-items: center;">
+                  <div style="width: 32px; height: 32px; border-radius: 50%; overflow: hidden; margin-right: 10px;">
+                      <img src="/static/images/plogo.jpg" alt="User Profile" style="width: 100%; height: 100%;">
+                  </div>
+                  <span>{{ session['user']['name'] }}</span>
+              </div>
+          </a>
+          <div class="user-dropdown-content">
+              <p><strong>Location:</strong> {{ session['user']['location'] }}</p>
+              <p><strong>Profession:</strong> {{ session['user']['profession'] }}</p>
+              <a href="/user/signout">Sign Out</a>
+          </div>
+      </li>
+  </ul>
+    </div>
+  </div>
+</nav>
+   
+    <!-- Title heading -->
+   
+                <div class="title">
+                <span class="heading">Welcome To  Agro Sage</span>
+              </div>
+</header>
+    <div class="page-wrapper" align="justify">
+    <main>
+        <section>
+          <div class="page-wrapper">
+             
+            <div class="history">
+              <h1 class="history-heading1"><b>Agriculture</b></h1>
+              <br>
+              <span class="history-caption"><p>Agriculture is a major sector of the Indian economy, providing livelihoods to over 50% of the population. India is one of the largest agricultural producers in the world, and agriculture accounts for approximately 18% of the country's Gross Domestic Product (GDP).
+
+                India is known for its diverse agro-climatic conditions, which allow for the cultivation of a wide range of crops including rice, wheat, maize, pulses, oilseeds, sugarcane, cotton, jute, tea, coffee, and spices. Indian agriculture also supports a large livestock population, including cattle, buffalo, sheep, goats, and poultry.
+                
+                However, despite its significance, agriculture in India faces several challenges. Some of the major challenges include low productivity and yields, inadequate irrigation facilities, lack of access to credit and insurance, insufficient storage and transportation facilities, and fragmented land holdings. Additionally, the sector is also impacted by factors such as climate change, unpredictable weather patterns, and pest attacks.
+                
+                
+                  <br>
+                  <br>
+                  To address these challenges, the Indian government has implemented several initiatives and policies aimed at improving the sector's competitiveness and enhancing the livelihoods of farmers. Some of these initiatives include the Pradhan Mantri Fasal Bima Yojana (PMFBY) crop insurance scheme, the Pradhan Mantri Krishi Sinchai Yojana (PMKSY) irrigation scheme, the National Food Security Mission, and the National Agriculture Market (e-NAM) initiative.
+                
+                Overall, agriculture continues to play a critical role in the Indian economy and the government is making efforts to modernize and improve the sector to ensure its sustainability and growth.
+                  </p>
+              
+              
+              <br>
+              <div align="center">
+              <img src="/static/images/agri.png" class="img-fluid" alt="Agricultural farming" width= "1000">
+              </div>
+              <br>
+              <hr />
+            
+          </span>
+          <h3 class="history-heading2"><b>Histroy of Crops of Agriculture</b></h3>
+          <p class="history-para">
+            The history of agriculture in India dates back to ancient times, with evidence of early farming practices in the Indus Valley Civilization, which emerged around 3300 BCE. Agriculture was an important part of ancient Indian life and was characterized by the development of a variety of crops and farming techniques suited to the country's diverse agro-climatic conditions.
+
+During the medieval period, Indian agriculture continued to develop and expand, with the introduction of new crops from overseas, such as sugarcane and cotton, as well as the spread of irrigation systems and the growth of large-scale agriculture.
+
+In the modern era, Indian agriculture has faced many challenges, including declining soil fertility, water scarcity, and the effects of climate change. Despite these challenges, Indian farmers have continued to innovate and adapt, developing new crops and farming techniques and expanding into new markets.
+
+In recent years, the Indian government has launched several initiatives aimed at modernizing and improving the agriculture sector, including investment in infrastructure, research and development, and extension services. The goal is to increase productivity, improve farmer livelihoods, and ensure food security for the country's growing population.
+
+These are just a few highlights of the rich and complex history of agriculture in India, a sector that has played a critical role in the development of the country and its people.
+<br>
+The history of crops in Indian agriculture dates back to ancient times, with evidence of early crop domestication and cultivation in the Indus Valley Civilization. Over the centuries, Indian agriculture has evolved and developed, adapting to changing circumstances and new technologies.
+
+            Some of the earliest crops cultivated in India include rice, wheat, barley, and peas, along with various spices, such as cardamom, pepper, and ginger. As trade and commerce developed, crops such as cotton, sugarcane, and indigo were introduced and became important crops in certain regions of India. During the British colonial period, new crops such as tea and coffee were introduced and established as major agricultural commodities.
+            
+            In more recent times, the Indian government has focused on modernizing and improving agriculture, through initiatives aimed at increasing productivity and competitiveness. This has led to the adoption of new technologies, such as hybrid seed technology and precision agriculture, as well as the development of new crops, such as genetically modified cotton.
+            
+            Overall, Indian agriculture has a rich history of crop cultivation and development, adapting to changing circumstances and new technologies over the centuries. Today, the sector continues to be a major contributor to the Indian economy and a source of livelihood for millions of people. </p>
+          <!-- // Etymology -->
+          <hr/>
+              <!-- Famous Things -->
+              <h3 class="history-heading2"><b>Varieties in Crops for Agriculture </b></h3>
+              <p class="history-para"> India is known for its diverse agro-climatic conditions, which support the cultivation of a wide range of crops. Some of the major crops grown in India include:
+<ol>
+               <li> Cereals: Rice, Wheat, Maize
+                </li>
+               <li> Pulses: Lentils (Masoor, Moong, Urad), Chickpeas (Chana), Peas (Matar)
+                </li>
+               <li> Oilseeds: Mustard, Groundnut, Sesame, Soybean
+                </li>
+               <li> Sugarcane: A major cash crop, used for producing sugar and ethanol
+                </li>
+               <li> Fiber Crops: Cotton, Jute, Hemp
+                </li>
+               <li> Spices: Cardamom, Pepper, Ginger, Turmeric, Coriander
+                </li>
+               <li> Fruits: Mango, Banana, Papaya, Apple, Grapes
+                </li>
+               <li> Vegetables: Potato, Tomato, Onion, Cauliflower, Cabbage, Brinjal
+                </li>
+               <li> Cash Crops: Tea, Coffee, Rubber</li>
+            </ol>
+                These crops are grown in different regions of India, depending on factors such as soil type, climate, water availability, and market demand. Additionally, Indian agriculture also supports a large livestock population, including cattle, buffalo, sheep, goats, and poultry.
+                
+                Overall, the wide range of crops grown in India reflects the country's diverse agro-climatic conditions and its rich agricultural heritage.
+
+
+              <br> 
+              Few more crops grown in Indian agriculture:
+<br><br>
+<ol><li>Tobacco: A cash crop grown in various regions of India, used for making cigarettes and other tobacco products.</li>
+
+<li>Jowar (Sorghum): A staple food crop grown in the semi-arid regions of India, used for making flour, porridge, and fermented foods.</li>
+
+<li>Ragi (Finger Millet): A staple food crop grown in southern India, used for making flour, porridge, and fermented foods.</li>
+
+<li>Bajra (Pearl Millet): A staple food crop grown in the arid regions of India, used for making flour, porridge, and fermented foods.</li>
+
+<li>Paddy (Rice): A staple food crop grown in the flooded fields of India, used for making rice and a variety of traditional dishes.</li>
+
+<li>Oilseeds: Sunflower, Safflower, and Niger are important oilseeds grown in India.</li>
+
+<li>Horticultural crops: Mangoes, bananas, papayas, guavas, and pineapples are some of the important horticultural crops grown in India.</li></ol>
+
+These are some of the diverse crops grown in India, reflecting the country's diverse agro-climatic conditions and its rich agricultural heritage. Indian agriculture is characterized by the cultivation of a wide range of crops, from staple foods to cash crops, which play a crucial role in the livelihoods of millions of people and the economy of the country as a whole.
+<br><br>
+<b>Interesting facts about crops in India:</b>
+<br>
+<ul><li>India is one of the largest producers of several crops in the world, including rice, wheat, sugarcane, cotton, and jute.</li>
+
+<li>The country is also one of the largest producers of spices, including turmeric, cardamom, and black pepper.</li>
+
+<li>Indian agriculture is characterized by a high degree of diversity, with a wide range of crops grown in different regions of the country, from the tropical regions of the south to the temperate regions of the north.
+</li>
+<li>Indian farmers have a long history of innovation and adaptation, developing new crop varieties and practices that are well-suited to the country's diverse agro-climatic conditions.</li></ul>
+
+Despite the many challenges facing Indian agriculture, such as declining soil fertility, water scarcity, and climate change, the sector continues to be a major source of food and livelihood for millions of people.
+
+In recent years, the Indian government has launched several initiatives aimed at modernizing and improving the agriculture sector, including investment in infrastructure, research and development, and extension services.
+
+These are just a few of the many aspects of crops and agriculture in India, a sector that is of great importance to the country and its people.
+              </p>
+              <!-- Image Gallery -->
+         <div class="row">
+                <div class="column">
+                  <img src="/static/images/c1.png" class="img-fluid" width="100" height="100">
+                </div>
+                <div class="column">
+                  <img src="/static/images/c2.png" class="img-fluid" width="100" height="100">
+                </div>
+                <div class="column">
+                    <img src="/static/images/c3.png" class="img-fluid" width="100" height="100">
+                  </div>
+                  <div class="column">
+                    <img src="/static/images/c5.png" class="img-fluid" width="100" height="100">
+                  </div>
+              </div>
+              <!-- // Famous Things -->
+              
+            </div>
+          </div>
+        </section>
+  <br>
+      </main>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+
+   <!-- Footer -->
+<footer>
+    <div class="footer">
+      <div class="footer-content">
+        <div class="footer-section about">
+          <h1 class="logo-text">
+            <span class="logo-span">SHV</span>
+            <span class="logo-span">C</span>oders
+          </h1>
+          <p class="footer-para">
+          Thanks for visiting crops world
+          </p>
+          <div class="contact">
+            <span
+              ><i class="fas fa-envelope"></i>&nbsp;
+              cropworld@gmail.com</span
+            >
+            <br>
+            
+          </div>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        &copy; | Designed By SHVCoders
+      </div>
+    </div>
+  </footer>
+  <!-- // Footer -->
+
+  <script>
+      $SCRIPT_ROOT = {{request.script_root|tojson}};
+  </script>
+  <script type="text/javascript" src="/static/js/app.js"></script>
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+      <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.3/dist/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.1.3/dist/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+
+  </body>
+</html>

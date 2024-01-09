@@ -1,0 +1,5771 @@
+{
+    "ANDAMAN And NICOBAR ISLANDS_NICOBAR": {
+        "STATE_UT_NAME": "ANDAMAN And NICOBAR ISLANDS",
+        "DISTRICT": "NICOBAR",
+        "ANNUAL": "2805.2",
+        "Jan-Feb": "165.2",
+        "Mar-May": "540.7",
+        "Jun-Sep": "1207.2",
+        "Oct-Dec": "892.1"
+    },
+    "ANDAMAN And NICOBAR ISLANDS_SOUTH ANDAMAN": {
+        "STATE_UT_NAME": "ANDAMAN And NICOBAR ISLANDS",
+        "DISTRICT": "SOUTH ANDAMAN",
+        "ANNUAL": "3015.7",
+        "Jan-Feb": "69.7",
+        "Mar-May": "483.5",
+        "Jun-Sep": "1757.2",
+        "Oct-Dec": "705.3"
+    },
+    "ANDAMAN And NICOBAR ISLANDS_N & M ANDAMAN": {
+        "STATE_UT_NAME": "ANDAMAN And NICOBAR ISLANDS",
+        "DISTRICT": "N & M ANDAMAN",
+        "ANNUAL": "2913.3",
+        "Jan-Feb": "48.6",
+        "Mar-May": "405.6",
+        "Jun-Sep": "1884.4",
+        "Oct-Dec": "574.7"
+    },
+    "ARUNACHAL PRADESH_LOHIT": {
+        "STATE_UT_NAME": "ARUNACHAL PRADESH",
+        "DISTRICT": "LOHIT",
+        "ANNUAL": "3043.8",
+        "Jan-Feb": "123",
+        "Mar-May": "841.3",
+        "Jun-Sep": "1848.5",
+        "Oct-Dec": "231"
+    },
+    "ARUNACHAL PRADESH_EAST SIANG": {
+        "STATE_UT_NAME": "ARUNACHAL PRADESH",
+        "DISTRICT": "EAST SIANG",
+        "ANNUAL": "4034.7",
+        "Jan-Feb": "112.8",
+        "Mar-May": "645.4",
+        "Jun-Sep": "3008.4",
+        "Oct-Dec": "268.1"
+    },
+    "ARUNACHAL PRADESH_SUBANSIRI F.D": {
+        "STATE_UT_NAME": "ARUNACHAL PRADESH",
+        "DISTRICT": "SUBANSIRI F.D",
+        "ANNUAL": "1300.4",
+        "Jan-Feb": "76.3",
+        "Mar-May": "327.3",
+        "Jun-Sep": "788.4",
+        "Oct-Dec": "108.4"
+    },
+    "ARUNACHAL PRADESH_TIRAP": {
+        "STATE_UT_NAME": "ARUNACHAL PRADESH",
+        "DISTRICT": "TIRAP",
+        "ANNUAL": "3571.5",
+        "Jan-Feb": "114.9",
+        "Mar-May": "786.6",
+        "Jun-Sep": "2385.5",
+        "Oct-Dec": "284.5"
+    },
+    "ARUNACHAL PRADESH_ANJAW (LOHIT)": {
+        "STATE_UT_NAME": "ARUNACHAL PRADESH",
+        "DISTRICT": "ANJAW (LOHIT)",
+        "ANNUAL": "3043.8",
+        "Jan-Feb": "123",
+        "Mar-May": "841.3",
+        "Jun-Sep": "1848.5",
+        "Oct-Dec": "231"
+    },
+    "ARUNACHAL PRADESH_LOWER DIBANG": {
+        "STATE_UT_NAME": "ARUNACHAL PRADESH",
+        "DISTRICT": "LOWER DIBANG",
+        "ANNUAL": "2553.3",
+        "Jan-Feb": "237.6",
+        "Mar-May": "955.1",
+        "Jun-Sep": "1073.4",
+        "Oct-Dec": "287.2"
+    },
+    "ARUNACHAL PRADESH_CHANGLANG": {
+        "STATE_UT_NAME": "ARUNACHAL PRADESH",
+        "DISTRICT": "CHANGLANG",
+        "ANNUAL": "3543.9",
+        "Jan-Feb": "241.2",
+        "Mar-May": "1256.5",
+        "Jun-Sep": "1632.1",
+        "Oct-Dec": "414.1"
+    },
+    "ARUNACHAL PRADESH_PAPUM PARE": {
+        "STATE_UT_NAME": "ARUNACHAL PRADESH",
+        "DISTRICT": "PAPUM PARE",
+        "ANNUAL": "3378.2",
+        "Jan-Feb": "101.3",
+        "Mar-May": "786",
+        "Jun-Sep": "2245.7",
+        "Oct-Dec": "245.2"
+    },
+    "ARUNACHAL PRADESH_LOW SUBANSIRI": {
+        "STATE_UT_NAME": "ARUNACHAL PRADESH",
+        "DISTRICT": "LOW SUBANSIRI",
+        "ANNUAL": "1921.1",
+        "Jan-Feb": "206.8",
+        "Mar-May": "562.9",
+        "Jun-Sep": "996.2",
+        "Oct-Dec": "155.2"
+    },
+    "ARUNACHAL PRADESH_UPPER SIANG": {
+        "STATE_UT_NAME": "ARUNACHAL PRADESH",
+        "DISTRICT": "UPPER SIANG",
+        "ANNUAL": "4402.1",
+        "Jan-Feb": "251",
+        "Mar-May": "1168.8",
+        "Jun-Sep": "2558.8",
+        "Oct-Dec": "423.5"
+    },
+    "ARUNACHAL PRADESH_WEST SIANG": {
+        "STATE_UT_NAME": "ARUNACHAL PRADESH",
+        "DISTRICT": "WEST SIANG",
+        "ANNUAL": "2440.7",
+        "Jan-Feb": "92.7",
+        "Mar-May": "545.5",
+        "Jun-Sep": "1612.5",
+        "Oct-Dec": "190"
+    },
+    "ARUNACHAL PRADESH_DIBANG VALLEY": {
+        "STATE_UT_NAME": "ARUNACHAL PRADESH",
+        "DISTRICT": "DIBANG VALLEY",
+        "ANNUAL": "2553.3",
+        "Jan-Feb": "237.6",
+        "Mar-May": "955.1",
+        "Jun-Sep": "1073.4",
+        "Oct-Dec": "287.2"
+    },
+    "ARUNACHAL PRADESH_WEST KAMENG": {
+        "STATE_UT_NAME": "ARUNACHAL PRADESH",
+        "DISTRICT": "WEST KAMENG",
+        "ANNUAL": "3399.4",
+        "Jan-Feb": "78.7",
+        "Mar-May": "534.3",
+        "Jun-Sep": "2485.2",
+        "Oct-Dec": "301.2"
+    },
+    "ARUNACHAL PRADESH_EAST KAMENG": {
+        "STATE_UT_NAME": "ARUNACHAL PRADESH",
+        "DISTRICT": "EAST KAMENG",
+        "ANNUAL": "2030.9",
+        "Jan-Feb": "123.4",
+        "Mar-May": "461.4",
+        "Jun-Sep": "1246.3",
+        "Oct-Dec": "199.8"
+    },
+    "ARUNACHAL PRADESH_TAWANG(W KAME": {
+        "STATE_UT_NAME": "ARUNACHAL PRADESH",
+        "DISTRICT": "TAWANG(W KAME",
+        "ANNUAL": "3399.4",
+        "Jan-Feb": "78.7",
+        "Mar-May": "534.3",
+        "Jun-Sep": "2485.2",
+        "Oct-Dec": "301.2"
+    },
+    "ARUNACHAL PRADESH_KURUNG KUMEY": {
+        "STATE_UT_NAME": "ARUNACHAL PRADESH",
+        "DISTRICT": "KURUNG KUMEY",
+        "ANNUAL": "2221.5",
+        "Jan-Feb": "152.7",
+        "Mar-May": "645.3",
+        "Jun-Sep": "1256.5",
+        "Oct-Dec": "167"
+    },
+    "ASSAM_CACHAR": {
+        "STATE_UT_NAME": "ASSAM",
+        "DISTRICT": "CACHAR",
+        "ANNUAL": "2999.2",
+        "Jan-Feb": "63.5",
+        "Mar-May": "817.2",
+        "Jun-Sep": "1889.9",
+        "Oct-Dec": "228.6"
+    },
+    "ASSAM_DARRANG": {
+        "STATE_UT_NAME": "ASSAM",
+        "DISTRICT": "DARRANG",
+        "ANNUAL": "1957.8",
+        "Jan-Feb": "34.5",
+        "Mar-May": "542.3",
+        "Jun-Sep": "1259.1",
+        "Oct-Dec": "121.9"
+    },
+    "ASSAM_GOALPARA": {
+        "STATE_UT_NAME": "ASSAM",
+        "DISTRICT": "GOALPARA",
+        "ANNUAL": "2575.3",
+        "Jan-Feb": "33.1",
+        "Mar-May": "647.5",
+        "Jun-Sep": "1710.1",
+        "Oct-Dec": "184.6"
+    },
+    "ASSAM_KAMRUP": {
+        "STATE_UT_NAME": "ASSAM",
+        "DISTRICT": "KAMRUP",
+        "ANNUAL": "1813.4",
+        "Jan-Feb": "32.8",
+        "Mar-May": "503.7",
+        "Jun-Sep": "1147.7",
+        "Oct-Dec": "129.2"
+    },
+    "ASSAM_LAKHIMPUR": {
+        "STATE_UT_NAME": "ASSAM",
+        "DISTRICT": "LAKHIMPUR",
+        "ANNUAL": "2859.3",
+        "Jan-Feb": "76.3",
+        "Mar-May": "574.1",
+        "Jun-Sep": "2025.2",
+        "Oct-Dec": "183.7"
+    },
+    "ASSAM_NORTH CACHAR": {
+        "STATE_UT_NAME": "ASSAM",
+        "DISTRICT": "NORTH CACHAR",
+        "ANNUAL": "1977.5",
+        "Jan-Feb": "64.2",
+        "Mar-May": "674.8",
+        "Jun-Sep": "988.8",
+        "Oct-Dec": "249.7"
+    },
+    "ASSAM_NAGAON": {
+        "STATE_UT_NAME": "ASSAM",
+        "DISTRICT": "NAGAON",
+        "ANNUAL": "1660.1",
+        "Jan-Feb": "34.5",
+        "Mar-May": "348.3",
+        "Jun-Sep": "1124.9",
+        "Oct-Dec": "152.4"
+    },
+    "ASSAM_SIVASAGAR": {
+        "STATE_UT_NAME": "ASSAM",
+        "DISTRICT": "SIVASAGAR",
+        "ANNUAL": "1811.6",
+        "Jan-Feb": "53.3",
+        "Mar-May": "461.9",
+        "Jun-Sep": "1169.5",
+        "Oct-Dec": "126.9"
+    },
+    "ASSAM_BARPETA": {
+        "STATE_UT_NAME": "ASSAM",
+        "DISTRICT": "BARPETA",
+        "ANNUAL": "3274.6",
+        "Jan-Feb": "37.2",
+        "Mar-May": "621.2",
+        "Jun-Sep": "2441",
+        "Oct-Dec": "175.2"
+    },
+    "ASSAM_DHUBRI": {
+        "STATE_UT_NAME": "ASSAM",
+        "DISTRICT": "DHUBRI",
+        "ANNUAL": "2702.6",
+        "Jan-Feb": "22",
+        "Mar-May": "585.7",
+        "Jun-Sep": "1916.5",
+        "Oct-Dec": "178.4"
+    },
+    "ASSAM_DIBRUGARH": {
+        "STATE_UT_NAME": "ASSAM",
+        "DISTRICT": "DIBRUGARH",
+        "ANNUAL": "2556.6",
+        "Jan-Feb": "83.7",
+        "Mar-May": "642.1",
+        "Jun-Sep": "1651.4",
+        "Oct-Dec": "179.4"
+    },
+    "ASSAM_JORHAT": {
+        "STATE_UT_NAME": "ASSAM",
+        "DISTRICT": "JORHAT",
+        "ANNUAL": "2083",
+        "Jan-Feb": "58.9",
+        "Mar-May": "562.1",
+        "Jun-Sep": "1299.1",
+        "Oct-Dec": "162.9"
+    },
+    "ASSAM_KARIMGANJ": {
+        "STATE_UT_NAME": "ASSAM",
+        "DISTRICT": "KARIMGANJ",
+        "ANNUAL": "3650.8",
+        "Jan-Feb": "48.4",
+        "Mar-May": "1114.1",
+        "Jun-Sep": "2147.9",
+        "Oct-Dec": "340.4"
+    },
+    "ASSAM_KOKRAJHAR": {
+        "STATE_UT_NAME": "ASSAM",
+        "DISTRICT": "KOKRAJHAR",
+        "ANNUAL": "3772.2",
+        "Jan-Feb": "38.8",
+        "Mar-May": "723.3",
+        "Jun-Sep": "2826.4",
+        "Oct-Dec": "183.7"
+    },
+    "ASSAM_SHONITPUR": {
+        "STATE_UT_NAME": "ASSAM",
+        "DISTRICT": "SHONITPUR",
+        "ANNUAL": "1978.5",
+        "Jan-Feb": "42.5",
+        "Mar-May": "478.4",
+        "Jun-Sep": "1314.4",
+        "Oct-Dec": "143.2"
+    },
+    "ASSAM_GOLAGHAT": {
+        "STATE_UT_NAME": "ASSAM",
+        "DISTRICT": "GOLAGHAT",
+        "ANNUAL": "1680.7",
+        "Jan-Feb": "46.4",
+        "Mar-May": "446.7",
+        "Jun-Sep": "1049.6",
+        "Oct-Dec": "138"
+    },
+    "ASSAM_TINSUKIA": {
+        "STATE_UT_NAME": "ASSAM",
+        "DISTRICT": "TINSUKIA",
+        "ANNUAL": "2485.3",
+        "Jan-Feb": "85",
+        "Mar-May": "619.8",
+        "Jun-Sep": "1617.8",
+        "Oct-Dec": "162.7"
+    },
+    "ASSAM_HAILAKANDI": {
+        "STATE_UT_NAME": "ASSAM",
+        "DISTRICT": "HAILAKANDI",
+        "ANNUAL": "2645.6",
+        "Jan-Feb": "49.3",
+        "Mar-May": "779",
+        "Jun-Sep": "1621.1",
+        "Oct-Dec": "196.2"
+    },
+    "ASSAM_DHEMAJI(LAKHI": {
+        "STATE_UT_NAME": "ASSAM",
+        "DISTRICT": "DHEMAJI(LAKHI",
+        "ANNUAL": "2859.3",
+        "Jan-Feb": "76.3",
+        "Mar-May": "574.1",
+        "Jun-Sep": "2025.2",
+        "Oct-Dec": "183.7"
+    },
+    "ASSAM_KARBI ANGLONG": {
+        "STATE_UT_NAME": "ASSAM",
+        "DISTRICT": "KARBI ANGLONG",
+        "ANNUAL": "1341",
+        "Jan-Feb": "36.9",
+        "Mar-May": "299.5",
+        "Jun-Sep": "867",
+        "Oct-Dec": "137.6"
+    },
+    "ASSAM_UDALGURI(DARA": {
+        "STATE_UT_NAME": "ASSAM",
+        "DISTRICT": "UDALGURI(DARA",
+        "ANNUAL": "1957.8",
+        "Jan-Feb": "34.5",
+        "Mar-May": "542.3",
+        "Jun-Sep": "1259.1",
+        "Oct-Dec": "121.9"
+    },
+    "ASSAM_KAMRUP METROP": {
+        "STATE_UT_NAME": "ASSAM",
+        "DISTRICT": "KAMRUP METROP",
+        "ANNUAL": "1813.4",
+        "Jan-Feb": "32.8",
+        "Mar-May": "503.7",
+        "Jun-Sep": "1147.7",
+        "Oct-Dec": "129.2"
+    },
+    "ASSAM_CHIRANG(BONGAI": {
+        "STATE_UT_NAME": "ASSAM",
+        "DISTRICT": "CHIRANG(BONGAI",
+        "ANNUAL": "3218.7",
+        "Jan-Feb": "41.2",
+        "Mar-May": "682.9",
+        "Jun-Sep": "2296.1",
+        "Oct-Dec": "198.5"
+    },
+    "ASSAM_BAKSA BARPETA": {
+        "STATE_UT_NAME": "ASSAM",
+        "DISTRICT": "BAKSA BARPETA",
+        "ANNUAL": "3274.6",
+        "Jan-Feb": "37.2",
+        "Mar-May": "621.2",
+        "Jun-Sep": "2441",
+        "Oct-Dec": "175.2"
+    },
+    "ASSAM_BONGAIGAON": {
+        "STATE_UT_NAME": "ASSAM",
+        "DISTRICT": "BONGAIGAON",
+        "ANNUAL": "3218.7",
+        "Jan-Feb": "41.2",
+        "Mar-May": "682.9",
+        "Jun-Sep": "2296.1",
+        "Oct-Dec": "198.5"
+    },
+    "ASSAM_MORIGAON": {
+        "STATE_UT_NAME": "ASSAM",
+        "DISTRICT": "MORIGAON",
+        "ANNUAL": "1743.5",
+        "Jan-Feb": "43.1",
+        "Mar-May": "337.5",
+        "Jun-Sep": "1215.5",
+        "Oct-Dec": "147.4"
+    },
+    "ASSAM_NALBARI": {
+        "STATE_UT_NAME": "ASSAM",
+        "DISTRICT": "NALBARI",
+        "ANNUAL": "2356.6",
+        "Jan-Feb": "33.5",
+        "Mar-May": "622",
+        "Jun-Sep": "1564.3",
+        "Oct-Dec": "136.8"
+    },
+    "MEGHALAYA_EAST KHASI HI": {
+        "STATE_UT_NAME": "MEGHALAYA",
+        "DISTRICT": "EAST KHASI HI",
+        "ANNUAL": "6166.1",
+        "Jan-Feb": "39.5",
+        "Mar-May": "1175.9",
+        "Jun-Sep": "4621.8",
+        "Oct-Dec": "328.9"
+    },
+    "MEGHALAYA_JAINTIA HILLS": {
+        "STATE_UT_NAME": "MEGHALAYA",
+        "DISTRICT": "JAINTIA HILLS",
+        "ANNUAL": "6379.9",
+        "Jan-Feb": "77.9",
+        "Mar-May": "996.2",
+        "Jun-Sep": "4667.5",
+        "Oct-Dec": "638.3"
+    },
+    "MEGHALAYA_EAST GARO HIL": {
+        "STATE_UT_NAME": "MEGHALAYA",
+        "DISTRICT": "EAST GARO HIL",
+        "ANNUAL": "2554.4",
+        "Jan-Feb": "21.6",
+        "Mar-May": "660.6",
+        "Jun-Sep": "1671.5",
+        "Oct-Dec": "200.7"
+    },
+    "MEGHALAYA_RI-BHOI": {
+        "STATE_UT_NAME": "MEGHALAYA",
+        "DISTRICT": "RI-BHOI",
+        "ANNUAL": "2116.9",
+        "Jan-Feb": "31.3",
+        "Mar-May": "446.2",
+        "Jun-Sep": "1479.5",
+        "Oct-Dec": "159.9"
+    },
+    "MEGHALAYA_SOUTH GARO HI": {
+        "STATE_UT_NAME": "MEGHALAYA",
+        "DISTRICT": "SOUTH GARO HI",
+        "ANNUAL": "2459.8",
+        "Jan-Feb": "17.5",
+        "Mar-May": "579.6",
+        "Jun-Sep": "1681.5",
+        "Oct-Dec": "181.2"
+    },
+    "MEGHALAYA_W KHASI HILL": {
+        "STATE_UT_NAME": "MEGHALAYA",
+        "DISTRICT": "W KHASI HILL",
+        "ANNUAL": "3643",
+        "Jan-Feb": "50.8",
+        "Mar-May": "574.1",
+        "Jun-Sep": "2775",
+        "Oct-Dec": "243.1"
+    },
+    "MEGHALAYA_WEST GARO HIL": {
+        "STATE_UT_NAME": "MEGHALAYA",
+        "DISTRICT": "WEST GARO HIL",
+        "ANNUAL": "2459.8",
+        "Jan-Feb": "17.5",
+        "Mar-May": "579.6",
+        "Jun-Sep": "1681.5",
+        "Oct-Dec": "181.2"
+    },
+    "MANIPUR_IMPHAL EAST": {
+        "STATE_UT_NAME": "MANIPUR",
+        "DISTRICT": "IMPHAL EAST",
+        "ANNUAL": "1839.2",
+        "Jan-Feb": "47.8",
+        "Mar-May": "438.9",
+        "Jun-Sep": "1164.2",
+        "Oct-Dec": "188.3"
+    },
+    "MANIPUR_SENAPATI": {
+        "STATE_UT_NAME": "MANIPUR",
+        "DISTRICT": "SENAPATI",
+        "ANNUAL": "1922.6",
+        "Jan-Feb": "43.2",
+        "Mar-May": "370.6",
+        "Jun-Sep": "1281",
+        "Oct-Dec": "227.8"
+    },
+    "MANIPUR_TAMENGLONG": {
+        "STATE_UT_NAME": "MANIPUR",
+        "DISTRICT": "TAMENGLONG",
+        "ANNUAL": "7229.3",
+        "Jan-Feb": "278.1",
+        "Mar-May": "1195.9",
+        "Jun-Sep": "5228",
+        "Oct-Dec": "527.3"
+    },
+    "MANIPUR_CHANDEL": {
+        "STATE_UT_NAME": "MANIPUR",
+        "DISTRICT": "CHANDEL",
+        "ANNUAL": "2647.5",
+        "Jan-Feb": "36.4",
+        "Mar-May": "293.2",
+        "Jun-Sep": "2007.1",
+        "Oct-Dec": "310.8"
+    },
+    "MANIPUR_UKHRUL": {
+        "STATE_UT_NAME": "MANIPUR",
+        "DISTRICT": "UKHRUL",
+        "ANNUAL": "1549",
+        "Jan-Feb": "50.6",
+        "Mar-May": "255.7",
+        "Jun-Sep": "1057.5",
+        "Oct-Dec": "185.2"
+    },
+    "MANIPUR_THOUBAL": {
+        "STATE_UT_NAME": "MANIPUR",
+        "DISTRICT": "THOUBAL",
+        "ANNUAL": "1286.3",
+        "Jan-Feb": "41.5",
+        "Mar-May": "279.4",
+        "Jun-Sep": "833.6",
+        "Oct-Dec": "131.8"
+    },
+    "MANIPUR_BISHNUPUR": {
+        "STATE_UT_NAME": "MANIPUR",
+        "DISTRICT": "BISHNUPUR",
+        "ANNUAL": "2127.5",
+        "Jan-Feb": "104.5",
+        "Mar-May": "379.8",
+        "Jun-Sep": "1334.3",
+        "Oct-Dec": "308.9"
+    },
+    "MANIPUR_IMPHAL WEST": {
+        "STATE_UT_NAME": "MANIPUR",
+        "DISTRICT": "IMPHAL WEST",
+        "ANNUAL": "1530.9",
+        "Jan-Feb": "53.3",
+        "Mar-May": "307.5",
+        "Jun-Sep": "971.8",
+        "Oct-Dec": "198.3"
+    },
+    "MANIPUR_CHURACHANDPUR": {
+        "STATE_UT_NAME": "MANIPUR",
+        "DISTRICT": "CHURACHANDPUR",
+        "ANNUAL": "2337.4",
+        "Jan-Feb": "44.1",
+        "Mar-May": "498",
+        "Jun-Sep": "1560.6",
+        "Oct-Dec": "234.7"
+    },
+    "MIZORAM_AIZAWL": {
+        "STATE_UT_NAME": "MIZORAM",
+        "DISTRICT": "AIZAWL",
+        "ANNUAL": "2814.4",
+        "Jan-Feb": "45",
+        "Mar-May": "645.1",
+        "Jun-Sep": "1788",
+        "Oct-Dec": "336.3"
+    },
+    "MIZORAM_CHAMPHAI": {
+        "STATE_UT_NAME": "MIZORAM",
+        "DISTRICT": "CHAMPHAI",
+        "ANNUAL": "2168.6",
+        "Jan-Feb": "35.2",
+        "Mar-May": "467.2",
+        "Jun-Sep": "1352.5",
+        "Oct-Dec": "313.7"
+    },
+    "MIZORAM_KOLASIB": {
+        "STATE_UT_NAME": "MIZORAM",
+        "DISTRICT": "KOLASIB",
+        "ANNUAL": "2660",
+        "Jan-Feb": "53.4",
+        "Mar-May": "631.5",
+        "Jun-Sep": "1692.5",
+        "Oct-Dec": "282.6"
+    },
+    "MIZORAM_LUNGLEI": {
+        "STATE_UT_NAME": "MIZORAM",
+        "DISTRICT": "LUNGLEI",
+        "ANNUAL": "2731.1",
+        "Jan-Feb": "27.3",
+        "Mar-May": "517.6",
+        "Jun-Sep": "1866.3",
+        "Oct-Dec": "319.9"
+    },
+    "MIZORAM_CHHIMTUIPUI": {
+        "STATE_UT_NAME": "MIZORAM",
+        "DISTRICT": "CHHIMTUIPUI",
+        "ANNUAL": "2814.4",
+        "Jan-Feb": "45",
+        "Mar-May": "645.1",
+        "Jun-Sep": "1788",
+        "Oct-Dec": "336.3"
+    },
+    "MIZORAM_LAWNGTLAI": {
+        "STATE_UT_NAME": "MIZORAM",
+        "DISTRICT": "LAWNGTLAI",
+        "ANNUAL": "2557.6",
+        "Jan-Feb": "35.8",
+        "Mar-May": "509.4",
+        "Jun-Sep": "1705.7",
+        "Oct-Dec": "306.7"
+    },
+    "MIZORAM_MAMIT": {
+        "STATE_UT_NAME": "MIZORAM",
+        "DISTRICT": "MAMIT",
+        "ANNUAL": "2814.4",
+        "Jan-Feb": "45",
+        "Mar-May": "645.1",
+        "Jun-Sep": "1788",
+        "Oct-Dec": "336.3"
+    },
+    "MIZORAM_SAIHA": {
+        "STATE_UT_NAME": "MIZORAM",
+        "DISTRICT": "SAIHA",
+        "ANNUAL": "2480.6",
+        "Jan-Feb": "37.7",
+        "Mar-May": "521.8",
+        "Jun-Sep": "1622.6",
+        "Oct-Dec": "298.5"
+    },
+    "MIZORAM_SERCHHIP": {
+        "STATE_UT_NAME": "MIZORAM",
+        "DISTRICT": "SERCHHIP",
+        "ANNUAL": "2505.8",
+        "Jan-Feb": "49.2",
+        "Mar-May": "548.8",
+        "Jun-Sep": "1650.4",
+        "Oct-Dec": "257.4"
+    },
+    "NAGALAND_KOHIMA": {
+        "STATE_UT_NAME": "NAGALAND",
+        "DISTRICT": "KOHIMA",
+        "ANNUAL": "1824.8",
+        "Jan-Feb": "41.1",
+        "Mar-May": "307.6",
+        "Jun-Sep": "1308",
+        "Oct-Dec": "168.1"
+    },
+    "NAGALAND_TUENSANG": {
+        "STATE_UT_NAME": "NAGALAND",
+        "DISTRICT": "TUENSANG",
+        "ANNUAL": "2080",
+        "Jan-Feb": "50.5",
+        "Mar-May": "468.6",
+        "Jun-Sep": "1386.1",
+        "Oct-Dec": "174.8"
+    },
+    "NAGALAND_MOKOKCHUNG": {
+        "STATE_UT_NAME": "NAGALAND",
+        "DISTRICT": "MOKOKCHUNG",
+        "ANNUAL": "2409.8",
+        "Jan-Feb": "54.5",
+        "Mar-May": "486.3",
+        "Jun-Sep": "1676.1",
+        "Oct-Dec": "192.9"
+    },
+    "NAGALAND_DIMAPUR": {
+        "STATE_UT_NAME": "NAGALAND",
+        "DISTRICT": "DIMAPUR",
+        "ANNUAL": "1305.9",
+        "Jan-Feb": "18.8",
+        "Mar-May": "286.8",
+        "Jun-Sep": "815.3",
+        "Oct-Dec": "185"
+    },
+    "NAGALAND_WOKHA": {
+        "STATE_UT_NAME": "NAGALAND",
+        "DISTRICT": "WOKHA",
+        "ANNUAL": "2497.7",
+        "Jan-Feb": "62.5",
+        "Mar-May": "566.6",
+        "Jun-Sep": "1668.7",
+        "Oct-Dec": "199.9"
+    },
+    "NAGALAND_MON": {
+        "STATE_UT_NAME": "NAGALAND",
+        "DISTRICT": "MON",
+        "ANNUAL": "1339.9",
+        "Jan-Feb": "46.6",
+        "Mar-May": "380",
+        "Jun-Sep": "823.9",
+        "Oct-Dec": "89.4"
+    },
+    "NAGALAND_ZUNHEBOTO": {
+        "STATE_UT_NAME": "NAGALAND",
+        "DISTRICT": "ZUNHEBOTO",
+        "ANNUAL": "2080",
+        "Jan-Feb": "50.5",
+        "Mar-May": "468.6",
+        "Jun-Sep": "1386.1",
+        "Oct-Dec": "174.8"
+    },
+    "NAGALAND_PHEK": {
+        "STATE_UT_NAME": "NAGALAND",
+        "DISTRICT": "PHEK",
+        "ANNUAL": "1824.8",
+        "Jan-Feb": "41.1",
+        "Mar-May": "307.6",
+        "Jun-Sep": "1308",
+        "Oct-Dec": "168.1"
+    },
+    "NAGALAND_KEPHRIE": {
+        "STATE_UT_NAME": "NAGALAND",
+        "DISTRICT": "KEPHRIE",
+        "ANNUAL": "2080",
+        "Jan-Feb": "50.5",
+        "Mar-May": "468.6",
+        "Jun-Sep": "1386.1",
+        "Oct-Dec": "174.8"
+    },
+    "NAGALAND_LONGLENG": {
+        "STATE_UT_NAME": "NAGALAND",
+        "DISTRICT": "LONGLENG",
+        "ANNUAL": "2080",
+        "Jan-Feb": "50.5",
+        "Mar-May": "468.6",
+        "Jun-Sep": "1386.1",
+        "Oct-Dec": "174.8"
+    },
+    "NAGALAND_PEREN": {
+        "STATE_UT_NAME": "NAGALAND",
+        "DISTRICT": "PEREN",
+        "ANNUAL": "1824.8",
+        "Jan-Feb": "41.1",
+        "Mar-May": "307.6",
+        "Jun-Sep": "1308",
+        "Oct-Dec": "168.1"
+    },
+    "TRIPURA_NORTH TRIPURA": {
+        "STATE_UT_NAME": "TRIPURA",
+        "DISTRICT": "NORTH TRIPURA",
+        "ANNUAL": "2641.8",
+        "Jan-Feb": "50.8",
+        "Mar-May": "831.3",
+        "Jun-Sep": "1527.7",
+        "Oct-Dec": "232"
+    },
+    "TRIPURA_SOUTH TRIPURA": {
+        "STATE_UT_NAME": "TRIPURA",
+        "DISTRICT": "SOUTH TRIPURA",
+        "ANNUAL": "2475.4",
+        "Jan-Feb": "38.7",
+        "Mar-May": "583.2",
+        "Jun-Sep": "1624.2",
+        "Oct-Dec": "229.3"
+    },
+    "TRIPURA_WEST TRIPURA": {
+        "STATE_UT_NAME": "TRIPURA",
+        "DISTRICT": "WEST TRIPURA",
+        "ANNUAL": "2286.7",
+        "Jan-Feb": "37.5",
+        "Mar-May": "626.2",
+        "Jun-Sep": "1396.3",
+        "Oct-Dec": "226.7"
+    },
+    "TRIPURA_DHALAI": {
+        "STATE_UT_NAME": "TRIPURA",
+        "DISTRICT": "DHALAI",
+        "ANNUAL": "2512.6",
+        "Jan-Feb": "52.5",
+        "Mar-May": "783.1",
+        "Jun-Sep": "1440.7",
+        "Oct-Dec": "236.3"
+    },
+    "WEST BENGAL_COOCH BEHAR": {
+        "STATE_UT_NAME": "WEST BENGAL",
+        "DISTRICT": "COOCH BEHAR",
+        "ANNUAL": "3443.7",
+        "Jan-Feb": "24.9",
+        "Mar-May": "516.5",
+        "Jun-Sep": "2737.6",
+        "Oct-Dec": "164.7"
+    },
+    "WEST BENGAL_DARJEELING": {
+        "STATE_UT_NAME": "WEST BENGAL",
+        "DISTRICT": "DARJEELING",
+        "ANNUAL": "3118.5",
+        "Jan-Feb": "82.1",
+        "Mar-May": "450.5",
+        "Jun-Sep": "2440.3",
+        "Oct-Dec": "145.6"
+    },
+    "WEST BENGAL_JALPAIGURI": {
+        "STATE_UT_NAME": "WEST BENGAL",
+        "DISTRICT": "JALPAIGURI",
+        "ANNUAL": "3468.3",
+        "Jan-Feb": "27",
+        "Mar-May": "498.3",
+        "Jun-Sep": "2757.9",
+        "Oct-Dec": "185.1"
+    },
+    "WEST BENGAL_MALDA": {
+        "STATE_UT_NAME": "WEST BENGAL",
+        "DISTRICT": "MALDA",
+        "ANNUAL": "1419.4",
+        "Jan-Feb": "24.1",
+        "Mar-May": "155.5",
+        "Jun-Sep": "1117.3",
+        "Oct-Dec": "122.5"
+    },
+    "WEST BENGAL_SOUTH DINAJPUR": {
+        "STATE_UT_NAME": "WEST BENGAL",
+        "DISTRICT": "SOUTH DINAJPUR",
+        "ANNUAL": "1584.9",
+        "Jan-Feb": "22.2",
+        "Mar-May": "245.7",
+        "Jun-Sep": "1185.9",
+        "Oct-Dec": "131.1"
+    },
+    "WEST BENGAL_NORTH DINAJPUR": {
+        "STATE_UT_NAME": "WEST BENGAL",
+        "DISTRICT": "NORTH DINAJPUR",
+        "ANNUAL": "1727.6",
+        "Jan-Feb": "23.5",
+        "Mar-May": "206.6",
+        "Jun-Sep": "1394.5",
+        "Oct-Dec": "103"
+    },
+    "SIKKIM_NORTH SIKKIM": {
+        "STATE_UT_NAME": "SIKKIM",
+        "DISTRICT": "NORTH SIKKIM",
+        "ANNUAL": "3094.5",
+        "Jan-Feb": "160.1",
+        "Mar-May": "793.2",
+        "Jun-Sep": "1810.3",
+        "Oct-Dec": "330.9"
+    },
+    "SIKKIM_EAST SIKKIM": {
+        "STATE_UT_NAME": "SIKKIM",
+        "DISTRICT": "EAST SIKKIM",
+        "ANNUAL": "2582.2",
+        "Jan-Feb": "89.6",
+        "Mar-May": "528.9",
+        "Jun-Sep": "1771.2",
+        "Oct-Dec": "192.5"
+    },
+    "SIKKIM_WEST SIKKIM": {
+        "STATE_UT_NAME": "SIKKIM",
+        "DISTRICT": "WEST SIKKIM",
+        "ANNUAL": "3094.5",
+        "Jan-Feb": "160.1",
+        "Mar-May": "793.2",
+        "Jun-Sep": "1810.3",
+        "Oct-Dec": "330.9"
+    },
+    "SIKKIM_SOUTH SIKKIM": {
+        "STATE_UT_NAME": "SIKKIM",
+        "DISTRICT": "SOUTH SIKKIM",
+        "ANNUAL": "2582.2",
+        "Jan-Feb": "89.6",
+        "Mar-May": "528.9",
+        "Jun-Sep": "1771.2",
+        "Oct-Dec": "192.5"
+    },
+    "WEST BENGAL_BANKURA": {
+        "STATE_UT_NAME": "WEST BENGAL",
+        "DISTRICT": "BANKURA",
+        "ANNUAL": "1330.9",
+        "Jan-Feb": "30",
+        "Mar-May": "125.2",
+        "Jun-Sep": "1051.2",
+        "Oct-Dec": "124.5"
+    },
+    "WEST BENGAL_BIRBHUM": {
+        "STATE_UT_NAME": "WEST BENGAL",
+        "DISTRICT": "BIRBHUM",
+        "ANNUAL": "1392.8",
+        "Jan-Feb": "29.5",
+        "Mar-May": "130.8",
+        "Jun-Sep": "1106",
+        "Oct-Dec": "126.5"
+    },
+    "WEST BENGAL_BURDWAN": {
+        "STATE_UT_NAME": "WEST BENGAL",
+        "DISTRICT": "BURDWAN",
+        "ANNUAL": "1315.2",
+        "Jan-Feb": "32.9",
+        "Mar-May": "136.4",
+        "Jun-Sep": "1028.7",
+        "Oct-Dec": "117.2"
+    },
+    "WEST BENGAL_HOOGHLY": {
+        "STATE_UT_NAME": "WEST BENGAL",
+        "DISTRICT": "HOOGHLY",
+        "ANNUAL": "1418.7",
+        "Jan-Feb": "38.5",
+        "Mar-May": "187.3",
+        "Jun-Sep": "1067.9",
+        "Oct-Dec": "125"
+    },
+    "WEST BENGAL_HOWRAH": {
+        "STATE_UT_NAME": "WEST BENGAL",
+        "DISTRICT": "HOWRAH",
+        "ANNUAL": "1600",
+        "Jan-Feb": "37.1",
+        "Mar-May": "211",
+        "Jun-Sep": "1211.4",
+        "Oct-Dec": "140.5"
+    },
+    "WEST BENGAL_PURULIA": {
+        "STATE_UT_NAME": "WEST BENGAL",
+        "DISTRICT": "PURULIA",
+        "ANNUAL": "1363.3",
+        "Jan-Feb": "35",
+        "Mar-May": "118",
+        "Jun-Sep": "1094.5",
+        "Oct-Dec": "115.8"
+    },
+    "WEST BENGAL_MURSHIDABAD": {
+        "STATE_UT_NAME": "WEST BENGAL",
+        "DISTRICT": "MURSHIDABAD",
+        "ANNUAL": "1391.1",
+        "Jan-Feb": "28",
+        "Mar-May": "140",
+        "Jun-Sep": "1079.3",
+        "Oct-Dec": "143.8"
+    },
+    "WEST BENGAL_NADIA": {
+        "STATE_UT_NAME": "WEST BENGAL",
+        "DISTRICT": "NADIA",
+        "ANNUAL": "1261.6",
+        "Jan-Feb": "29.8",
+        "Mar-May": "158.4",
+        "Jun-Sep": "955",
+        "Oct-Dec": "118.4"
+    },
+    "WEST BENGAL_NORTH 24 PARG": {
+        "STATE_UT_NAME": "WEST BENGAL",
+        "DISTRICT": "NORTH 24 PARG",
+        "ANNUAL": "1559.8",
+        "Jan-Feb": "33.4",
+        "Mar-May": "195.2",
+        "Jun-Sep": "1172.8",
+        "Oct-Dec": "158.4"
+    },
+    "WEST BENGAL_SOUTH 24 PARG": {
+        "STATE_UT_NAME": "WEST BENGAL",
+        "DISTRICT": "SOUTH 24 PARG",
+        "ANNUAL": "2088",
+        "Jan-Feb": "40.3",
+        "Mar-May": "204.7",
+        "Jun-Sep": "1552.6",
+        "Oct-Dec": "290.4"
+    },
+    "WEST BENGAL_EAST MIDNAPOR": {
+        "STATE_UT_NAME": "WEST BENGAL",
+        "DISTRICT": "EAST MIDNAPOR",
+        "ANNUAL": "1669.6",
+        "Jan-Feb": "34.5",
+        "Mar-May": "174.6",
+        "Jun-Sep": "1220.3",
+        "Oct-Dec": "240.2"
+    },
+    "WEST BENGAL_WEST MIDNAPOR": {
+        "STATE_UT_NAME": "WEST BENGAL",
+        "DISTRICT": "WEST MIDNAPOR",
+        "ANNUAL": "1535.5",
+        "Jan-Feb": "36.3",
+        "Mar-May": "203.4",
+        "Jun-Sep": "1166.1",
+        "Oct-Dec": "129.7"
+    },
+    "WEST BENGAL_KOLKATA": {
+        "STATE_UT_NAME": "WEST BENGAL",
+        "DISTRICT": "KOLKATA",
+        "ANNUAL": "1709.2",
+        "Jan-Feb": "39.1",
+        "Mar-May": "200",
+        "Jun-Sep": "1281.1",
+        "Oct-Dec": "189"
+    },
+    "ORISSA_BALASORE": {
+        "STATE_UT_NAME": "ORISSA",
+        "DISTRICT": "BALASORE",
+        "ANNUAL": "1679",
+        "Jan-Feb": "47.9",
+        "Mar-May": "218.5",
+        "Jun-Sep": "1177.1",
+        "Oct-Dec": "235.5"
+    },
+    "ORISSA_BOLANGIR": {
+        "STATE_UT_NAME": "ORISSA",
+        "DISTRICT": "BOLANGIR",
+        "ANNUAL": "1370.8",
+        "Jan-Feb": "27",
+        "Mar-May": "80.3",
+        "Jun-Sep": "1174.1",
+        "Oct-Dec": "89.4"
+    },
+    "ORISSA_KANDHAMAL/PHU": {
+        "STATE_UT_NAME": "ORISSA",
+        "DISTRICT": "KANDHAMAL/PHU",
+        "ANNUAL": "1448.3",
+        "Jan-Feb": "38.9",
+        "Mar-May": "134.2",
+        "Jun-Sep": "1122.3",
+        "Oct-Dec": "152.9"
+    },
+    "ORISSA_CUTTACK": {
+        "STATE_UT_NAME": "ORISSA",
+        "DISTRICT": "CUTTACK",
+        "ANNUAL": "1519.7",
+        "Jan-Feb": "41.6",
+        "Mar-May": "146.4",
+        "Jun-Sep": "1162.5",
+        "Oct-Dec": "169.2"
+    },
+    "ORISSA_DHENKANAL": {
+        "STATE_UT_NAME": "ORISSA",
+        "DISTRICT": "DHENKANAL",
+        "ANNUAL": "1469",
+        "Jan-Feb": "28.1",
+        "Mar-May": "140.9",
+        "Jun-Sep": "1144.4",
+        "Oct-Dec": "155.6"
+    },
+    "ORISSA_GANJAM": {
+        "STATE_UT_NAME": "ORISSA",
+        "DISTRICT": "GANJAM",
+        "ANNUAL": "1304.5",
+        "Jan-Feb": "36",
+        "Mar-May": "157.1",
+        "Jun-Sep": "833.4",
+        "Oct-Dec": "278"
+    },
+    "ORISSA_KALAHANDI": {
+        "STATE_UT_NAME": "ORISSA",
+        "DISTRICT": "KALAHANDI",
+        "ANNUAL": "1403",
+        "Jan-Feb": "19.8",
+        "Mar-May": "85.1",
+        "Jun-Sep": "1207.6",
+        "Oct-Dec": "90.5"
+    },
+    "ORISSA_KEONDJHARGARH": {
+        "STATE_UT_NAME": "ORISSA",
+        "DISTRICT": "KEONDJHARGARH",
+        "ANNUAL": "1436.7",
+        "Jan-Feb": "48",
+        "Mar-May": "188.4",
+        "Jun-Sep": "1056.5",
+        "Oct-Dec": "143.8"
+    },
+    "ORISSA_KORAPUT": {
+        "STATE_UT_NAME": "ORISSA",
+        "DISTRICT": "KORAPUT",
+        "ANNUAL": "1622.5",
+        "Jan-Feb": "17.5",
+        "Mar-May": "158.9",
+        "Jun-Sep": "1262.8",
+        "Oct-Dec": "183.3"
+    },
+    "ORISSA_MAYURBHANJ": {
+        "STATE_UT_NAME": "ORISSA",
+        "DISTRICT": "MAYURBHANJ",
+        "ANNUAL": "1660.7",
+        "Jan-Feb": "36.6",
+        "Mar-May": "219.5",
+        "Jun-Sep": "1255.9",
+        "Oct-Dec": "148.7"
+    },
+    "ORISSA_PURI": {
+        "STATE_UT_NAME": "ORISSA",
+        "DISTRICT": "PURI",
+        "ANNUAL": "1416.2",
+        "Jan-Feb": "41.9",
+        "Mar-May": "101.8",
+        "Jun-Sep": "1021.5",
+        "Oct-Dec": "251"
+    },
+    "ORISSA_SAMBALPUR": {
+        "STATE_UT_NAME": "ORISSA",
+        "DISTRICT": "SAMBALPUR",
+        "ANNUAL": "1533.5",
+        "Jan-Feb": "32",
+        "Mar-May": "68.1",
+        "Jun-Sep": "1361.1",
+        "Oct-Dec": "72.3"
+    },
+    "ORISSA_SUNDARGARH": {
+        "STATE_UT_NAME": "ORISSA",
+        "DISTRICT": "SUNDARGARH",
+        "ANNUAL": "1347.8",
+        "Jan-Feb": "35.6",
+        "Mar-May": "72",
+        "Jun-Sep": "1175.9",
+        "Oct-Dec": "64.3"
+    },
+    "ORISSA_BHADRAK": {
+        "STATE_UT_NAME": "ORISSA",
+        "DISTRICT": "BHADRAK",
+        "ANNUAL": "1507.4",
+        "Jan-Feb": "44",
+        "Mar-May": "194.6",
+        "Jun-Sep": "1069.9",
+        "Oct-Dec": "198.9"
+    },
+    "ORISSA_JAJPUR": {
+        "STATE_UT_NAME": "ORISSA",
+        "DISTRICT": "JAJPUR",
+        "ANNUAL": "1541.3",
+        "Jan-Feb": "39",
+        "Mar-May": "173.4",
+        "Jun-Sep": "1154.8",
+        "Oct-Dec": "174.1"
+    },
+    "ORISSA_KENDRAPARA": {
+        "STATE_UT_NAME": "ORISSA",
+        "DISTRICT": "KENDRAPARA",
+        "ANNUAL": "1540.6",
+        "Jan-Feb": "41",
+        "Mar-May": "155.5",
+        "Jun-Sep": "1088.5",
+        "Oct-Dec": "255.6"
+    },
+    "ORISSA_ANGUL": {
+        "STATE_UT_NAME": "ORISSA",
+        "DISTRICT": "ANGUL",
+        "ANNUAL": "1362",
+        "Jan-Feb": "26",
+        "Mar-May": "110.2",
+        "Jun-Sep": "1109.4",
+        "Oct-Dec": "116.4"
+    },
+    "ORISSA_NAWAPARA": {
+        "STATE_UT_NAME": "ORISSA",
+        "DISTRICT": "NAWAPARA",
+        "ANNUAL": "1197.4",
+        "Jan-Feb": "24.3",
+        "Mar-May": "74.8",
+        "Jun-Sep": "1017.2",
+        "Oct-Dec": "81.1"
+    },
+    "ORISSA_MALKANGIRI": {
+        "STATE_UT_NAME": "ORISSA",
+        "DISTRICT": "MALKANGIRI",
+        "ANNUAL": "1572.7",
+        "Jan-Feb": "7.3",
+        "Mar-May": "107.3",
+        "Jun-Sep": "1324.1",
+        "Oct-Dec": "134"
+    },
+    "ORISSA_NAWARANGPUR": {
+        "STATE_UT_NAME": "ORISSA",
+        "DISTRICT": "NAWARANGPUR",
+        "ANNUAL": "1660.5",
+        "Jan-Feb": "18.5",
+        "Mar-May": "172.4",
+        "Jun-Sep": "1347.3",
+        "Oct-Dec": "122.3"
+    },
+    "ORISSA_NAYAGARH": {
+        "STATE_UT_NAME": "ORISSA",
+        "DISTRICT": "NAYAGARH",
+        "ANNUAL": "1450.1",
+        "Jan-Feb": "36.1",
+        "Mar-May": "115.9",
+        "Jun-Sep": "1095.2",
+        "Oct-Dec": "202.9"
+    },
+    "ORISSA_KHURDA": {
+        "STATE_UT_NAME": "ORISSA",
+        "DISTRICT": "KHURDA",
+        "ANNUAL": "1469.5",
+        "Jan-Feb": "36",
+        "Mar-May": "125.8",
+        "Jun-Sep": "1088",
+        "Oct-Dec": "219.7"
+    },
+    "ORISSA_BARGARH": {
+        "STATE_UT_NAME": "ORISSA",
+        "DISTRICT": "BARGARH",
+        "ANNUAL": "1264.9",
+        "Jan-Feb": "23.6",
+        "Mar-May": "52.4",
+        "Jun-Sep": "1125.8",
+        "Oct-Dec": "63.1"
+    },
+    "ORISSA_JHARSUGUDA": {
+        "STATE_UT_NAME": "ORISSA",
+        "DISTRICT": "JHARSUGUDA",
+        "ANNUAL": "1474.3",
+        "Jan-Feb": "37.8",
+        "Mar-May": "73.6",
+        "Jun-Sep": "1281.8",
+        "Oct-Dec": "81.1"
+    },
+    "ORISSA_DEOGARH": {
+        "STATE_UT_NAME": "ORISSA",
+        "DISTRICT": "DEOGARH",
+        "ANNUAL": "1533.5",
+        "Jan-Feb": "32",
+        "Mar-May": "68.1",
+        "Jun-Sep": "1361.1",
+        "Oct-Dec": "72.3"
+    },
+    "ORISSA_RAYAGADA": {
+        "STATE_UT_NAME": "ORISSA",
+        "DISTRICT": "RAYAGADA",
+        "ANNUAL": "1326.9",
+        "Jan-Feb": "35.5",
+        "Mar-May": "188.5",
+        "Jun-Sep": "960.5",
+        "Oct-Dec": "142.4"
+    },
+    "ORISSA_GAJAPATI": {
+        "STATE_UT_NAME": "ORISSA",
+        "DISTRICT": "GAJAPATI",
+        "ANNUAL": "1462.1",
+        "Jan-Feb": "44.5",
+        "Mar-May": "280.1",
+        "Jun-Sep": "930.3",
+        "Oct-Dec": "207.2"
+    },
+    "ORISSA_JAGATSINGHAPU": {
+        "STATE_UT_NAME": "ORISSA",
+        "DISTRICT": "JAGATSINGHAPU",
+        "ANNUAL": "1565",
+        "Jan-Feb": "39.7",
+        "Mar-May": "183.7",
+        "Jun-Sep": "1120.8",
+        "Oct-Dec": "220.8"
+    },
+    "ORISSA_BOUDHGARH": {
+        "STATE_UT_NAME": "ORISSA",
+        "DISTRICT": "BOUDHGARH",
+        "ANNUAL": "1448.3",
+        "Jan-Feb": "38.9",
+        "Mar-May": "134.2",
+        "Jun-Sep": "1122.3",
+        "Oct-Dec": "152.9"
+    },
+    "ORISSA_SONEPUR": {
+        "STATE_UT_NAME": "ORISSA",
+        "DISTRICT": "SONEPUR",
+        "ANNUAL": "1395.4",
+        "Jan-Feb": "20.3",
+        "Mar-May": "63.2",
+        "Jun-Sep": "1243.4",
+        "Oct-Dec": "68.5"
+    },
+    "JHARKHAND_BOKARO": {
+        "STATE_UT_NAME": "JHARKHAND",
+        "DISTRICT": "BOKARO",
+        "ANNUAL": "1247.5",
+        "Jan-Feb": "25.5",
+        "Mar-May": "75.5",
+        "Jun-Sep": "1048.2",
+        "Oct-Dec": "98.3"
+    },
+    "JHARKHAND_DHANBAD": {
+        "STATE_UT_NAME": "JHARKHAND",
+        "DISTRICT": "DHANBAD",
+        "ANNUAL": "1355.2",
+        "Jan-Feb": "29.4",
+        "Mar-May": "87.3",
+        "Jun-Sep": "1122.3",
+        "Oct-Dec": "116.2"
+    },
+    "JHARKHAND_DUMKA": {
+        "STATE_UT_NAME": "JHARKHAND",
+        "DISTRICT": "DUMKA",
+        "ANNUAL": "1381.5",
+        "Jan-Feb": "29.9",
+        "Mar-May": "112.3",
+        "Jun-Sep": "1096.9",
+        "Oct-Dec": "142.4"
+    },
+    "JHARKHAND_HAZARIBAG": {
+        "STATE_UT_NAME": "JHARKHAND",
+        "DISTRICT": "HAZARIBAG",
+        "ANNUAL": "1196",
+        "Jan-Feb": "29.4",
+        "Mar-May": "62",
+        "Jun-Sep": "1005.9",
+        "Oct-Dec": "98.7"
+    },
+    "JHARKHAND_PALAMU": {
+        "STATE_UT_NAME": "JHARKHAND",
+        "DISTRICT": "PALAMU",
+        "ANNUAL": "1095.9",
+        "Jan-Feb": "30.1",
+        "Mar-May": "33",
+        "Jun-Sep": "974.5",
+        "Oct-Dec": "58.3"
+    },
+    "JHARKHAND_RANCHI": {
+        "STATE_UT_NAME": "JHARKHAND",
+        "DISTRICT": "RANCHI",
+        "ANNUAL": "1403.2",
+        "Jan-Feb": "48.7",
+        "Mar-May": "93.6",
+        "Jun-Sep": "1160.2",
+        "Oct-Dec": "100.7"
+    },
+    "JHARKHAND_SAHIBGANJ": {
+        "STATE_UT_NAME": "JHARKHAND",
+        "DISTRICT": "SAHIBGANJ",
+        "ANNUAL": "1553.7",
+        "Jan-Feb": "19.2",
+        "Mar-May": "119.8",
+        "Jun-Sep": "1299.3",
+        "Oct-Dec": "115.4"
+    },
+    "JHARKHAND_WEST SINGHBHUM": {
+        "STATE_UT_NAME": "JHARKHAND",
+        "DISTRICT": "WEST SINGHBHUM",
+        "ANNUAL": "1305.6",
+        "Jan-Feb": "34.7",
+        "Mar-May": "103.7",
+        "Jun-Sep": "1088.4",
+        "Oct-Dec": "78.8"
+    },
+    "JHARKHAND_DEOGHAR": {
+        "STATE_UT_NAME": "JHARKHAND",
+        "DISTRICT": "DEOGHAR",
+        "ANNUAL": "1162.1",
+        "Jan-Feb": "25.5",
+        "Mar-May": "71.1",
+        "Jun-Sep": "976.2",
+        "Oct-Dec": "89.3"
+    },
+    "JHARKHAND_GIRIDIH": {
+        "STATE_UT_NAME": "JHARKHAND",
+        "DISTRICT": "GIRIDIH",
+        "ANNUAL": "1252.7",
+        "Jan-Feb": "21.4",
+        "Mar-May": "72.3",
+        "Jun-Sep": "1065",
+        "Oct-Dec": "94"
+    },
+    "JHARKHAND_GODDA": {
+        "STATE_UT_NAME": "JHARKHAND",
+        "DISTRICT": "GODDA",
+        "ANNUAL": "1144.4",
+        "Jan-Feb": "21.4",
+        "Mar-May": "86",
+        "Jun-Sep": "943.2",
+        "Oct-Dec": "93.8"
+    },
+    "JHARKHAND_GUMLA": {
+        "STATE_UT_NAME": "JHARKHAND",
+        "DISTRICT": "GUMLA",
+        "ANNUAL": "1421.3",
+        "Jan-Feb": "42.6",
+        "Mar-May": "91.7",
+        "Jun-Sep": "1197",
+        "Oct-Dec": "90"
+    },
+    "JHARKHAND_LOHARDAGA": {
+        "STATE_UT_NAME": "JHARKHAND",
+        "DISTRICT": "LOHARDAGA",
+        "ANNUAL": "1197.1",
+        "Jan-Feb": "35",
+        "Mar-May": "77.9",
+        "Jun-Sep": "1005",
+        "Oct-Dec": "79.2"
+    },
+    "JHARKHAND_CHATRA": {
+        "STATE_UT_NAME": "JHARKHAND",
+        "DISTRICT": "CHATRA",
+        "ANNUAL": "1171.9",
+        "Jan-Feb": "37.9",
+        "Mar-May": "34.8",
+        "Jun-Sep": "1031.3",
+        "Oct-Dec": "67.9"
+    },
+    "JHARKHAND_KODERMA": {
+        "STATE_UT_NAME": "JHARKHAND",
+        "DISTRICT": "KODERMA",
+        "ANNUAL": "1116.2",
+        "Jan-Feb": "33.1",
+        "Mar-May": "51.5",
+        "Jun-Sep": "929.6",
+        "Oct-Dec": "102"
+    },
+    "JHARKHAND_PAKUR": {
+        "STATE_UT_NAME": "JHARKHAND",
+        "DISTRICT": "PAKUR",
+        "ANNUAL": "1612.4",
+        "Jan-Feb": "27.4",
+        "Mar-May": "135.5",
+        "Jun-Sep": "1286.2",
+        "Oct-Dec": "163.3"
+    },
+    "JHARKHAND_EAST SINGHBHU": {
+        "STATE_UT_NAME": "JHARKHAND",
+        "DISTRICT": "EAST SINGHBHU",
+        "ANNUAL": "1292.7",
+        "Jan-Feb": "33.1",
+        "Mar-May": "115.9",
+        "Jun-Sep": "1057.6",
+        "Oct-Dec": "86.1"
+    },
+    "JHARKHAND_GARHWA": {
+        "STATE_UT_NAME": "JHARKHAND",
+        "DISTRICT": "GARHWA",
+        "ANNUAL": "1041.8",
+        "Jan-Feb": "25.6",
+        "Mar-May": "27.9",
+        "Jun-Sep": "927.8",
+        "Oct-Dec": "60.5"
+    },
+    "JHARKHAND_SERAIKELA-KHA": {
+        "STATE_UT_NAME": "JHARKHAND",
+        "DISTRICT": "SERAIKELA-KHA",
+        "ANNUAL": "1359.6",
+        "Jan-Feb": "39.1",
+        "Mar-May": "97.5",
+        "Jun-Sep": "1135.5",
+        "Oct-Dec": "87.5"
+    },
+    "JHARKHAND_JAMTARA": {
+        "STATE_UT_NAME": "JHARKHAND",
+        "DISTRICT": "JAMTARA",
+        "ANNUAL": "1476",
+        "Jan-Feb": "35.1",
+        "Mar-May": "101.2",
+        "Jun-Sep": "1193.8",
+        "Oct-Dec": "145.9"
+    },
+    "JHARKHAND_LATEHAR": {
+        "STATE_UT_NAME": "JHARKHAND",
+        "DISTRICT": "LATEHAR",
+        "ANNUAL": "1191.5",
+        "Jan-Feb": "35.2",
+        "Mar-May": "52.1",
+        "Jun-Sep": "1021.8",
+        "Oct-Dec": "82.4"
+    },
+    "JHARKHAND_SIMDEGA": {
+        "STATE_UT_NAME": "JHARKHAND",
+        "DISTRICT": "SIMDEGA",
+        "ANNUAL": "1573.1",
+        "Jan-Feb": "38",
+        "Mar-May": "74.4",
+        "Jun-Sep": "1383.1",
+        "Oct-Dec": "77.6"
+    },
+    "JHARKHAND_KHUNTI(RANCHI": {
+        "STATE_UT_NAME": "JHARKHAND",
+        "DISTRICT": "KHUNTI(RANCHI",
+        "ANNUAL": "1482.8",
+        "Jan-Feb": "47",
+        "Mar-May": "87",
+        "Jun-Sep": "1251.1",
+        "Oct-Dec": "97.7"
+    },
+    "JHARKHAND_RAMGARH": {
+        "STATE_UT_NAME": "JHARKHAND",
+        "DISTRICT": "RAMGARH",
+        "ANNUAL": "1248.3",
+        "Jan-Feb": "27.5",
+        "Mar-May": "81.3",
+        "Jun-Sep": "1053.8",
+        "Oct-Dec": "85.7"
+    },
+    "BIHAR_BHAGALPUR": {
+        "STATE_UT_NAME": "BIHAR",
+        "DISTRICT": "BHAGALPUR",
+        "ANNUAL": "1207.9",
+        "Jan-Feb": "28.2",
+        "Mar-May": "98.9",
+        "Jun-Sep": "977.3",
+        "Oct-Dec": "103.5"
+    },
+    "BIHAR_EAST CHAMPARAN": {
+        "STATE_UT_NAME": "BIHAR",
+        "DISTRICT": "EAST CHAMPARAN",
+        "ANNUAL": "1197.7",
+        "Jan-Feb": "22.4",
+        "Mar-May": "70.1",
+        "Jun-Sep": "1021.6",
+        "Oct-Dec": "83.6"
+    },
+    "BIHAR_DARBHANGA": {
+        "STATE_UT_NAME": "BIHAR",
+        "DISTRICT": "DARBHANGA",
+        "ANNUAL": "1123.6",
+        "Jan-Feb": "25.5",
+        "Mar-May": "93.5",
+        "Jun-Sep": "924.6",
+        "Oct-Dec": "80"
+    },
+    "BIHAR_GAYA": {
+        "STATE_UT_NAME": "BIHAR",
+        "DISTRICT": "GAYA",
+        "ANNUAL": "1003.9",
+        "Jan-Feb": "25.5",
+        "Mar-May": "32.8",
+        "Jun-Sep": "878.7",
+        "Oct-Dec": "66.9"
+    },
+    "BIHAR_MUNGER": {
+        "STATE_UT_NAME": "BIHAR",
+        "DISTRICT": "MUNGER",
+        "ANNUAL": "1146.8",
+        "Jan-Feb": "19.9",
+        "Mar-May": "69.2",
+        "Jun-Sep": "974",
+        "Oct-Dec": "83.7"
+    },
+    "BIHAR_MUZAFFARPUR": {
+        "STATE_UT_NAME": "BIHAR",
+        "DISTRICT": "MUZAFFARPUR",
+        "ANNUAL": "1154.5",
+        "Jan-Feb": "22.3",
+        "Mar-May": "74.6",
+        "Jun-Sep": "981.1",
+        "Oct-Dec": "76.5"
+    },
+    "BIHAR_WEST CHAMPARAN": {
+        "STATE_UT_NAME": "BIHAR",
+        "DISTRICT": "WEST CHAMPARAN",
+        "ANNUAL": "1472",
+        "Jan-Feb": "29.4",
+        "Mar-May": "87.4",
+        "Jun-Sep": "1275",
+        "Oct-Dec": "80.2"
+    },
+    "BIHAR_PURNEA": {
+        "STATE_UT_NAME": "BIHAR",
+        "DISTRICT": "PURNEA",
+        "ANNUAL": "1598.2",
+        "Jan-Feb": "18.1",
+        "Mar-May": "168.2",
+        "Jun-Sep": "1313.3",
+        "Oct-Dec": "98.6"
+    },
+    "BIHAR_GOPALGANJ": {
+        "STATE_UT_NAME": "BIHAR",
+        "DISTRICT": "GOPALGANJ",
+        "ANNUAL": "1135.5",
+        "Jan-Feb": "25.4",
+        "Mar-May": "51.1",
+        "Jun-Sep": "989.9",
+        "Oct-Dec": "69.1"
+    },
+    "BIHAR_MADHUBANI": {
+        "STATE_UT_NAME": "BIHAR",
+        "DISTRICT": "MADHUBANI",
+        "ANNUAL": "1293.3",
+        "Jan-Feb": "20.6",
+        "Mar-May": "119.4",
+        "Jun-Sep": "1059.5",
+        "Oct-Dec": "93.8"
+    },
+    "BIHAR_AURANGABAD": {
+        "STATE_UT_NAME": "BIHAR",
+        "DISTRICT": "AURANGABAD",
+        "ANNUAL": "974.9",
+        "Jan-Feb": "29.3",
+        "Mar-May": "27.9",
+        "Jun-Sep": "859.6",
+        "Oct-Dec": "58.1"
+    },
+    "BIHAR_BEGUSARAI": {
+        "STATE_UT_NAME": "BIHAR",
+        "DISTRICT": "BEGUSARAI",
+        "ANNUAL": "1090.7",
+        "Jan-Feb": "16.5",
+        "Mar-May": "79.4",
+        "Jun-Sep": "921.6",
+        "Oct-Dec": "73.2"
+    },
+    "BIHAR_BHOJPUR": {
+        "STATE_UT_NAME": "BIHAR",
+        "DISTRICT": "BHOJPUR",
+        "ANNUAL": "1051.5",
+        "Jan-Feb": "25.9",
+        "Mar-May": "42.1",
+        "Jun-Sep": "924.4",
+        "Oct-Dec": "59.1"
+    },
+    "BIHAR_NALANDA": {
+        "STATE_UT_NAME": "BIHAR",
+        "DISTRICT": "NALANDA",
+        "ANNUAL": "1002.2",
+        "Jan-Feb": "20.8",
+        "Mar-May": "43.1",
+        "Jun-Sep": "876.8",
+        "Oct-Dec": "61.5"
+    },
+    "BIHAR_PATNA": {
+        "STATE_UT_NAME": "BIHAR",
+        "DISTRICT": "PATNA",
+        "ANNUAL": "1074.8",
+        "Jan-Feb": "22.4",
+        "Mar-May": "44.1",
+        "Jun-Sep": "941.3",
+        "Oct-Dec": "67"
+    },
+    "BIHAR_KATIHAR": {
+        "STATE_UT_NAME": "BIHAR",
+        "DISTRICT": "KATIHAR",
+        "ANNUAL": "1342.7",
+        "Jan-Feb": "19.7",
+        "Mar-May": "129.8",
+        "Jun-Sep": "1109.9",
+        "Oct-Dec": "83.3"
+    },
+    "BIHAR_KHAGARIA": {
+        "STATE_UT_NAME": "BIHAR",
+        "DISTRICT": "KHAGARIA",
+        "ANNUAL": "1233.9",
+        "Jan-Feb": "13.7",
+        "Mar-May": "69.4",
+        "Jun-Sep": "1057.7",
+        "Oct-Dec": "93.1"
+    },
+    "BIHAR_SARAN": {
+        "STATE_UT_NAME": "BIHAR",
+        "DISTRICT": "SARAN",
+        "ANNUAL": "1123.8",
+        "Jan-Feb": "25.7",
+        "Mar-May": "53.4",
+        "Jun-Sep": "973.5",
+        "Oct-Dec": "71.2"
+    },
+    "BIHAR_MADHEPURA": {
+        "STATE_UT_NAME": "BIHAR",
+        "DISTRICT": "MADHEPURA",
+        "ANNUAL": "1392.7",
+        "Jan-Feb": "21.4",
+        "Mar-May": "126.4",
+        "Jun-Sep": "1153.5",
+        "Oct-Dec": "91.4"
+    },
+    "BIHAR_NAWADA": {
+        "STATE_UT_NAME": "BIHAR",
+        "DISTRICT": "NAWADA",
+        "ANNUAL": "1041.8",
+        "Jan-Feb": "22.5",
+        "Mar-May": "49.3",
+        "Jun-Sep": "896.6",
+        "Oct-Dec": "73.4"
+    },
+    "BIHAR_ROHTAS": {
+        "STATE_UT_NAME": "BIHAR",
+        "DISTRICT": "ROHTAS",
+        "ANNUAL": "949.1",
+        "Jan-Feb": "25.8",
+        "Mar-May": "28.9",
+        "Jun-Sep": "834.5",
+        "Oct-Dec": "59.9"
+    },
+    "BIHAR_SAMASTIPUR": {
+        "STATE_UT_NAME": "BIHAR",
+        "DISTRICT": "SAMASTIPUR",
+        "ANNUAL": "1192.3",
+        "Jan-Feb": "23.2",
+        "Mar-May": "68.8",
+        "Jun-Sep": "1025.2",
+        "Oct-Dec": "75.1"
+    },
+    "BIHAR_SITAMARHI": {
+        "STATE_UT_NAME": "BIHAR",
+        "DISTRICT": "SITAMARHI",
+        "ANNUAL": "1293.1",
+        "Jan-Feb": "18.2",
+        "Mar-May": "107",
+        "Jun-Sep": "1084.4",
+        "Oct-Dec": "83.5"
+    },
+    "BIHAR_SIWAN": {
+        "STATE_UT_NAME": "BIHAR",
+        "DISTRICT": "SIWAN",
+        "ANNUAL": "1135.4",
+        "Jan-Feb": "27.7",
+        "Mar-May": "46.8",
+        "Jun-Sep": "1004.2",
+        "Oct-Dec": "56.7"
+    },
+    "BIHAR_VAISHALI": {
+        "STATE_UT_NAME": "BIHAR",
+        "DISTRICT": "VAISHALI",
+        "ANNUAL": "1176.5",
+        "Jan-Feb": "23.7",
+        "Mar-May": "48.6",
+        "Jun-Sep": "1021.6",
+        "Oct-Dec": "82.6"
+    },
+    "BIHAR_JAHANABAD": {
+        "STATE_UT_NAME": "BIHAR",
+        "DISTRICT": "JAHANABAD",
+        "ANNUAL": "936.6",
+        "Jan-Feb": "20.4",
+        "Mar-May": "43.2",
+        "Jun-Sep": "820.4",
+        "Oct-Dec": "52.6"
+    },
+    "BIHAR_BUXAR": {
+        "STATE_UT_NAME": "BIHAR",
+        "DISTRICT": "BUXAR",
+        "ANNUAL": "975.4",
+        "Jan-Feb": "20.8",
+        "Mar-May": "28.1",
+        "Jun-Sep": "861.2",
+        "Oct-Dec": "65.3"
+    },
+    "BIHAR_ARARIA": {
+        "STATE_UT_NAME": "BIHAR",
+        "DISTRICT": "ARARIA",
+        "ANNUAL": "1632.2",
+        "Jan-Feb": "21.8",
+        "Mar-May": "166.7",
+        "Jun-Sep": "1347",
+        "Oct-Dec": "96.7"
+    },
+    "BIHAR_BANKA": {
+        "STATE_UT_NAME": "BIHAR",
+        "DISTRICT": "BANKA",
+        "ANNUAL": "1054.5",
+        "Jan-Feb": "19.4",
+        "Mar-May": "73.3",
+        "Jun-Sep": "865.9",
+        "Oct-Dec": "95.9"
+    },
+    "BIHAR_BHABUA": {
+        "STATE_UT_NAME": "BIHAR",
+        "DISTRICT": "BHABUA",
+        "ANNUAL": "1126.3",
+        "Jan-Feb": "42.8",
+        "Mar-May": "34.1",
+        "Jun-Sep": "995.1",
+        "Oct-Dec": "54.3"
+    },
+    "BIHAR_JAMUI": {
+        "STATE_UT_NAME": "BIHAR",
+        "DISTRICT": "JAMUI",
+        "ANNUAL": "1107.3",
+        "Jan-Feb": "18.3",
+        "Mar-May": "53.5",
+        "Jun-Sep": "951.8",
+        "Oct-Dec": "83.7"
+    },
+    "BIHAR_KISHANGANJ": {
+        "STATE_UT_NAME": "BIHAR",
+        "DISTRICT": "KISHANGANJ",
+        "ANNUAL": "2090.6",
+        "Jan-Feb": "18.4",
+        "Mar-May": "224.9",
+        "Jun-Sep": "1755.5",
+        "Oct-Dec": "91.8"
+    },
+    "BIHAR_SHEIKHPURA": {
+        "STATE_UT_NAME": "BIHAR",
+        "DISTRICT": "SHEIKHPURA",
+        "ANNUAL": "1008.4",
+        "Jan-Feb": "21.9",
+        "Mar-May": "51.4",
+        "Jun-Sep": "865.7",
+        "Oct-Dec": "69.4"
+    },
+    "BIHAR_SUPAUL": {
+        "STATE_UT_NAME": "BIHAR",
+        "DISTRICT": "SUPAUL",
+        "ANNUAL": "1273.8",
+        "Jan-Feb": "16.3",
+        "Mar-May": "119",
+        "Jun-Sep": "1055.6",
+        "Oct-Dec": "82.9"
+    },
+    "BIHAR_LAKHISARAI": {
+        "STATE_UT_NAME": "BIHAR",
+        "DISTRICT": "LAKHISARAI",
+        "ANNUAL": "1146.8",
+        "Jan-Feb": "19.9",
+        "Mar-May": "69.2",
+        "Jun-Sep": "974",
+        "Oct-Dec": "83.7"
+    },
+    "BIHAR_SHEOHAR": {
+        "STATE_UT_NAME": "BIHAR",
+        "DISTRICT": "SHEOHAR",
+        "ANNUAL": "1293.1",
+        "Jan-Feb": "18.2",
+        "Mar-May": "107",
+        "Jun-Sep": "1084.4",
+        "Oct-Dec": "83.5"
+    },
+    "BIHAR_ARWAL": {
+        "STATE_UT_NAME": "BIHAR",
+        "DISTRICT": "ARWAL",
+        "ANNUAL": "874.4",
+        "Jan-Feb": "22.7",
+        "Mar-May": "19.6",
+        "Jun-Sep": "789.7",
+        "Oct-Dec": "42.4"
+    },
+    "BIHAR_SAHARSA": {
+        "STATE_UT_NAME": "BIHAR",
+        "DISTRICT": "SAHARSA",
+        "ANNUAL": "1692.9",
+        "Jan-Feb": "17",
+        "Mar-May": "159.5",
+        "Jun-Sep": "1408.1",
+        "Oct-Dec": "108.3"
+    },
+    "UTTAR PRADESH_ALLAHABAD": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "ALLAHABAD",
+        "ANNUAL": "902.6",
+        "Jan-Feb": "27.5",
+        "Mar-May": "17.8",
+        "Jun-Sep": "808.7",
+        "Oct-Dec": "48.6"
+    },
+    "UTTAR PRADESH_AZAMGARH": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "AZAMGARH",
+        "ANNUAL": "1058.3",
+        "Jan-Feb": "22.8",
+        "Mar-May": "30.4",
+        "Jun-Sep": "952.7",
+        "Oct-Dec": "52.4"
+    },
+    "UTTAR PRADESH_BAHRAICH": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "BAHRAICH",
+        "ANNUAL": "1148.6",
+        "Jan-Feb": "36.8",
+        "Mar-May": "54.4",
+        "Jun-Sep": "993.8",
+        "Oct-Dec": "63.6"
+    },
+    "UTTAR PRADESH_BALLIA": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "BALLIA",
+        "ANNUAL": "928.2",
+        "Jan-Feb": "19.2",
+        "Mar-May": "32.2",
+        "Jun-Sep": "827.2",
+        "Oct-Dec": "49.6"
+    },
+    "UTTAR PRADESH_BANDA": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "BANDA",
+        "ANNUAL": "943.2",
+        "Jan-Feb": "29.2",
+        "Mar-May": "22.9",
+        "Jun-Sep": "840.4",
+        "Oct-Dec": "50.7"
+    },
+    "UTTAR PRADESH_BARABANKI": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "BARABANKI",
+        "ANNUAL": "1055.4",
+        "Jan-Feb": "31.3",
+        "Mar-May": "31.7",
+        "Jun-Sep": "930.5",
+        "Oct-Dec": "61.9"
+    },
+    "UTTAR PRADESH_BASTI": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "BASTI",
+        "ANNUAL": "1062.7",
+        "Jan-Feb": "25.8",
+        "Mar-May": "37.1",
+        "Jun-Sep": "943.6",
+        "Oct-Dec": "56.2"
+    },
+    "UTTAR PRADESH_DEORIA": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "DEORIA",
+        "ANNUAL": "1087",
+        "Jan-Feb": "31.5",
+        "Mar-May": "41.9",
+        "Jun-Sep": "950.9",
+        "Oct-Dec": "62.7"
+    },
+    "UTTAR PRADESH_FAIZABAD": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "FAIZABAD",
+        "ANNUAL": "1114",
+        "Jan-Feb": "31.1",
+        "Mar-May": "30.5",
+        "Jun-Sep": "989.7",
+        "Oct-Dec": "62.7"
+    },
+    "UTTAR PRADESH_FARRUKHABAD": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "FARRUKHABAD",
+        "ANNUAL": "853.3",
+        "Jan-Feb": "26.2",
+        "Mar-May": "25.8",
+        "Jun-Sep": "743.4",
+        "Oct-Dec": "57.9"
+    },
+    "UTTAR PRADESH_FATEHPUR": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "FATEHPUR",
+        "ANNUAL": "915.2",
+        "Jan-Feb": "30",
+        "Mar-May": "20.5",
+        "Jun-Sep": "812.5",
+        "Oct-Dec": "52.2"
+    },
+    "UTTAR PRADESH_GHAZIPUR": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "GHAZIPUR",
+        "ANNUAL": "995.8",
+        "Jan-Feb": "25.1",
+        "Mar-May": "26.6",
+        "Jun-Sep": "883",
+        "Oct-Dec": "61.1"
+    },
+    "UTTAR PRADESH_GONDA": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "GONDA",
+        "ANNUAL": "1160.1",
+        "Jan-Feb": "26.3",
+        "Mar-May": "36.9",
+        "Jun-Sep": "1027.2",
+        "Oct-Dec": "69.7"
+    },
+    "UTTAR PRADESH_GORAKHPUR": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "GORAKHPUR",
+        "ANNUAL": "1338.3",
+        "Jan-Feb": "29.8",
+        "Mar-May": "49.6",
+        "Jun-Sep": "1175.5",
+        "Oct-Dec": "83.4"
+    },
+    "UTTAR PRADESH_HARDOI": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "HARDOI",
+        "ANNUAL": "918.2",
+        "Jan-Feb": "31.3",
+        "Mar-May": "32.2",
+        "Jun-Sep": "787.9",
+        "Oct-Dec": "66.8"
+    },
+    "UTTAR PRADESH_JAUNPUR": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "JAUNPUR",
+        "ANNUAL": "968.1",
+        "Jan-Feb": "25.6",
+        "Mar-May": "23.3",
+        "Jun-Sep": "874.1",
+        "Oct-Dec": "45.1"
+    },
+    "UTTAR PRADESH_KANPUR NAGAR": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "KANPUR NAGAR",
+        "ANNUAL": "806.4",
+        "Jan-Feb": "28.7",
+        "Mar-May": "16.3",
+        "Jun-Sep": "696.8",
+        "Oct-Dec": "64.6"
+    },
+    "UTTAR PRADESH_KHERI LAKHIMP": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "KHERI LAKHIMP",
+        "ANNUAL": "1085.3",
+        "Jan-Feb": "37.6",
+        "Mar-May": "47.4",
+        "Jun-Sep": "926.1",
+        "Oct-Dec": "74.2"
+    },
+    "UTTAR PRADESH_LUCKNOW": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "LUCKNOW",
+        "ANNUAL": "885.3",
+        "Jan-Feb": "30.4",
+        "Mar-May": "23.6",
+        "Jun-Sep": "772.5",
+        "Oct-Dec": "58.8"
+    },
+    "UTTAR PRADESH_MIRZAPUR": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "MIRZAPUR",
+        "ANNUAL": "1003.2",
+        "Jan-Feb": "30.6",
+        "Mar-May": "24.1",
+        "Jun-Sep": "901.1",
+        "Oct-Dec": "47.4"
+    },
+    "UTTAR PRADESH_PRATAPGARH": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "PRATAPGARH",
+        "ANNUAL": "943.6",
+        "Jan-Feb": "25.1",
+        "Mar-May": "19.1",
+        "Jun-Sep": "851.8",
+        "Oct-Dec": "47.6"
+    },
+    "UTTAR PRADESH_RAE BARELI": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "RAE BARELI",
+        "ANNUAL": "853",
+        "Jan-Feb": "23.3",
+        "Mar-May": "16.4",
+        "Jun-Sep": "750.3",
+        "Oct-Dec": "63"
+    },
+    "UTTAR PRADESH_SITAPUR": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "SITAPUR",
+        "ANNUAL": "1003.3",
+        "Jan-Feb": "30.6",
+        "Mar-May": "35.6",
+        "Jun-Sep": "864.8",
+        "Oct-Dec": "72.3"
+    },
+    "UTTAR PRADESH_SULTANPUR": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "SULTANPUR",
+        "ANNUAL": "944.5",
+        "Jan-Feb": "21.9",
+        "Mar-May": "27.9",
+        "Jun-Sep": "840.7",
+        "Oct-Dec": "54"
+    },
+    "UTTAR PRADESH_UNNAO": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "UNNAO",
+        "ANNUAL": "907.2",
+        "Jan-Feb": "30",
+        "Mar-May": "21.3",
+        "Jun-Sep": "790.3",
+        "Oct-Dec": "65.6"
+    },
+    "UTTAR PRADESH_VARANASI": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "VARANASI",
+        "ANNUAL": "1037.6",
+        "Jan-Feb": "32.9",
+        "Mar-May": "26",
+        "Jun-Sep": "923.5",
+        "Oct-Dec": "55.2"
+    },
+    "UTTAR PRADESH_SONBHADRA": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "SONBHADRA",
+        "ANNUAL": "1025.1",
+        "Jan-Feb": "32",
+        "Mar-May": "28.5",
+        "Jun-Sep": "916.9",
+        "Oct-Dec": "47.7"
+    },
+    "UTTAR PRADESH_MAHARAJGANJ": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "MAHARAJGANJ",
+        "ANNUAL": "1389.1",
+        "Jan-Feb": "27.4",
+        "Mar-May": "64.8",
+        "Jun-Sep": "1214.1",
+        "Oct-Dec": "82.8"
+    },
+    "UTTAR PRADESH_MAU": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "MAU",
+        "ANNUAL": "1121.3",
+        "Jan-Feb": "24.8",
+        "Mar-May": "33.9",
+        "Jun-Sep": "1004.7",
+        "Oct-Dec": "57.9"
+    },
+    "UTTAR PRADESH_SIDDHARTH NGR": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "SIDDHARTH NGR",
+        "ANNUAL": "1145.7",
+        "Jan-Feb": "25.9",
+        "Mar-May": "37.1",
+        "Jun-Sep": "1009.9",
+        "Oct-Dec": "72.8"
+    },
+    "UTTAR PRADESH_KUSHINAGAR": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "KUSHINAGAR",
+        "ANNUAL": "1326.6",
+        "Jan-Feb": "25.4",
+        "Mar-May": "59.7",
+        "Jun-Sep": "1158.4",
+        "Oct-Dec": "83.1"
+    },
+    "UTTAR PRADESH_AMBEDKAR NAGAR": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "AMBEDKAR NAGAR",
+        "ANNUAL": "1013.3",
+        "Jan-Feb": "25.8",
+        "Mar-May": "32.6",
+        "Jun-Sep": "904.8",
+        "Oct-Dec": "50.1"
+    },
+    "UTTAR PRADESH_KANNAUJ": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "KANNAUJ",
+        "ANNUAL": "902.3",
+        "Jan-Feb": "27",
+        "Mar-May": "28.9",
+        "Jun-Sep": "776.7",
+        "Oct-Dec": "69.7"
+    },
+    "UTTAR PRADESH_BALRAMPUR": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "BALRAMPUR",
+        "ANNUAL": "1247.9",
+        "Jan-Feb": "35.7",
+        "Mar-May": "56.1",
+        "Jun-Sep": "1071.7",
+        "Oct-Dec": "84.4"
+    },
+    "UTTAR PRADESH_KAUSHAMBI": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "KAUSHAMBI",
+        "ANNUAL": "861.7",
+        "Jan-Feb": "27.2",
+        "Mar-May": "18.9",
+        "Jun-Sep": "765.6",
+        "Oct-Dec": "50"
+    },
+    "UTTAR PRADESH_SAHUJI MAHARA": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "SAHUJI MAHARA",
+        "ANNUAL": "986.3",
+        "Jan-Feb": "29.3",
+        "Mar-May": "20.2",
+        "Jun-Sep": "885.9",
+        "Oct-Dec": "50.9"
+    },
+    "UTTAR PRADESH_KANPUR DEHAT": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "KANPUR DEHAT",
+        "ANNUAL": "857.2",
+        "Jan-Feb": "24.9",
+        "Mar-May": "14.5",
+        "Jun-Sep": "765",
+        "Oct-Dec": "52.8"
+    },
+    "UTTAR PRADESH_CHANDAULI": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "CHANDAULI",
+        "ANNUAL": "949.6",
+        "Jan-Feb": "30.6",
+        "Mar-May": "27.2",
+        "Jun-Sep": "846.1",
+        "Oct-Dec": "45.7"
+    },
+    "UTTAR PRADESH_SANT KABIR NGR": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "SANT KABIR NGR",
+        "ANNUAL": "1110.6",
+        "Jan-Feb": "24.9",
+        "Mar-May": "36.4",
+        "Jun-Sep": "990.7",
+        "Oct-Dec": "58.6"
+    },
+    "UTTAR PRADESH_SANT RAVIDAS": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "SANT RAVIDAS",
+        "ANNUAL": "949.6",
+        "Jan-Feb": "30.6",
+        "Mar-May": "27.2",
+        "Jun-Sep": "846.1",
+        "Oct-Dec": "45.7"
+    },
+    "UTTAR PRADESH_SHRAVASTI NGR": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "SHRAVASTI NGR",
+        "ANNUAL": "1148.6",
+        "Jan-Feb": "36.8",
+        "Mar-May": "54.4",
+        "Jun-Sep": "993.8",
+        "Oct-Dec": "63.6"
+    },
+    "UTTAR PRADESH_AGRA": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "AGRA",
+        "ANNUAL": "774.6",
+        "Jan-Feb": "27.4",
+        "Mar-May": "22.2",
+        "Jun-Sep": "687.2",
+        "Oct-Dec": "37.8"
+    },
+    "UTTAR PRADESH_ALIGARH": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "ALIGARH",
+        "ANNUAL": "771",
+        "Jan-Feb": "32.1",
+        "Mar-May": "33.4",
+        "Jun-Sep": "655.7",
+        "Oct-Dec": "49.8"
+    },
+    "UTTAR PRADESH_BAREILLY": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "BAREILLY",
+        "ANNUAL": "996.6",
+        "Jan-Feb": "39.2",
+        "Mar-May": "36.9",
+        "Jun-Sep": "853.8",
+        "Oct-Dec": "66.7"
+    },
+    "UTTAR PRADESH_BIJNOR": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "BIJNOR",
+        "ANNUAL": "1083.1",
+        "Jan-Feb": "59.2",
+        "Mar-May": "51.4",
+        "Jun-Sep": "914.2",
+        "Oct-Dec": "58.3"
+    },
+    "UTTAR PRADESH_BADAUN": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "BADAUN",
+        "ANNUAL": "884.8",
+        "Jan-Feb": "29.5",
+        "Mar-May": "29.9",
+        "Jun-Sep": "758",
+        "Oct-Dec": "67.4"
+    },
+    "UTTAR PRADESH_BULANDSHAHAR": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "BULANDSHAHAR",
+        "ANNUAL": "779",
+        "Jan-Feb": "29.4",
+        "Mar-May": "31",
+        "Jun-Sep": "670.7",
+        "Oct-Dec": "47.9"
+    },
+    "UTTAR PRADESH_ETAH": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "ETAH",
+        "ANNUAL": "714.4",
+        "Jan-Feb": "25",
+        "Mar-May": "25.9",
+        "Jun-Sep": "615.3",
+        "Oct-Dec": "48.2"
+    },
+    "UTTAR PRADESH_ETAWAH": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "ETAWAH",
+        "ANNUAL": "829.6",
+        "Jan-Feb": "25.6",
+        "Mar-May": "22.2",
+        "Jun-Sep": "728",
+        "Oct-Dec": "53.8"
+    },
+    "UTTAR PRADESH_HAMIRPUR": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "HAMIRPUR",
+        "ANNUAL": "881.8",
+        "Jan-Feb": "27.6",
+        "Mar-May": "14.1",
+        "Jun-Sep": "796.9",
+        "Oct-Dec": "43.2"
+    },
+    "UTTAR PRADESH_JALAUN": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "JALAUN",
+        "ANNUAL": "871.5",
+        "Jan-Feb": "24.7",
+        "Mar-May": "15.8",
+        "Jun-Sep": "774.9",
+        "Oct-Dec": "56.1"
+    },
+    "UTTAR PRADESH_JHANSI": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "JHANSI",
+        "ANNUAL": "931.5",
+        "Jan-Feb": "24.6",
+        "Mar-May": "18.7",
+        "Jun-Sep": "837.9",
+        "Oct-Dec": "50.3"
+    },
+    "UTTAR PRADESH_LALITPUR": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "LALITPUR",
+        "ANNUAL": "1034.6",
+        "Jan-Feb": "30.4",
+        "Mar-May": "16.7",
+        "Jun-Sep": "939.3",
+        "Oct-Dec": "48.2"
+    },
+    "UTTAR PRADESH_MAINPURI": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "MAINPURI",
+        "ANNUAL": "748.4",
+        "Jan-Feb": "21.3",
+        "Mar-May": "21.8",
+        "Jun-Sep": "655.3",
+        "Oct-Dec": "50"
+    },
+    "UTTAR PRADESH_MATHURA": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "MATHURA",
+        "ANNUAL": "655.9",
+        "Jan-Feb": "20.5",
+        "Mar-May": "23.5",
+        "Jun-Sep": "579.9",
+        "Oct-Dec": "32"
+    },
+    "UTTAR PRADESH_MEERUT": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "MEERUT",
+        "ANNUAL": "918",
+        "Jan-Feb": "41.5",
+        "Mar-May": "39.8",
+        "Jun-Sep": "778.5",
+        "Oct-Dec": "58.2"
+    },
+    "UTTAR PRADESH_MORADABAD": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "MORADABAD",
+        "ANNUAL": "992.9",
+        "Jan-Feb": "44.3",
+        "Mar-May": "33.5",
+        "Jun-Sep": "855.2",
+        "Oct-Dec": "59.9"
+    },
+    "UTTAR PRADESH_MUZAFFARNAGAR": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "MUZAFFARNAGAR",
+        "ANNUAL": "869.1",
+        "Jan-Feb": "44.6",
+        "Mar-May": "34.6",
+        "Jun-Sep": "736.8",
+        "Oct-Dec": "53.1"
+    },
+    "UTTAR PRADESH_PILIBHIT": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "PILIBHIT",
+        "ANNUAL": "1155.4",
+        "Jan-Feb": "37.8",
+        "Mar-May": "43.1",
+        "Jun-Sep": "988.6",
+        "Oct-Dec": "85.9"
+    },
+    "UTTAR PRADESH_RAMPUR": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "RAMPUR",
+        "ANNUAL": "1057.6",
+        "Jan-Feb": "44.2",
+        "Mar-May": "48.8",
+        "Jun-Sep": "915.5",
+        "Oct-Dec": "49.1"
+    },
+    "UTTAR PRADESH_SAHARANPUR": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "SAHARANPUR",
+        "ANNUAL": "963.9",
+        "Jan-Feb": "53.4",
+        "Mar-May": "48.2",
+        "Jun-Sep": "804.6",
+        "Oct-Dec": "57.7"
+    },
+    "UTTAR PRADESH_SHAHJAHANPUR": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "SHAHJAHANPUR",
+        "ANNUAL": "1010.8",
+        "Jan-Feb": "34.4",
+        "Mar-May": "38",
+        "Jun-Sep": "859.2",
+        "Oct-Dec": "79.2"
+    },
+    "UTTAR PRADESH_GHAZIABAD": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "GHAZIABAD",
+        "ANNUAL": "766.3",
+        "Jan-Feb": "37.9",
+        "Mar-May": "36.6",
+        "Jun-Sep": "641.7",
+        "Oct-Dec": "50.1"
+    },
+    "UTTAR PRADESH_FIROZABAD": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "FIROZABAD",
+        "ANNUAL": "765.5",
+        "Jan-Feb": "24.2",
+        "Mar-May": "21.6",
+        "Jun-Sep": "676.3",
+        "Oct-Dec": "43.4"
+    },
+    "UTTAR PRADESH_MAHOBA": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "MAHOBA",
+        "ANNUAL": "853.1",
+        "Jan-Feb": "28",
+        "Mar-May": "13.4",
+        "Jun-Sep": "776.4",
+        "Oct-Dec": "35.3"
+    },
+    "UTTAR PRADESH_MAHAMAYA NAGA": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "MAHAMAYA NAGA",
+        "ANNUAL": "710.8",
+        "Jan-Feb": "21.9",
+        "Mar-May": "25.1",
+        "Jun-Sep": "625.4",
+        "Oct-Dec": "38.4"
+    },
+    "UTTAR PRADESH_AURAIYA": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "AURAIYA",
+        "ANNUAL": "811.9",
+        "Jan-Feb": "30",
+        "Mar-May": "21.7",
+        "Jun-Sep": "700",
+        "Oct-Dec": "60.2"
+    },
+    "UTTAR PRADESH_BAGPAT": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "BAGPAT",
+        "ANNUAL": "646.1",
+        "Jan-Feb": "33.6",
+        "Mar-May": "33.7",
+        "Jun-Sep": "545.3",
+        "Oct-Dec": "33.5"
+    },
+    "UTTAR PRADESH_JYOTIBA PHULE": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "JYOTIBA PHULE",
+        "ANNUAL": "917.4",
+        "Jan-Feb": "38.5",
+        "Mar-May": "34.2",
+        "Jun-Sep": "783",
+        "Oct-Dec": "61.7"
+    },
+    "UTTAR PRADESH_GAUTAM BUDDHA": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "GAUTAM BUDDHA",
+        "ANNUAL": "669.3",
+        "Jan-Feb": "28.5",
+        "Mar-May": "23.4",
+        "Jun-Sep": "572.8",
+        "Oct-Dec": "44.6"
+    },
+    "UTTAR PRADESH_KANSHIRAM NAG": {
+        "STATE_UT_NAME": "UTTAR PRADESH",
+        "DISTRICT": "KANSHIRAM NAG",
+        "ANNUAL": "818.4",
+        "Jan-Feb": "26",
+        "Mar-May": "29",
+        "Jun-Sep": "701.5",
+        "Oct-Dec": "61.9"
+    },
+    "UTTARANCHAL_ALMORA": {
+        "STATE_UT_NAME": "UTTARANCHAL",
+        "DISTRICT": "ALMORA",
+        "ANNUAL": "1157.3",
+        "Jan-Feb": "93",
+        "Mar-May": "119.6",
+        "Jun-Sep": "858.4",
+        "Oct-Dec": "86.3"
+    },
+    "UTTARANCHAL_CHAMOLI": {
+        "STATE_UT_NAME": "UTTARANCHAL",
+        "DISTRICT": "CHAMOLI",
+        "ANNUAL": "1267",
+        "Jan-Feb": "135.2",
+        "Mar-May": "194.2",
+        "Jun-Sep": "859.3",
+        "Oct-Dec": "78.3"
+    },
+    "UTTARANCHAL_DEHRADUN": {
+        "STATE_UT_NAME": "UTTARANCHAL",
+        "DISTRICT": "DEHRADUN",
+        "ANNUAL": "2123.9",
+        "Jan-Feb": "101",
+        "Mar-May": "124.8",
+        "Jun-Sep": "1802.1",
+        "Oct-Dec": "96"
+    },
+    "UTTARANCHAL_GARHWAL PAURI": {
+        "STATE_UT_NAME": "UTTARANCHAL",
+        "DISTRICT": "GARHWAL PAURI",
+        "ANNUAL": "1464",
+        "Jan-Feb": "76.3",
+        "Mar-May": "93.2",
+        "Jun-Sep": "1213.5",
+        "Oct-Dec": "81"
+    },
+    "UTTARANCHAL_NAINITAL": {
+        "STATE_UT_NAME": "UTTARANCHAL",
+        "DISTRICT": "NAINITAL",
+        "ANNUAL": "1743.7",
+        "Jan-Feb": "87",
+        "Mar-May": "113",
+        "Jun-Sep": "1439.1",
+        "Oct-Dec": "104.6"
+    },
+    "UTTARANCHAL_PITHORAGARH": {
+        "STATE_UT_NAME": "UTTARANCHAL",
+        "DISTRICT": "PITHORAGARH",
+        "ANNUAL": "2098",
+        "Jan-Feb": "107.7",
+        "Mar-May": "205.3",
+        "Jun-Sep": "1687.9",
+        "Oct-Dec": "97.1"
+    },
+    "UTTARANCHAL_GARHWAL TEHRI": {
+        "STATE_UT_NAME": "UTTARANCHAL",
+        "DISTRICT": "GARHWAL TEHRI",
+        "ANNUAL": "1385",
+        "Jan-Feb": "106.8",
+        "Mar-May": "143.9",
+        "Jun-Sep": "1047.1",
+        "Oct-Dec": "87.2"
+    },
+    "UTTARANCHAL_UTTARKASHI": {
+        "STATE_UT_NAME": "UTTARANCHAL",
+        "DISTRICT": "UTTARKASHI",
+        "ANNUAL": "1625.7",
+        "Jan-Feb": "143.7",
+        "Mar-May": "235.5",
+        "Jun-Sep": "1148.6",
+        "Oct-Dec": "97.9"
+    },
+    "UTTARANCHAL_HARIDWAR": {
+        "STATE_UT_NAME": "UTTARANCHAL",
+        "DISTRICT": "HARIDWAR",
+        "ANNUAL": "1143.9",
+        "Jan-Feb": "68.9",
+        "Mar-May": "64.4",
+        "Jun-Sep": "961.9",
+        "Oct-Dec": "48.7"
+    },
+    "UTTARANCHAL_CHAMPAWAT": {
+        "STATE_UT_NAME": "UTTARANCHAL",
+        "DISTRICT": "CHAMPAWAT",
+        "ANNUAL": "1623.9",
+        "Jan-Feb": "82.8",
+        "Mar-May": "113.1",
+        "Jun-Sep": "1319.7",
+        "Oct-Dec": "108.3"
+    },
+    "UTTARANCHAL_RUDRAPRAYAG": {
+        "STATE_UT_NAME": "UTTARANCHAL",
+        "DISTRICT": "RUDRAPRAYAG",
+        "ANNUAL": "2150.9",
+        "Jan-Feb": "148.9",
+        "Mar-May": "234.2",
+        "Jun-Sep": "1671.1",
+        "Oct-Dec": "96.7"
+    },
+    "UTTARANCHAL_UDHAM SINGH N": {
+        "STATE_UT_NAME": "UTTARANCHAL",
+        "DISTRICT": "UDHAM SINGH N",
+        "ANNUAL": "1313.9",
+        "Jan-Feb": "49",
+        "Mar-May": "57.6",
+        "Jun-Sep": "1119.9",
+        "Oct-Dec": "87.4"
+    },
+    "UTTARANCHAL_BAGESHWAR": {
+        "STATE_UT_NAME": "UTTARANCHAL",
+        "DISTRICT": "BAGESHWAR",
+        "ANNUAL": "1157.3",
+        "Jan-Feb": "93",
+        "Mar-May": "119.6",
+        "Jun-Sep": "858.4",
+        "Oct-Dec": "86.3"
+    },
+    "HARYANA_AMBALA": {
+        "STATE_UT_NAME": "HARYANA",
+        "DISTRICT": "AMBALA",
+        "ANNUAL": "1104.7",
+        "Jan-Feb": "70.5",
+        "Mar-May": "53.5",
+        "Jun-Sep": "916.6",
+        "Oct-Dec": "64.1"
+    },
+    "HARYANA_GURGAON": {
+        "STATE_UT_NAME": "HARYANA",
+        "DISTRICT": "GURGAON",
+        "ANNUAL": "544",
+        "Jan-Feb": "21.9",
+        "Mar-May": "27.3",
+        "Jun-Sep": "472.3",
+        "Oct-Dec": "22.5"
+    },
+    "HARYANA_HISAR": {
+        "STATE_UT_NAME": "HARYANA",
+        "DISTRICT": "HISAR",
+        "ANNUAL": "401.4",
+        "Jan-Feb": "23.2",
+        "Mar-May": "31.6",
+        "Jun-Sep": "325.1",
+        "Oct-Dec": "21.5"
+    },
+    "HARYANA_JIND": {
+        "STATE_UT_NAME": "HARYANA",
+        "DISTRICT": "JIND",
+        "ANNUAL": "509.1",
+        "Jan-Feb": "35.1",
+        "Mar-May": "32.7",
+        "Jun-Sep": "415.6",
+        "Oct-Dec": "25.7"
+    },
+    "HARYANA_KARNAL": {
+        "STATE_UT_NAME": "HARYANA",
+        "DISTRICT": "KARNAL",
+        "ANNUAL": "714.4",
+        "Jan-Feb": "51.7",
+        "Mar-May": "41.4",
+        "Jun-Sep": "577",
+        "Oct-Dec": "44.3"
+    },
+    "HARYANA_MAHENDRAGARH": {
+        "STATE_UT_NAME": "HARYANA",
+        "DISTRICT": "MAHENDRAGARH",
+        "ANNUAL": "476.2",
+        "Jan-Feb": "22.7",
+        "Mar-May": "33.6",
+        "Jun-Sep": "395.4",
+        "Oct-Dec": "24.5"
+    },
+    "HARYANA_ROHTAK": {
+        "STATE_UT_NAME": "HARYANA",
+        "DISTRICT": "ROHTAK",
+        "ANNUAL": "618",
+        "Jan-Feb": "36.1",
+        "Mar-May": "46.8",
+        "Jun-Sep": "508",
+        "Oct-Dec": "27.1"
+    },
+    "HARYANA_BHIWANI": {
+        "STATE_UT_NAME": "HARYANA",
+        "DISTRICT": "BHIWANI",
+        "ANNUAL": "419.5",
+        "Jan-Feb": "25",
+        "Mar-May": "24.8",
+        "Jun-Sep": "348.5",
+        "Oct-Dec": "21.2"
+    },
+    "HARYANA_FARIDABAD": {
+        "STATE_UT_NAME": "HARYANA",
+        "DISTRICT": "FARIDABAD",
+        "ANNUAL": "697.6",
+        "Jan-Feb": "28.8",
+        "Mar-May": "37.2",
+        "Jun-Sep": "600.2",
+        "Oct-Dec": "31.4"
+    },
+    "HARYANA_KURUKSHETRA": {
+        "STATE_UT_NAME": "HARYANA",
+        "DISTRICT": "KURUKSHETRA",
+        "ANNUAL": "691.4",
+        "Jan-Feb": "48.1",
+        "Mar-May": "41.5",
+        "Jun-Sep": "563",
+        "Oct-Dec": "38.8"
+    },
+    "HARYANA_SIRSA": {
+        "STATE_UT_NAME": "HARYANA",
+        "DISTRICT": "SIRSA",
+        "ANNUAL": "313.5",
+        "Jan-Feb": "22.6",
+        "Mar-May": "27.7",
+        "Jun-Sep": "242.1",
+        "Oct-Dec": "21.1"
+    },
+    "HARYANA_SONEPAT(RTK)": {
+        "STATE_UT_NAME": "HARYANA",
+        "DISTRICT": "SONEPAT(RTK)",
+        "ANNUAL": "644.2",
+        "Jan-Feb": "35",
+        "Mar-May": "40.7",
+        "Jun-Sep": "534.3",
+        "Oct-Dec": "34.2"
+    },
+    "HARYANA_YAMUNANAGAR": {
+        "STATE_UT_NAME": "HARYANA",
+        "DISTRICT": "YAMUNANAGAR",
+        "ANNUAL": "1107",
+        "Jan-Feb": "77.4",
+        "Mar-May": "73.4",
+        "Jun-Sep": "892.1",
+        "Oct-Dec": "64.1"
+    },
+    "HARYANA_KAITHAL": {
+        "STATE_UT_NAME": "HARYANA",
+        "DISTRICT": "KAITHAL",
+        "ANNUAL": "466.5",
+        "Jan-Feb": "32.9",
+        "Mar-May": "26.6",
+        "Jun-Sep": "384",
+        "Oct-Dec": "23"
+    },
+    "HARYANA_PANIPAT": {
+        "STATE_UT_NAME": "HARYANA",
+        "DISTRICT": "PANIPAT",
+        "ANNUAL": "624.1",
+        "Jan-Feb": "36.4",
+        "Mar-May": "32",
+        "Jun-Sep": "521.7",
+        "Oct-Dec": "34"
+    },
+    "HARYANA_REWARI": {
+        "STATE_UT_NAME": "HARYANA",
+        "DISTRICT": "REWARI",
+        "ANNUAL": "492.2",
+        "Jan-Feb": "17.8",
+        "Mar-May": "18.1",
+        "Jun-Sep": "435.8",
+        "Oct-Dec": "20.5"
+    },
+    "HARYANA_FATEHABAD": {
+        "STATE_UT_NAME": "HARYANA",
+        "DISTRICT": "FATEHABAD",
+        "ANNUAL": "364.6",
+        "Jan-Feb": "27.7",
+        "Mar-May": "32.9",
+        "Jun-Sep": "283",
+        "Oct-Dec": "21"
+    },
+    "HARYANA_JHAJJAR": {
+        "STATE_UT_NAME": "HARYANA",
+        "DISTRICT": "JHAJJAR",
+        "ANNUAL": "489",
+        "Jan-Feb": "24.9",
+        "Mar-May": "27.8",
+        "Jun-Sep": "417.3",
+        "Oct-Dec": "19"
+    },
+    "HARYANA_PANCHKULA": {
+        "STATE_UT_NAME": "HARYANA",
+        "DISTRICT": "PANCHKULA",
+        "ANNUAL": "1148.2",
+        "Jan-Feb": "81",
+        "Mar-May": "67.2",
+        "Jun-Sep": "950.4",
+        "Oct-Dec": "49.6"
+    },
+    "HARYANA_MEWAT": {
+        "STATE_UT_NAME": "HARYANA",
+        "DISTRICT": "MEWAT",
+        "ANNUAL": "572",
+        "Jan-Feb": "19",
+        "Mar-May": "21.3",
+        "Jun-Sep": "501.8",
+        "Oct-Dec": "29.9"
+    },
+    "HARYANA_PALWAL(FRD)": {
+        "STATE_UT_NAME": "HARYANA",
+        "DISTRICT": "PALWAL(FRD)",
+        "ANNUAL": "508.1",
+        "Jan-Feb": "17",
+        "Mar-May": "17.9",
+        "Jun-Sep": "446.9",
+        "Oct-Dec": "26.3"
+    },
+    "CHANDIGARH_CHANDIGARH": {
+        "STATE_UT_NAME": "CHANDIGARH",
+        "DISTRICT": "CHANDIGARH",
+        "ANNUAL": "1070.6",
+        "Jan-Feb": "83.2",
+        "Mar-May": "78.1",
+        "Jun-Sep": "844.2",
+        "Oct-Dec": "65.1"
+    },
+    "DELHI_NEW DELHI": {
+        "STATE_UT_NAME": "DELHI",
+        "DISTRICT": "NEW DELHI",
+        "ANNUAL": "747.1",
+        "Jan-Feb": "32.7",
+        "Mar-May": "43.5",
+        "Jun-Sep": "636.2",
+        "Oct-Dec": "34.7"
+    },
+    "DELHI_CENTRAL DELHI": {
+        "STATE_UT_NAME": "DELHI",
+        "DISTRICT": "CENTRAL DELHI",
+        "ANNUAL": "747.1",
+        "Jan-Feb": "32.7",
+        "Mar-May": "43.5",
+        "Jun-Sep": "636.2",
+        "Oct-Dec": "34.7"
+    },
+    "DELHI_EAST DELHI": {
+        "STATE_UT_NAME": "DELHI",
+        "DISTRICT": "EAST DELHI",
+        "ANNUAL": "747.1",
+        "Jan-Feb": "32.7",
+        "Mar-May": "43.5",
+        "Jun-Sep": "636.2",
+        "Oct-Dec": "34.7"
+    },
+    "DELHI_NORTH DELHI": {
+        "STATE_UT_NAME": "DELHI",
+        "DISTRICT": "NORTH DELHI",
+        "ANNUAL": "747.1",
+        "Jan-Feb": "32.7",
+        "Mar-May": "43.5",
+        "Jun-Sep": "636.2",
+        "Oct-Dec": "34.7"
+    },
+    "DELHI_NE DELHI": {
+        "STATE_UT_NAME": "DELHI",
+        "DISTRICT": "NE DELHI",
+        "ANNUAL": "747.1",
+        "Jan-Feb": "32.7",
+        "Mar-May": "43.5",
+        "Jun-Sep": "636.2",
+        "Oct-Dec": "34.7"
+    },
+    "DELHI_SW DELHI": {
+        "STATE_UT_NAME": "DELHI",
+        "DISTRICT": "SW DELHI",
+        "ANNUAL": "747.1",
+        "Jan-Feb": "32.7",
+        "Mar-May": "43.5",
+        "Jun-Sep": "636.2",
+        "Oct-Dec": "34.7"
+    },
+    "DELHI_NW DELHI": {
+        "STATE_UT_NAME": "DELHI",
+        "DISTRICT": "NW DELHI",
+        "ANNUAL": "747.1",
+        "Jan-Feb": "32.7",
+        "Mar-May": "43.5",
+        "Jun-Sep": "636.2",
+        "Oct-Dec": "34.7"
+    },
+    "DELHI_SOUTH DELHI": {
+        "STATE_UT_NAME": "DELHI",
+        "DISTRICT": "SOUTH DELHI",
+        "ANNUAL": "747.1",
+        "Jan-Feb": "32.7",
+        "Mar-May": "43.5",
+        "Jun-Sep": "636.2",
+        "Oct-Dec": "34.7"
+    },
+    "DELHI_WEST DELHI": {
+        "STATE_UT_NAME": "DELHI",
+        "DISTRICT": "WEST DELHI",
+        "ANNUAL": "747.1",
+        "Jan-Feb": "32.7",
+        "Mar-May": "43.5",
+        "Jun-Sep": "636.2",
+        "Oct-Dec": "34.7"
+    },
+    "PUNJAB_AMRITSAR": {
+        "STATE_UT_NAME": "PUNJAB",
+        "DISTRICT": "AMRITSAR",
+        "ANNUAL": "721.7",
+        "Jan-Feb": "59.4",
+        "Mar-May": "73.4",
+        "Jun-Sep": "537.6",
+        "Oct-Dec": "51.3"
+    },
+    "PUNJAB_BATHINDA": {
+        "STATE_UT_NAME": "PUNJAB",
+        "DISTRICT": "BATHINDA",
+        "ANNUAL": "407.9",
+        "Jan-Feb": "28.9",
+        "Mar-May": "30.7",
+        "Jun-Sep": "321",
+        "Oct-Dec": "27.3"
+    },
+    "PUNJAB_FEROZEPUR": {
+        "STATE_UT_NAME": "PUNJAB",
+        "DISTRICT": "FEROZEPUR",
+        "ANNUAL": "455.6",
+        "Jan-Feb": "30.2",
+        "Mar-May": "46",
+        "Jun-Sep": "352.3",
+        "Oct-Dec": "27.1"
+    },
+    "PUNJAB_GURDASPUR": {
+        "STATE_UT_NAME": "PUNJAB",
+        "DISTRICT": "GURDASPUR",
+        "ANNUAL": "1112.5",
+        "Jan-Feb": "109.9",
+        "Mar-May": "100.8",
+        "Jun-Sep": "827.8",
+        "Oct-Dec": "74"
+    },
+    "PUNJAB_HOSHIARPUR": {
+        "STATE_UT_NAME": "PUNJAB",
+        "DISTRICT": "HOSHIARPUR",
+        "ANNUAL": "933.1",
+        "Jan-Feb": "78.2",
+        "Mar-May": "76.2",
+        "Jun-Sep": "717.9",
+        "Oct-Dec": "60.8"
+    },
+    "PUNJAB_JALANDHAR": {
+        "STATE_UT_NAME": "PUNJAB",
+        "DISTRICT": "JALANDHAR",
+        "ANNUAL": "719.1",
+        "Jan-Feb": "57.2",
+        "Mar-May": "64.6",
+        "Jun-Sep": "551.5",
+        "Oct-Dec": "45.8"
+    },
+    "PUNJAB_KAPURTHALA": {
+        "STATE_UT_NAME": "PUNJAB",
+        "DISTRICT": "KAPURTHALA",
+        "ANNUAL": "568",
+        "Jan-Feb": "48.6",
+        "Mar-May": "49.4",
+        "Jun-Sep": "422.6",
+        "Oct-Dec": "47.4"
+    },
+    "PUNJAB_LUDHIANA": {
+        "STATE_UT_NAME": "PUNJAB",
+        "DISTRICT": "LUDHIANA",
+        "ANNUAL": "685.6",
+        "Jan-Feb": "50.4",
+        "Mar-May": "55.2",
+        "Jun-Sep": "534.2",
+        "Oct-Dec": "45.8"
+    },
+    "PUNJAB_PATIALA": {
+        "STATE_UT_NAME": "PUNJAB",
+        "DISTRICT": "PATIALA",
+        "ANNUAL": "752",
+        "Jan-Feb": "51.4",
+        "Mar-May": "45.5",
+        "Jun-Sep": "615.2",
+        "Oct-Dec": "39.9"
+    },
+    "PUNJAB_RUPNAGAR": {
+        "STATE_UT_NAME": "PUNJAB",
+        "DISTRICT": "RUPNAGAR",
+        "ANNUAL": "956.5",
+        "Jan-Feb": "80.5",
+        "Mar-May": "91.5",
+        "Jun-Sep": "728.5",
+        "Oct-Dec": "56"
+    },
+    "PUNJAB_SANGRUR": {
+        "STATE_UT_NAME": "PUNJAB",
+        "DISTRICT": "SANGRUR",
+        "ANNUAL": "557.4",
+        "Jan-Feb": "37.6",
+        "Mar-May": "45",
+        "Jun-Sep": "436.8",
+        "Oct-Dec": "38"
+    },
+    "PUNJAB_FARIDKOT": {
+        "STATE_UT_NAME": "PUNJAB",
+        "DISTRICT": "FARIDKOT",
+        "ANNUAL": "415.6",
+        "Jan-Feb": "30.4",
+        "Mar-May": "39",
+        "Jun-Sep": "325.1",
+        "Oct-Dec": "21.1"
+    },
+    "PUNJAB_MOGA": {
+        "STATE_UT_NAME": "PUNJAB",
+        "DISTRICT": "MOGA",
+        "ANNUAL": "460.6",
+        "Jan-Feb": "34.7",
+        "Mar-May": "40.4",
+        "Jun-Sep": "354",
+        "Oct-Dec": "31.5"
+    },
+    "PUNJAB_NAWANSHAHR": {
+        "STATE_UT_NAME": "PUNJAB",
+        "DISTRICT": "NAWANSHAHR",
+        "ANNUAL": "1005.6",
+        "Jan-Feb": "78.7",
+        "Mar-May": "73.7",
+        "Jun-Sep": "788.6",
+        "Oct-Dec": "64.6"
+    },
+    "PUNJAB_FATEHGARH SAH": {
+        "STATE_UT_NAME": "PUNJAB",
+        "DISTRICT": "FATEHGARH SAH",
+        "ANNUAL": "683.1",
+        "Jan-Feb": "46.7",
+        "Mar-May": "46.3",
+        "Jun-Sep": "547.1",
+        "Oct-Dec": "43"
+    },
+    "PUNJAB_MUKTSAR": {
+        "STATE_UT_NAME": "PUNJAB",
+        "DISTRICT": "MUKTSAR",
+        "ANNUAL": "399.5",
+        "Jan-Feb": "29.4",
+        "Mar-May": "36.1",
+        "Jun-Sep": "311.8",
+        "Oct-Dec": "22.2"
+    },
+    "PUNJAB_MANSA": {
+        "STATE_UT_NAME": "PUNJAB",
+        "DISTRICT": "MANSA",
+        "ANNUAL": "419.8",
+        "Jan-Feb": "30.7",
+        "Mar-May": "27.4",
+        "Jun-Sep": "334.8",
+        "Oct-Dec": "26.9"
+    },
+    "PUNJAB_BARNALA": {
+        "STATE_UT_NAME": "PUNJAB",
+        "DISTRICT": "BARNALA",
+        "ANNUAL": "449.4",
+        "Jan-Feb": "31.6",
+        "Mar-May": "31.1",
+        "Jun-Sep": "355.6",
+        "Oct-Dec": "31.1"
+    },
+    "PUNJAB_SAS NAGAR(MGA)": {
+        "STATE_UT_NAME": "PUNJAB",
+        "DISTRICT": "SAS NAGAR(MGA)",
+        "ANNUAL": "818.7",
+        "Jan-Feb": "58.1",
+        "Mar-May": "67.9",
+        "Jun-Sep": "644.5",
+        "Oct-Dec": "48.2"
+    },
+    "PUNJAB_TARN TARAN": {
+        "STATE_UT_NAME": "PUNJAB",
+        "DISTRICT": "TARN TARAN",
+        "ANNUAL": "449.2",
+        "Jan-Feb": "36.3",
+        "Mar-May": "44.3",
+        "Jun-Sep": "336.8",
+        "Oct-Dec": "31.8"
+    },
+    "HIMACHAL_BILASPUR": {
+        "STATE_UT_NAME": "HIMACHAL",
+        "DISTRICT": "BILASPUR",
+        "ANNUAL": "1197.2",
+        "Jan-Feb": "129.3",
+        "Mar-May": "121.2",
+        "Jun-Sep": "877",
+        "Oct-Dec": "69.7"
+    },
+    "HIMACHAL_CHAMBA": {
+        "STATE_UT_NAME": "HIMACHAL",
+        "DISTRICT": "CHAMBA",
+        "ANNUAL": "1997.1",
+        "Jan-Feb": "239",
+        "Mar-May": "224.9",
+        "Jun-Sep": "1406.4",
+        "Oct-Dec": "126.8"
+    },
+    "HIMACHAL_KANGRA": {
+        "STATE_UT_NAME": "HIMACHAL",
+        "DISTRICT": "KANGRA",
+        "ANNUAL": "2019.8",
+        "Jan-Feb": "163.2",
+        "Mar-May": "169.9",
+        "Jun-Sep": "1582.1",
+        "Oct-Dec": "104.6"
+    },
+    "HIMACHAL_KINNAUR": {
+        "STATE_UT_NAME": "HIMACHAL",
+        "DISTRICT": "KINNAUR",
+        "ANNUAL": "836.4",
+        "Jan-Feb": "209.9",
+        "Mar-May": "260.7",
+        "Jun-Sep": "264.2",
+        "Oct-Dec": "101.6"
+    },
+    "HIMACHAL_KULLU": {
+        "STATE_UT_NAME": "HIMACHAL",
+        "DISTRICT": "KULLU",
+        "ANNUAL": "1088.1",
+        "Jan-Feb": "183.9",
+        "Mar-May": "286.8",
+        "Jun-Sep": "519.7",
+        "Oct-Dec": "97.7"
+    },
+    "HIMACHAL_LAHUL & SPITI": {
+        "STATE_UT_NAME": "HIMACHAL",
+        "DISTRICT": "LAHUL & SPITI",
+        "ANNUAL": "1248.8",
+        "Jan-Feb": "269.9",
+        "Mar-May": "377.2",
+        "Jun-Sep": "458.2",
+        "Oct-Dec": "143.5"
+    },
+    "HIMACHAL_MANDI": {
+        "STATE_UT_NAME": "HIMACHAL",
+        "DISTRICT": "MANDI",
+        "ANNUAL": "1506.9",
+        "Jan-Feb": "138.6",
+        "Mar-May": "194.3",
+        "Jun-Sep": "1093.4",
+        "Oct-Dec": "80.6"
+    },
+    "HIMACHAL_HAMIRPUR": {
+        "STATE_UT_NAME": "HIMACHAL",
+        "DISTRICT": "HAMIRPUR",
+        "ANNUAL": "1428.2",
+        "Jan-Feb": "134.4",
+        "Mar-May": "128.9",
+        "Jun-Sep": "1078.9",
+        "Oct-Dec": "86"
+    },
+    "HIMACHAL_SHIMLA": {
+        "STATE_UT_NAME": "HIMACHAL",
+        "DISTRICT": "SHIMLA",
+        "ANNUAL": "1041.4",
+        "Jan-Feb": "139.4",
+        "Mar-May": "193.3",
+        "Jun-Sep": "633.9",
+        "Oct-Dec": "74.8"
+    },
+    "HIMACHAL_SIRMAUR": {
+        "STATE_UT_NAME": "HIMACHAL",
+        "DISTRICT": "SIRMAUR",
+        "ANNUAL": "1618.3",
+        "Jan-Feb": "111.7",
+        "Mar-May": "94.7",
+        "Jun-Sep": "1324.6",
+        "Oct-Dec": "87.3"
+    },
+    "HIMACHAL_SOLAN": {
+        "STATE_UT_NAME": "HIMACHAL",
+        "DISTRICT": "SOLAN",
+        "ANNUAL": "1366.2",
+        "Jan-Feb": "137.8",
+        "Mar-May": "139.3",
+        "Jun-Sep": "1000.1",
+        "Oct-Dec": "89"
+    },
+    "HIMACHAL_UNA": {
+        "STATE_UT_NAME": "HIMACHAL",
+        "DISTRICT": "UNA",
+        "ANNUAL": "1110.7",
+        "Jan-Feb": "91.4",
+        "Mar-May": "84.9",
+        "Jun-Sep": "862.7",
+        "Oct-Dec": "71.7"
+    },
+    "JAMMU AND KASHMIR_ANANTNAG": {
+        "STATE_UT_NAME": "JAMMU AND KASHMIR",
+        "DISTRICT": "ANANTNAG",
+        "ANNUAL": "969.6",
+        "Jan-Feb": "183.9",
+        "Mar-May": "367.2",
+        "Jun-Sep": "285.1",
+        "Oct-Dec": "133.4"
+    },
+    "JAMMU AND KASHMIR_BARAMULLA": {
+        "STATE_UT_NAME": "JAMMU AND KASHMIR",
+        "DISTRICT": "BARAMULLA",
+        "ANNUAL": "1132",
+        "Jan-Feb": "273.1",
+        "Mar-May": "446.9",
+        "Jun-Sep": "247.7",
+        "Oct-Dec": "164.3"
+    },
+    "JAMMU AND KASHMIR_DODA": {
+        "STATE_UT_NAME": "JAMMU AND KASHMIR",
+        "DISTRICT": "DODA",
+        "ANNUAL": "1335.5",
+        "Jan-Feb": "281.2",
+        "Mar-May": "441.4",
+        "Jun-Sep": "441.4",
+        "Oct-Dec": "171.5"
+    },
+    "JAMMU AND KASHMIR_JAMMU": {
+        "STATE_UT_NAME": "JAMMU AND KASHMIR",
+        "DISTRICT": "JAMMU",
+        "ANNUAL": "1211.3",
+        "Jan-Feb": "122.9",
+        "Mar-May": "146",
+        "Jun-Sep": "860.5",
+        "Oct-Dec": "81.9"
+    },
+    "JAMMU AND KASHMIR_KATHUA": {
+        "STATE_UT_NAME": "JAMMU AND KASHMIR",
+        "DISTRICT": "KATHUA",
+        "ANNUAL": "1268.2",
+        "Jan-Feb": "144.7",
+        "Mar-May": "77.9",
+        "Jun-Sep": "982",
+        "Oct-Dec": "63.6"
+    },
+    "JAMMU AND KASHMIR_LADAKH (LEH)": {
+        "STATE_UT_NAME": "JAMMU AND KASHMIR",
+        "DISTRICT": "LADAKH (LEH)",
+        "ANNUAL": "94.6",
+        "Jan-Feb": "15.4",
+        "Mar-May": "24.8",
+        "Jun-Sep": "39.6",
+        "Oct-Dec": "14.8"
+    },
+    "JAMMU AND KASHMIR_UDHAMPUR": {
+        "STATE_UT_NAME": "JAMMU AND KASHMIR",
+        "DISTRICT": "UDHAMPUR",
+        "ANNUAL": "1973.9",
+        "Jan-Feb": "228.8",
+        "Mar-May": "240.2",
+        "Jun-Sep": "1377.2",
+        "Oct-Dec": "127.7"
+    },
+    "JAMMU AND KASHMIR_BADGAM": {
+        "STATE_UT_NAME": "JAMMU AND KASHMIR",
+        "DISTRICT": "BADGAM",
+        "ANNUAL": "671.7",
+        "Jan-Feb": "122.5",
+        "Mar-May": "274.2",
+        "Jun-Sep": "186.4",
+        "Oct-Dec": "88.6"
+    },
+    "JAMMU AND KASHMIR_KUPWARA": {
+        "STATE_UT_NAME": "JAMMU AND KASHMIR",
+        "DISTRICT": "KUPWARA",
+        "ANNUAL": "1132.7",
+        "Jan-Feb": "213.4",
+        "Mar-May": "495",
+        "Jun-Sep": "253.2",
+        "Oct-Dec": "171.1"
+    },
+    "JAMMU AND KASHMIR_PULWAMA": {
+        "STATE_UT_NAME": "JAMMU AND KASHMIR",
+        "DISTRICT": "PULWAMA",
+        "ANNUAL": "504.6",
+        "Jan-Feb": "90.7",
+        "Mar-May": "207.5",
+        "Jun-Sep": "151.4",
+        "Oct-Dec": "55"
+    },
+    "JAMMU AND KASHMIR_SRINAGAR": {
+        "STATE_UT_NAME": "JAMMU AND KASHMIR",
+        "DISTRICT": "SRINAGAR",
+        "ANNUAL": "673.6",
+        "Jan-Feb": "125.5",
+        "Mar-May": "258.8",
+        "Jun-Sep": "184.3",
+        "Oct-Dec": "105"
+    },
+    "JAMMU AND KASHMIR_KARGIL": {
+        "STATE_UT_NAME": "JAMMU AND KASHMIR",
+        "DISTRICT": "KARGIL",
+        "ANNUAL": "223.3",
+        "Jan-Feb": "51.2",
+        "Mar-May": "66.8",
+        "Jun-Sep": "49.7",
+        "Oct-Dec": "55.6"
+    },
+    "JAMMU AND KASHMIR_POONCH": {
+        "STATE_UT_NAME": "JAMMU AND KASHMIR",
+        "DISTRICT": "POONCH",
+        "ANNUAL": "1474.1",
+        "Jan-Feb": "263.1",
+        "Mar-May": "327.1",
+        "Jun-Sep": "760.5",
+        "Oct-Dec": "123.4"
+    },
+    "JAMMU AND KASHMIR_RAJOURI": {
+        "STATE_UT_NAME": "JAMMU AND KASHMIR",
+        "DISTRICT": "RAJOURI",
+        "ANNUAL": "957.2",
+        "Jan-Feb": "126",
+        "Mar-May": "111.7",
+        "Jun-Sep": "649.5",
+        "Oct-Dec": "70"
+    },
+    "JAMMU AND KASHMIR_BANDIPORE": {
+        "STATE_UT_NAME": "JAMMU AND KASHMIR",
+        "DISTRICT": "BANDIPORE",
+        "ANNUAL": "700.4",
+        "Jan-Feb": "162",
+        "Mar-May": "272.5",
+        "Jun-Sep": "168.6",
+        "Oct-Dec": "97.3"
+    },
+    "JAMMU AND KASHMIR_GANDERWAL": {
+        "STATE_UT_NAME": "JAMMU AND KASHMIR",
+        "DISTRICT": "GANDERWAL",
+        "ANNUAL": "673.6",
+        "Jan-Feb": "125.5",
+        "Mar-May": "258.8",
+        "Jun-Sep": "184.3",
+        "Oct-Dec": "105"
+    },
+    "JAMMU AND KASHMIR_KULGAM/(ANT)": {
+        "STATE_UT_NAME": "JAMMU AND KASHMIR",
+        "DISTRICT": "KULGAM/(ANT)",
+        "ANNUAL": "878.9",
+        "Jan-Feb": "146.5",
+        "Mar-May": "369.6",
+        "Jun-Sep": "268.9",
+        "Oct-Dec": "93.9"
+    },
+    "JAMMU AND KASHMIR_SHOPAN": {
+        "STATE_UT_NAME": "JAMMU AND KASHMIR",
+        "DISTRICT": "SHOPAN",
+        "ANNUAL": "818.7",
+        "Jan-Feb": "121.4",
+        "Mar-May": "331.2",
+        "Jun-Sep": "265.7",
+        "Oct-Dec": "100.4"
+    },
+    "JAMMU AND KASHMIR_SAMBA": {
+        "STATE_UT_NAME": "JAMMU AND KASHMIR",
+        "DISTRICT": "SAMBA",
+        "ANNUAL": "1211.3",
+        "Jan-Feb": "122.9",
+        "Mar-May": "146",
+        "Jun-Sep": "860.5",
+        "Oct-Dec": "81.9"
+    },
+    "JAMMU AND KASHMIR_KISTWAR": {
+        "STATE_UT_NAME": "JAMMU AND KASHMIR",
+        "DISTRICT": "KISTWAR",
+        "ANNUAL": "1335.5",
+        "Jan-Feb": "281.2",
+        "Mar-May": "441.4",
+        "Jun-Sep": "441.4",
+        "Oct-Dec": "171.5"
+    },
+    "JAMMU AND KASHMIR_REASI": {
+        "STATE_UT_NAME": "JAMMU AND KASHMIR",
+        "DISTRICT": "REASI",
+        "ANNUAL": "1796.5",
+        "Jan-Feb": "194.5",
+        "Mar-May": "168.1",
+        "Jun-Sep": "1322.6",
+        "Oct-Dec": "111.3"
+    },
+    "JAMMU AND KASHMIR_RAMBAN(DDA)": {
+        "STATE_UT_NAME": "JAMMU AND KASHMIR",
+        "DISTRICT": "RAMBAN(DDA)",
+        "ANNUAL": "1328.4",
+        "Jan-Feb": "335.3",
+        "Mar-May": "409.5",
+        "Jun-Sep": "400.6",
+        "Oct-Dec": "183"
+    },
+    "RAJASTHAN_BARMER": {
+        "STATE_UT_NAME": "RAJASTHAN",
+        "DISTRICT": "BARMER",
+        "ANNUAL": "268.6",
+        "Jan-Feb": "2.9",
+        "Mar-May": "14.6",
+        "Jun-Sep": "243.4",
+        "Oct-Dec": "7.7"
+    },
+    "RAJASTHAN_BIKANER": {
+        "STATE_UT_NAME": "RAJASTHAN",
+        "DISTRICT": "BIKANER",
+        "ANNUAL": "274",
+        "Jan-Feb": "11.9",
+        "Mar-May": "24.1",
+        "Jun-Sep": "228.7",
+        "Oct-Dec": "9.3"
+    },
+    "RAJASTHAN_CHURU": {
+        "STATE_UT_NAME": "RAJASTHAN",
+        "DISTRICT": "CHURU",
+        "ANNUAL": "369.6",
+        "Jan-Feb": "13.6",
+        "Mar-May": "27.6",
+        "Jun-Sep": "313.7",
+        "Oct-Dec": "14.7"
+    },
+    "RAJASTHAN_SRI GANGANAGA": {
+        "STATE_UT_NAME": "RAJASTHAN",
+        "DISTRICT": "SRI GANGANAGA",
+        "ANNUAL": "252.9",
+        "Jan-Feb": "14",
+        "Mar-May": "27.9",
+        "Jun-Sep": "201.4",
+        "Oct-Dec": "9.6"
+    },
+    "RAJASTHAN_JAISALMER": {
+        "STATE_UT_NAME": "RAJASTHAN",
+        "DISTRICT": "JAISALMER",
+        "ANNUAL": "181.2",
+        "Jan-Feb": "4.6",
+        "Mar-May": "12.6",
+        "Jun-Sep": "158.4",
+        "Oct-Dec": "5.6"
+    },
+    "RAJASTHAN_JALORE": {
+        "STATE_UT_NAME": "RAJASTHAN",
+        "DISTRICT": "JALORE",
+        "ANNUAL": "427.1",
+        "Jan-Feb": "2.9",
+        "Mar-May": "12.2",
+        "Jun-Sep": "394.2",
+        "Oct-Dec": "17.8"
+    },
+    "RAJASTHAN_JODHPUR": {
+        "STATE_UT_NAME": "RAJASTHAN",
+        "DISTRICT": "JODHPUR",
+        "ANNUAL": "308.1",
+        "Jan-Feb": "6",
+        "Mar-May": "19",
+        "Jun-Sep": "274.5",
+        "Oct-Dec": "8.6"
+    },
+    "RAJASTHAN_NAGAUR": {
+        "STATE_UT_NAME": "RAJASTHAN",
+        "DISTRICT": "NAGAUR",
+        "ANNUAL": "394.1",
+        "Jan-Feb": "9.6",
+        "Mar-May": "22.7",
+        "Jun-Sep": "348.5",
+        "Oct-Dec": "13.3"
+    },
+    "RAJASTHAN_PALI": {
+        "STATE_UT_NAME": "RAJASTHAN",
+        "DISTRICT": "PALI",
+        "ANNUAL": "485.7",
+        "Jan-Feb": "6.2",
+        "Mar-May": "15.1",
+        "Jun-Sep": "446.7",
+        "Oct-Dec": "17.7"
+    },
+    "RAJASTHAN_HANUMANGARH": {
+        "STATE_UT_NAME": "RAJASTHAN",
+        "DISTRICT": "HANUMANGARH",
+        "ANNUAL": "301.6",
+        "Jan-Feb": "16.1",
+        "Mar-May": "23.6",
+        "Jun-Sep": "252.5",
+        "Oct-Dec": "9.4"
+    },
+    "RAJASTHAN_AJMER": {
+        "STATE_UT_NAME": "RAJASTHAN",
+        "DISTRICT": "AJMER",
+        "ANNUAL": "462.2",
+        "Jan-Feb": "5.7",
+        "Mar-May": "13.2",
+        "Jun-Sep": "429.6",
+        "Oct-Dec": "13.7"
+    },
+    "RAJASTHAN_ALWAR": {
+        "STATE_UT_NAME": "RAJASTHAN",
+        "DISTRICT": "ALWAR",
+        "ANNUAL": "630.9",
+        "Jan-Feb": "19.8",
+        "Mar-May": "26.9",
+        "Jun-Sep": "555.3",
+        "Oct-Dec": "28.9"
+    },
+    "RAJASTHAN_BANSWARA": {
+        "STATE_UT_NAME": "RAJASTHAN",
+        "DISTRICT": "BANSWARA",
+        "ANNUAL": "883",
+        "Jan-Feb": "3.3",
+        "Mar-May": "7.7",
+        "Jun-Sep": "831.8",
+        "Oct-Dec": "40.2"
+    },
+    "RAJASTHAN_BHARATPUR": {
+        "STATE_UT_NAME": "RAJASTHAN",
+        "DISTRICT": "BHARATPUR",
+        "ANNUAL": "621.1",
+        "Jan-Feb": "18.2",
+        "Mar-May": "20.3",
+        "Jun-Sep": "557.6",
+        "Oct-Dec": "25"
+    },
+    "RAJASTHAN_BHILWARA": {
+        "STATE_UT_NAME": "RAJASTHAN",
+        "DISTRICT": "BHILWARA",
+        "ANNUAL": "630.2",
+        "Jan-Feb": "8.6",
+        "Mar-May": "17.3",
+        "Jun-Sep": "580.9",
+        "Oct-Dec": "23.4"
+    },
+    "RAJASTHAN_BUNDI": {
+        "STATE_UT_NAME": "RAJASTHAN",
+        "DISTRICT": "BUNDI",
+        "ANNUAL": "705.6",
+        "Jan-Feb": "8.9",
+        "Mar-May": "12.2",
+        "Jun-Sep": "655.9",
+        "Oct-Dec": "28.6"
+    },
+    "RAJASTHAN_CHITTORGARH": {
+        "STATE_UT_NAME": "RAJASTHAN",
+        "DISTRICT": "CHITTORGARH",
+        "ANNUAL": "765.3",
+        "Jan-Feb": "5.8",
+        "Mar-May": "16.1",
+        "Jun-Sep": "709.7",
+        "Oct-Dec": "33.7"
+    },
+    "RAJASTHAN_DUNGARPUR": {
+        "STATE_UT_NAME": "RAJASTHAN",
+        "DISTRICT": "DUNGARPUR",
+        "ANNUAL": "677.8",
+        "Jan-Feb": "2.3",
+        "Mar-May": "7.6",
+        "Jun-Sep": "637.8",
+        "Oct-Dec": "30.1"
+    },
+    "RAJASTHAN_JAIPUR": {
+        "STATE_UT_NAME": "RAJASTHAN",
+        "DISTRICT": "JAIPUR",
+        "ANNUAL": "577.2",
+        "Jan-Feb": "14.2",
+        "Mar-May": "21.3",
+        "Jun-Sep": "524.6",
+        "Oct-Dec": "17.1"
+    },
+    "RAJASTHAN_JHALAWAR": {
+        "STATE_UT_NAME": "RAJASTHAN",
+        "DISTRICT": "JHALAWAR",
+        "ANNUAL": "920.2",
+        "Jan-Feb": "9.1",
+        "Mar-May": "11.8",
+        "Jun-Sep": "855.1",
+        "Oct-Dec": "44.2"
+    },
+    "RAJASTHAN_JHUNJHUNU": {
+        "STATE_UT_NAME": "RAJASTHAN",
+        "DISTRICT": "JHUNJHUNU",
+        "ANNUAL": "481",
+        "Jan-Feb": "16.8",
+        "Mar-May": "32",
+        "Jun-Sep": "410",
+        "Oct-Dec": "22.2"
+    },
+    "RAJASTHAN_KOTA": {
+        "STATE_UT_NAME": "RAJASTHAN",
+        "DISTRICT": "KOTA",
+        "ANNUAL": "807.9",
+        "Jan-Feb": "10",
+        "Mar-May": "12.6",
+        "Jun-Sep": "746.3",
+        "Oct-Dec": "39"
+    },
+    "RAJASTHAN_SAWAI MADHOPUR": {
+        "STATE_UT_NAME": "RAJASTHAN",
+        "DISTRICT": "SAWAI MADHOPUR",
+        "ANNUAL": "721",
+        "Jan-Feb": "13.7",
+        "Mar-May": "15.6",
+        "Jun-Sep": "664",
+        "Oct-Dec": "27.7"
+    },
+    "RAJASTHAN_SIKAR": {
+        "STATE_UT_NAME": "RAJASTHAN",
+        "DISTRICT": "SIKAR",
+        "ANNUAL": "463.8",
+        "Jan-Feb": "15.5",
+        "Mar-May": "28",
+        "Jun-Sep": "402.5",
+        "Oct-Dec": "17.8"
+    },
+    "RAJASTHAN_SIROHI": {
+        "STATE_UT_NAME": "RAJASTHAN",
+        "DISTRICT": "SIROHI",
+        "ANNUAL": "913.4",
+        "Jan-Feb": "5.6",
+        "Mar-May": "16",
+        "Jun-Sep": "868.6",
+        "Oct-Dec": "23.2"
+    },
+    "RAJASTHAN_TONK": {
+        "STATE_UT_NAME": "RAJASTHAN",
+        "DISTRICT": "TONK",
+        "ANNUAL": "613.9",
+        "Jan-Feb": "10.3",
+        "Mar-May": "15.8",
+        "Jun-Sep": "566",
+        "Oct-Dec": "21.8"
+    },
+    "RAJASTHAN_UDAIPUR": {
+        "STATE_UT_NAME": "RAJASTHAN",
+        "DISTRICT": "UDAIPUR",
+        "ANNUAL": "639.7",
+        "Jan-Feb": "4.8",
+        "Mar-May": "14.7",
+        "Jun-Sep": "591.3",
+        "Oct-Dec": "28.9"
+    },
+    "RAJASTHAN_DHOLPUR": {
+        "STATE_UT_NAME": "RAJASTHAN",
+        "DISTRICT": "DHOLPUR",
+        "ANNUAL": "722.1",
+        "Jan-Feb": "18.1",
+        "Mar-May": "18.1",
+        "Jun-Sep": "650",
+        "Oct-Dec": "35.9"
+    },
+    "RAJASTHAN_BARAN": {
+        "STATE_UT_NAME": "RAJASTHAN",
+        "DISTRICT": "BARAN",
+        "ANNUAL": "852.7",
+        "Jan-Feb": "10.3",
+        "Mar-May": "11",
+        "Jun-Sep": "792.2",
+        "Oct-Dec": "39.2"
+    },
+    "RAJASTHAN_DAUSA": {
+        "STATE_UT_NAME": "RAJASTHAN",
+        "DISTRICT": "DAUSA",
+        "ANNUAL": "674.8",
+        "Jan-Feb": "15.7",
+        "Mar-May": "21.1",
+        "Jun-Sep": "612.1",
+        "Oct-Dec": "25.9"
+    },
+    "RAJASTHAN_RAJSAMAND": {
+        "STATE_UT_NAME": "RAJASTHAN",
+        "DISTRICT": "RAJSAMAND",
+        "ANNUAL": "554.5",
+        "Jan-Feb": "6.2",
+        "Mar-May": "18.6",
+        "Jun-Sep": "506",
+        "Oct-Dec": "23.7"
+    },
+    "RAJASTHAN_KARAULI": {
+        "STATE_UT_NAME": "RAJASTHAN",
+        "DISTRICT": "KARAULI",
+        "ANNUAL": "696.2",
+        "Jan-Feb": "16.8",
+        "Mar-May": "15.8",
+        "Jun-Sep": "637.4",
+        "Oct-Dec": "26.2"
+    },
+    "RAJASTHAN_PRATAPGARH(CHT": {
+        "STATE_UT_NAME": "RAJASTHAN",
+        "DISTRICT": "PRATAPGARH(CHT",
+        "ANNUAL": "915.3",
+        "Jan-Feb": "4.8",
+        "Mar-May": "12.5",
+        "Jun-Sep": "845.8",
+        "Oct-Dec": "52.2"
+    },
+    "MADHYA PRADESH_BETUL": {
+        "STATE_UT_NAME": "MADHYA PRADESH",
+        "DISTRICT": "BETUL",
+        "ANNUAL": "1028.8",
+        "Jan-Feb": "16",
+        "Mar-May": "21.6",
+        "Jun-Sep": "918.5",
+        "Oct-Dec": "72.7"
+    },
+    "MADHYA PRADESH_VIDISHA": {
+        "STATE_UT_NAME": "MADHYA PRADESH",
+        "DISTRICT": "VIDISHA",
+        "ANNUAL": "1084.8",
+        "Jan-Feb": "22.2",
+        "Mar-May": "10.9",
+        "Jun-Sep": "1005",
+        "Oct-Dec": "46.7"
+    },
+    "MADHYA PRADESH_BHIND": {
+        "STATE_UT_NAME": "MADHYA PRADESH",
+        "DISTRICT": "BHIND",
+        "ANNUAL": "763.4",
+        "Jan-Feb": "17.5",
+        "Mar-May": "10.1",
+        "Jun-Sep": "685.5",
+        "Oct-Dec": "50.3"
+    },
+    "MADHYA PRADESH_DATIA": {
+        "STATE_UT_NAME": "MADHYA PRADESH",
+        "DISTRICT": "DATIA",
+        "ANNUAL": "860.2",
+        "Jan-Feb": "17.6",
+        "Mar-May": "15",
+        "Jun-Sep": "775.8",
+        "Oct-Dec": "51.8"
+    },
+    "MADHYA PRADESH_DEWAS": {
+        "STATE_UT_NAME": "MADHYA PRADESH",
+        "DISTRICT": "DEWAS",
+        "ANNUAL": "1031.4",
+        "Jan-Feb": "11.5",
+        "Mar-May": "11.3",
+        "Jun-Sep": "949.8",
+        "Oct-Dec": "58.8"
+    },
+    "MADHYA PRADESH_DHAR": {
+        "STATE_UT_NAME": "MADHYA PRADESH",
+        "DISTRICT": "DHAR",
+        "ANNUAL": "886.1",
+        "Jan-Feb": "4.3",
+        "Mar-May": "6.3",
+        "Jun-Sep": "826.8",
+        "Oct-Dec": "48.7"
+    },
+    "MADHYA PRADESH_GUNA": {
+        "STATE_UT_NAME": "MADHYA PRADESH",
+        "DISTRICT": "GUNA",
+        "ANNUAL": "1028.3",
+        "Jan-Feb": "19.2",
+        "Mar-May": "17.6",
+        "Jun-Sep": "943",
+        "Oct-Dec": "48.5"
+    },
+    "MADHYA PRADESH_GWALIOR": {
+        "STATE_UT_NAME": "MADHYA PRADESH",
+        "DISTRICT": "GWALIOR",
+        "ANNUAL": "885.9",
+        "Jan-Feb": "23.1",
+        "Mar-May": "17.4",
+        "Jun-Sep": "790.6",
+        "Oct-Dec": "54.8"
+    },
+    "MADHYA PRADESH_HOSHANGABAD": {
+        "STATE_UT_NAME": "MADHYA PRADESH",
+        "DISTRICT": "HOSHANGABAD",
+        "ANNUAL": "1392.2",
+        "Jan-Feb": "20.1",
+        "Mar-May": "20.4",
+        "Jun-Sep": "1289.1",
+        "Oct-Dec": "62.6"
+    },
+    "MADHYA PRADESH_INDORE": {
+        "STATE_UT_NAME": "MADHYA PRADESH",
+        "DISTRICT": "INDORE",
+        "ANNUAL": "917.3",
+        "Jan-Feb": "8.2",
+        "Mar-May": "11.3",
+        "Jun-Sep": "839.7",
+        "Oct-Dec": "58.1"
+    },
+    "MADHYA PRADESH_JHABUA": {
+        "STATE_UT_NAME": "MADHYA PRADESH",
+        "DISTRICT": "JHABUA",
+        "ANNUAL": "812.8",
+        "Jan-Feb": "2.9",
+        "Mar-May": "9.6",
+        "Jun-Sep": "745.3",
+        "Oct-Dec": "55"
+    },
+    "MADHYA PRADESH_MANDSAUR": {
+        "STATE_UT_NAME": "MADHYA PRADESH",
+        "DISTRICT": "MANDSAUR",
+        "ANNUAL": "850.1",
+        "Jan-Feb": "6.7",
+        "Mar-May": "11.3",
+        "Jun-Sep": "780",
+        "Oct-Dec": "52.1"
+    },
+    "MADHYA PRADESH_MORENA": {
+        "STATE_UT_NAME": "MADHYA PRADESH",
+        "DISTRICT": "MORENA",
+        "ANNUAL": "777",
+        "Jan-Feb": "19.2",
+        "Mar-May": "14.4",
+        "Jun-Sep": "708.2",
+        "Oct-Dec": "35.2"
+    },
+    "MADHYA PRADESH_KHANDWA": {
+        "STATE_UT_NAME": "MADHYA PRADESH",
+        "DISTRICT": "KHANDWA",
+        "ANNUAL": "940",
+        "Jan-Feb": "11.4",
+        "Mar-May": "17.5",
+        "Jun-Sep": "850.8",
+        "Oct-Dec": "60.3"
+    },
+    "MADHYA PRADESH_KHARGONE": {
+        "STATE_UT_NAME": "MADHYA PRADESH",
+        "DISTRICT": "KHARGONE",
+        "ANNUAL": "826.9",
+        "Jan-Feb": "7.8",
+        "Mar-May": "10.6",
+        "Jun-Sep": "758.5",
+        "Oct-Dec": "50"
+    },
+    "MADHYA PRADESH_RAISEN": {
+        "STATE_UT_NAME": "MADHYA PRADESH",
+        "DISTRICT": "RAISEN",
+        "ANNUAL": "1200.5",
+        "Jan-Feb": "19.6",
+        "Mar-May": "14.6",
+        "Jun-Sep": "1114.8",
+        "Oct-Dec": "51.5"
+    },
+    "MADHYA PRADESH_RAJGARH": {
+        "STATE_UT_NAME": "MADHYA PRADESH",
+        "DISTRICT": "RAJGARH",
+        "ANNUAL": "966.7",
+        "Jan-Feb": "14",
+        "Mar-May": "11.8",
+        "Jun-Sep": "890.2",
+        "Oct-Dec": "50.7"
+    },
+    "MADHYA PRADESH_RATLAM": {
+        "STATE_UT_NAME": "MADHYA PRADESH",
+        "DISTRICT": "RATLAM",
+        "ANNUAL": "947.8",
+        "Jan-Feb": "6.6",
+        "Mar-May": "9.2",
+        "Jun-Sep": "871.3",
+        "Oct-Dec": "60.7"
+    },
+    "MADHYA PRADESH_SEHORE": {
+        "STATE_UT_NAME": "MADHYA PRADESH",
+        "DISTRICT": "SEHORE",
+        "ANNUAL": "1152.6",
+        "Jan-Feb": "15.8",
+        "Mar-May": "12.4",
+        "Jun-Sep": "1067.5",
+        "Oct-Dec": "56.9"
+    },
+    "MADHYA PRADESH_SHAJAPUR": {
+        "STATE_UT_NAME": "MADHYA PRADESH",
+        "DISTRICT": "SHAJAPUR",
+        "ANNUAL": "949.4",
+        "Jan-Feb": "13.5",
+        "Mar-May": "12.4",
+        "Jun-Sep": "873.9",
+        "Oct-Dec": "49.6"
+    },
+    "MADHYA PRADESH_SHIVPURI": {
+        "STATE_UT_NAME": "MADHYA PRADESH",
+        "DISTRICT": "SHIVPURI",
+        "ANNUAL": "859.4",
+        "Jan-Feb": "19.8",
+        "Mar-May": "12.8",
+        "Jun-Sep": "779.8",
+        "Oct-Dec": "47"
+    },
+    "MADHYA PRADESH_UJJAIN": {
+        "STATE_UT_NAME": "MADHYA PRADESH",
+        "DISTRICT": "UJJAIN",
+        "ANNUAL": "905.7",
+        "Jan-Feb": "8.5",
+        "Mar-May": "8.2",
+        "Jun-Sep": "833.7",
+        "Oct-Dec": "55.3"
+    },
+    "MADHYA PRADESH_BHOPAL": {
+        "STATE_UT_NAME": "MADHYA PRADESH",
+        "DISTRICT": "BHOPAL",
+        "ANNUAL": "1087.7",
+        "Jan-Feb": "18.8",
+        "Mar-May": "18.7",
+        "Jun-Sep": "998.6",
+        "Oct-Dec": "51.6"
+    },
+    "MADHYA PRADESH_HARDA": {
+        "STATE_UT_NAME": "MADHYA PRADESH",
+        "DISTRICT": "HARDA",
+        "ANNUAL": "1128.3",
+        "Jan-Feb": "15.2",
+        "Mar-May": "10.4",
+        "Jun-Sep": "1042.3",
+        "Oct-Dec": "60.4"
+    },
+    "MADHYA PRADESH_NEEMUCH": {
+        "STATE_UT_NAME": "MADHYA PRADESH",
+        "DISTRICT": "NEEMUCH",
+        "ANNUAL": "813.8",
+        "Jan-Feb": "7.3",
+        "Mar-May": "12.1",
+        "Jun-Sep": "747.4",
+        "Oct-Dec": "47"
+    },
+    "MADHYA PRADESH_SHEOPUR": {
+        "STATE_UT_NAME": "MADHYA PRADESH",
+        "DISTRICT": "SHEOPUR",
+        "ANNUAL": "791.9",
+        "Jan-Feb": "13.1",
+        "Mar-May": "13.3",
+        "Jun-Sep": "727.4",
+        "Oct-Dec": "38.1"
+    },
+    "MADHYA PRADESH_BARWANI": {
+        "STATE_UT_NAME": "MADHYA PRADESH",
+        "DISTRICT": "BARWANI",
+        "ANNUAL": "701.2",
+        "Jan-Feb": "3.7",
+        "Mar-May": "10",
+        "Jun-Sep": "635.4",
+        "Oct-Dec": "52.1"
+    },
+    "MADHYA PRADESH_ASHOKNAGAR(GNA": {
+        "STATE_UT_NAME": "MADHYA PRADESH",
+        "DISTRICT": "ASHOKNAGAR(GNA",
+        "ANNUAL": "926.7",
+        "Jan-Feb": "13.7",
+        "Mar-May": "5.5",
+        "Jun-Sep": "865.1",
+        "Oct-Dec": "42.4"
+    },
+    "MADHYA PRADESH_BURHANPUR": {
+        "STATE_UT_NAME": "MADHYA PRADESH",
+        "DISTRICT": "BURHANPUR",
+        "ANNUAL": "889.1",
+        "Jan-Feb": "7.1",
+        "Mar-May": "25",
+        "Jun-Sep": "784.2",
+        "Oct-Dec": "72.8"
+    },
+    "MADHYA PRADESH_ALIRAJPUR(JBA)": {
+        "STATE_UT_NAME": "MADHYA PRADESH",
+        "DISTRICT": "ALIRAJPUR(JBA)",
+        "ANNUAL": "863.6",
+        "Jan-Feb": "6.1",
+        "Mar-May": "11.7",
+        "Jun-Sep": "799",
+        "Oct-Dec": "46.8"
+    },
+    "MADHYA PRADESH_BALAGHAT": {
+        "STATE_UT_NAME": "MADHYA PRADESH",
+        "DISTRICT": "BALAGHAT",
+        "ANNUAL": "1481.6",
+        "Jan-Feb": "36.2",
+        "Mar-May": "28.9",
+        "Jun-Sep": "1334.6",
+        "Oct-Dec": "81.9"
+    },
+    "MADHYA PRADESH_CHHATARPUR": {
+        "STATE_UT_NAME": "MADHYA PRADESH",
+        "DISTRICT": "CHHATARPUR",
+        "ANNUAL": "1081.4",
+        "Jan-Feb": "30.2",
+        "Mar-May": "14.4",
+        "Jun-Sep": "985",
+        "Oct-Dec": "51.8"
+    },
+    "MADHYA PRADESH_CHHINDWARA": {
+        "STATE_UT_NAME": "MADHYA PRADESH",
+        "DISTRICT": "CHHINDWARA",
+        "ANNUAL": "1021.6",
+        "Jan-Feb": "32.2",
+        "Mar-May": "34.1",
+        "Jun-Sep": "882.8",
+        "Oct-Dec": "72.5"
+    },
+    "MADHYA PRADESH_JABALPUR": {
+        "STATE_UT_NAME": "MADHYA PRADESH",
+        "DISTRICT": "JABALPUR",
+        "ANNUAL": "1192.4",
+        "Jan-Feb": "29.6",
+        "Mar-May": "22.7",
+        "Jun-Sep": "1090.3",
+        "Oct-Dec": "49.8"
+    },
+    "MADHYA PRADESH_MANDLA": {
+        "STATE_UT_NAME": "MADHYA PRADESH",
+        "DISTRICT": "MANDLA",
+        "ANNUAL": "1397",
+        "Jan-Feb": "47.3",
+        "Mar-May": "39.9",
+        "Jun-Sep": "1245.8",
+        "Oct-Dec": "64"
+    },
+    "MADHYA PRADESH_NARSINGHPUR": {
+        "STATE_UT_NAME": "MADHYA PRADESH",
+        "DISTRICT": "NARSINGHPUR",
+        "ANNUAL": "1146.4",
+        "Jan-Feb": "21.4",
+        "Mar-May": "13.8",
+        "Jun-Sep": "1067.1",
+        "Oct-Dec": "44.1"
+    },
+    "MADHYA PRADESH_PANNA": {
+        "STATE_UT_NAME": "MADHYA PRADESH",
+        "DISTRICT": "PANNA",
+        "ANNUAL": "1171.7",
+        "Jan-Feb": "37.3",
+        "Mar-May": "15.3",
+        "Jun-Sep": "1072.1",
+        "Oct-Dec": "47"
+    },
+    "MADHYA PRADESH_REWA": {
+        "STATE_UT_NAME": "MADHYA PRADESH",
+        "DISTRICT": "REWA",
+        "ANNUAL": "1068.5",
+        "Jan-Feb": "31.9",
+        "Mar-May": "18.1",
+        "Jun-Sep": "971.7",
+        "Oct-Dec": "46.8"
+    },
+    "MADHYA PRADESH_SAGAR": {
+        "STATE_UT_NAME": "MADHYA PRADESH",
+        "DISTRICT": "SAGAR",
+        "ANNUAL": "1192.2",
+        "Jan-Feb": "30",
+        "Mar-May": "19.2",
+        "Jun-Sep": "1088.1",
+        "Oct-Dec": "54.9"
+    },
+    "MADHYA PRADESH_SATNA": {
+        "STATE_UT_NAME": "MADHYA PRADESH",
+        "DISTRICT": "SATNA",
+        "ANNUAL": "1056.1",
+        "Jan-Feb": "38.8",
+        "Mar-May": "17.9",
+        "Jun-Sep": "953.2",
+        "Oct-Dec": "46.2"
+    },
+    "MADHYA PRADESH_SEONI": {
+        "STATE_UT_NAME": "MADHYA PRADESH",
+        "DISTRICT": "SEONI",
+        "ANNUAL": "1191.8",
+        "Jan-Feb": "37.1",
+        "Mar-May": "42.1",
+        "Jun-Sep": "1038.4",
+        "Oct-Dec": "74.2"
+    },
+    "MADHYA PRADESH_SHAHDOL": {
+        "STATE_UT_NAME": "MADHYA PRADESH",
+        "DISTRICT": "SHAHDOL",
+        "ANNUAL": "1109.9",
+        "Jan-Feb": "42.6",
+        "Mar-May": "25.8",
+        "Jun-Sep": "994.7",
+        "Oct-Dec": "46.8"
+    },
+    "MADHYA PRADESH_SIDHI": {
+        "STATE_UT_NAME": "MADHYA PRADESH",
+        "DISTRICT": "SIDHI",
+        "ANNUAL": "1127",
+        "Jan-Feb": "35.4",
+        "Mar-May": "24.4",
+        "Jun-Sep": "1016.4",
+        "Oct-Dec": "50.8"
+    },
+    "MADHYA PRADESH_TIKAMGARH": {
+        "STATE_UT_NAME": "MADHYA PRADESH",
+        "DISTRICT": "TIKAMGARH",
+        "ANNUAL": "938.5",
+        "Jan-Feb": "27.2",
+        "Mar-May": "11.2",
+        "Jun-Sep": "853.2",
+        "Oct-Dec": "46.9"
+    },
+    "MADHYA PRADESH_KATNI": {
+        "STATE_UT_NAME": "MADHYA PRADESH",
+        "DISTRICT": "KATNI",
+        "ANNUAL": "1141.1",
+        "Jan-Feb": "33.6",
+        "Mar-May": "14.6",
+        "Jun-Sep": "1051.3",
+        "Oct-Dec": "41.6"
+    },
+    "MADHYA PRADESH_DINDORI": {
+        "STATE_UT_NAME": "MADHYA PRADESH",
+        "DISTRICT": "DINDORI",
+        "ANNUAL": "1336.7",
+        "Jan-Feb": "39",
+        "Mar-May": "27.9",
+        "Jun-Sep": "1205.9",
+        "Oct-Dec": "63.9"
+    },
+    "MADHYA PRADESH_UMARIA": {
+        "STATE_UT_NAME": "MADHYA PRADESH",
+        "DISTRICT": "UMARIA",
+        "ANNUAL": "1235.7",
+        "Jan-Feb": "48.2",
+        "Mar-May": "31.5",
+        "Jun-Sep": "1093.9",
+        "Oct-Dec": "62.1"
+    },
+    "MADHYA PRADESH_DAMOH": {
+        "STATE_UT_NAME": "MADHYA PRADESH",
+        "DISTRICT": "DAMOH",
+        "ANNUAL": "1180.6",
+        "Jan-Feb": "36.7",
+        "Mar-May": "21.8",
+        "Jun-Sep": "1071",
+        "Oct-Dec": "51.1"
+    },
+    "MADHYA PRADESH_ANUPPUR(SHAHD": {
+        "STATE_UT_NAME": "MADHYA PRADESH",
+        "DISTRICT": "ANUPPUR(SHAHD",
+        "ANNUAL": "1354.5",
+        "Jan-Feb": "54.3",
+        "Mar-May": "55.1",
+        "Jun-Sep": "1174.8",
+        "Oct-Dec": "70.3"
+    },
+    "MADHYA PRADESH_SINGRAULI": {
+        "STATE_UT_NAME": "MADHYA PRADESH",
+        "DISTRICT": "SINGRAULI",
+        "ANNUAL": "921.2",
+        "Jan-Feb": "23",
+        "Mar-May": "16",
+        "Jun-Sep": "832.3",
+        "Oct-Dec": "49.9"
+    },
+    "GUJARAT_AHMEDABAD": {
+        "STATE_UT_NAME": "GUJARAT",
+        "DISTRICT": "AHMEDABAD",
+        "ANNUAL": "639.9",
+        "Jan-Feb": "1.1",
+        "Mar-May": "7.1",
+        "Jun-Sep": "602.6",
+        "Oct-Dec": "29.1"
+    },
+    "GUJARAT_BANASKANTHA": {
+        "STATE_UT_NAME": "GUJARAT",
+        "DISTRICT": "BANASKANTHA",
+        "ANNUAL": "598.4",
+        "Jan-Feb": "2.7",
+        "Mar-May": "7",
+        "Jun-Sep": "563.5",
+        "Oct-Dec": "25.2"
+    },
+    "GUJARAT_BARODA": {
+        "STATE_UT_NAME": "GUJARAT",
+        "DISTRICT": "BARODA",
+        "ANNUAL": "992.2",
+        "Jan-Feb": "1.2",
+        "Mar-May": "5.9",
+        "Jun-Sep": "942.8",
+        "Oct-Dec": "42.3"
+    },
+    "GUJARAT_BHARUCH": {
+        "STATE_UT_NAME": "GUJARAT",
+        "DISTRICT": "BHARUCH",
+        "ANNUAL": "824.9",
+        "Jan-Feb": "0.4",
+        "Mar-May": "5.8",
+        "Jun-Sep": "786.2",
+        "Oct-Dec": "32.5"
+    },
+    "GUJARAT_VALSAD": {
+        "STATE_UT_NAME": "GUJARAT",
+        "DISTRICT": "VALSAD",
+        "ANNUAL": "2021.7",
+        "Jan-Feb": "0.8",
+        "Mar-May": "6.8",
+        "Jun-Sep": "1951.3",
+        "Oct-Dec": "62.8"
+    },
+    "GUJARAT_DANGS": {
+        "STATE_UT_NAME": "GUJARAT",
+        "DISTRICT": "DANGS",
+        "ANNUAL": "2063",
+        "Jan-Feb": "2.5",
+        "Mar-May": "17.3",
+        "Jun-Sep": "1961.7",
+        "Oct-Dec": "81.5"
+    },
+    "GUJARAT_KHEDA": {
+        "STATE_UT_NAME": "GUJARAT",
+        "DISTRICT": "KHEDA",
+        "ANNUAL": "850.1",
+        "Jan-Feb": "1.6",
+        "Mar-May": "6.2",
+        "Jun-Sep": "811.6",
+        "Oct-Dec": "30.7"
+    },
+    "GUJARAT_MEHSANA": {
+        "STATE_UT_NAME": "GUJARAT",
+        "DISTRICT": "MEHSANA",
+        "ANNUAL": "692.7",
+        "Jan-Feb": "1.9",
+        "Mar-May": "7.7",
+        "Jun-Sep": "655.7",
+        "Oct-Dec": "27.4"
+    },
+    "GUJARAT_PANCHMAHALS": {
+        "STATE_UT_NAME": "GUJARAT",
+        "DISTRICT": "PANCHMAHALS",
+        "ANNUAL": "959.3",
+        "Jan-Feb": "1.1",
+        "Mar-May": "7",
+        "Jun-Sep": "912.1",
+        "Oct-Dec": "39.1"
+    },
+    "GUJARAT_SABARKANTHA": {
+        "STATE_UT_NAME": "GUJARAT",
+        "DISTRICT": "SABARKANTHA",
+        "ANNUAL": "816.3",
+        "Jan-Feb": "1.7",
+        "Mar-May": "8.2",
+        "Jun-Sep": "778.7",
+        "Oct-Dec": "27.7"
+    },
+    "GUJARAT_SURAT": {
+        "STATE_UT_NAME": "GUJARAT",
+        "DISTRICT": "SURAT",
+        "ANNUAL": "1304.7",
+        "Jan-Feb": "0.1",
+        "Mar-May": "6.4",
+        "Jun-Sep": "1253.6",
+        "Oct-Dec": "44.6"
+    },
+    "GUJARAT_GANDHINAGAR": {
+        "STATE_UT_NAME": "GUJARAT",
+        "DISTRICT": "GANDHINAGAR",
+        "ANNUAL": "752.7",
+        "Jan-Feb": "1.5",
+        "Mar-May": "7.9",
+        "Jun-Sep": "715.6",
+        "Oct-Dec": "27.7"
+    },
+    "GUJARAT_NARMADA(BRC)": {
+        "STATE_UT_NAME": "GUJARAT",
+        "DISTRICT": "NARMADA(BRC)",
+        "ANNUAL": "1143.7",
+        "Jan-Feb": "0.5",
+        "Mar-May": "7.3",
+        "Jun-Sep": "1099.8",
+        "Oct-Dec": "36.1"
+    },
+    "GUJARAT_NAVSARI(VSD)": {
+        "STATE_UT_NAME": "GUJARAT",
+        "DISTRICT": "NAVSARI(VSD)",
+        "ANNUAL": "1866.4",
+        "Jan-Feb": "0.7",
+        "Mar-May": "8",
+        "Jun-Sep": "1803.3",
+        "Oct-Dec": "54.4"
+    },
+    "GUJARAT_ANAND(KHR)": {
+        "STATE_UT_NAME": "GUJARAT",
+        "DISTRICT": "ANAND(KHR)",
+        "ANNUAL": "834.6",
+        "Jan-Feb": "1.5",
+        "Mar-May": "5.7",
+        "Jun-Sep": "788.9",
+        "Oct-Dec": "38.5"
+    },
+    "GUJARAT_PATAN(MHSN)": {
+        "STATE_UT_NAME": "GUJARAT",
+        "DISTRICT": "PATAN(MHSN)",
+        "ANNUAL": "539.6",
+        "Jan-Feb": "2",
+        "Mar-May": "5.6",
+        "Jun-Sep": "513.9",
+        "Oct-Dec": "18.1"
+    },
+    "GUJARAT_DAHOD(PNML)": {
+        "STATE_UT_NAME": "GUJARAT",
+        "DISTRICT": "DAHOD(PNML)",
+        "ANNUAL": "903.6",
+        "Jan-Feb": "2",
+        "Mar-May": "6.8",
+        "Jun-Sep": "853.3",
+        "Oct-Dec": "41.5"
+    },
+    "GUJARAT_TAPI(SRT)": {
+        "STATE_UT_NAME": "GUJARAT",
+        "DISTRICT": "TAPI(SRT)",
+        "ANNUAL": "1536",
+        "Jan-Feb": "0",
+        "Mar-May": "9",
+        "Jun-Sep": "1484.9",
+        "Oct-Dec": "42.1"
+    },
+    "GUJARAT_AMRELI": {
+        "STATE_UT_NAME": "GUJARAT",
+        "DISTRICT": "AMRELI",
+        "ANNUAL": "567.3",
+        "Jan-Feb": "0.8",
+        "Mar-May": "4.8",
+        "Jun-Sep": "518.2",
+        "Oct-Dec": "43.5"
+    },
+    "GUJARAT_BHAVNAGAR": {
+        "STATE_UT_NAME": "GUJARAT",
+        "DISTRICT": "BHAVNAGAR",
+        "ANNUAL": "578.3",
+        "Jan-Feb": "0.8",
+        "Mar-May": "4.2",
+        "Jun-Sep": "537.7",
+        "Oct-Dec": "35.6"
+    },
+    "GUJARAT_JAMNAGAR": {
+        "STATE_UT_NAME": "GUJARAT",
+        "DISTRICT": "JAMNAGAR",
+        "ANNUAL": "498",
+        "Jan-Feb": "1.6",
+        "Mar-May": "4.5",
+        "Jun-Sep": "462.4",
+        "Oct-Dec": "29.5"
+    },
+    "GUJARAT_JUNAGADH": {
+        "STATE_UT_NAME": "GUJARAT",
+        "DISTRICT": "JUNAGADH",
+        "ANNUAL": "830.4",
+        "Jan-Feb": "0.9",
+        "Mar-May": "1.6",
+        "Jun-Sep": "787.2",
+        "Oct-Dec": "40.7"
+    },
+    "GUJARAT_KUTCH": {
+        "STATE_UT_NAME": "GUJARAT",
+        "DISTRICT": "KUTCH",
+        "ANNUAL": "388.8",
+        "Jan-Feb": "1.3",
+        "Mar-May": "4.7",
+        "Jun-Sep": "361.3",
+        "Oct-Dec": "21.5"
+    },
+    "GUJARAT_RAJKOT": {
+        "STATE_UT_NAME": "GUJARAT",
+        "DISTRICT": "RAJKOT",
+        "ANNUAL": "579.1",
+        "Jan-Feb": "0.3",
+        "Mar-May": "4.2",
+        "Jun-Sep": "540.1",
+        "Oct-Dec": "34.5"
+    },
+    "GUJARAT_SURENDRANAGAR": {
+        "STATE_UT_NAME": "GUJARAT",
+        "DISTRICT": "SURENDRANAGAR",
+        "ANNUAL": "534.6",
+        "Jan-Feb": "0.2",
+        "Mar-May": "5.1",
+        "Jun-Sep": "499.8",
+        "Oct-Dec": "29.5"
+    },
+    "GUJARAT_PORBANDAR": {
+        "STATE_UT_NAME": "GUJARAT",
+        "DISTRICT": "PORBANDAR",
+        "ANNUAL": "716.6",
+        "Jan-Feb": "1.4",
+        "Mar-May": "3",
+        "Jun-Sep": "672.7",
+        "Oct-Dec": "39.5"
+    },
+    "DADAR NAGAR HAVELI_DNH": {
+        "STATE_UT_NAME": "DADAR NAGAR HAVELI",
+        "DISTRICT": "DNH",
+        "ANNUAL": "2374.1",
+        "Jan-Feb": "0.7",
+        "Mar-May": "7.4",
+        "Jun-Sep": "2316.9",
+        "Oct-Dec": "49.1"
+    },
+    "DAMAN AND DUI_DAMAN": {
+        "STATE_UT_NAME": "DAMAN AND DUI",
+        "DISTRICT": "DAMAN",
+        "ANNUAL": "2374.1",
+        "Jan-Feb": "0.7",
+        "Mar-May": "7.4",
+        "Jun-Sep": "2316.9",
+        "Oct-Dec": "49.1"
+    },
+    "DAMAN AND DUI_DIU": {
+        "STATE_UT_NAME": "DAMAN AND DUI",
+        "DISTRICT": "DIU",
+        "ANNUAL": "697.3",
+        "Jan-Feb": "1.4",
+        "Mar-May": "1.5",
+        "Jun-Sep": "646.7",
+        "Oct-Dec": "47.7"
+    },
+    "MAHARASHTRA_MUMBAI CITY": {
+        "STATE_UT_NAME": "MAHARASHTRA",
+        "DISTRICT": "MUMBAI CITY",
+        "ANNUAL": "2257.5",
+        "Jan-Feb": "2",
+        "Mar-May": "19.4",
+        "Jun-Sep": "2142.4",
+        "Oct-Dec": "93.7"
+    },
+    "MAHARASHTRA_RAIGAD": {
+        "STATE_UT_NAME": "MAHARASHTRA",
+        "DISTRICT": "RAIGAD",
+        "ANNUAL": "3278.9",
+        "Jan-Feb": "0.4",
+        "Mar-May": "22.2",
+        "Jun-Sep": "3117.7",
+        "Oct-Dec": "138.6"
+    },
+    "MAHARASHTRA_RATNAGIRI": {
+        "STATE_UT_NAME": "MAHARASHTRA",
+        "DISTRICT": "RATNAGIRI",
+        "ANNUAL": "3470.6",
+        "Jan-Feb": "0.1",
+        "Mar-May": "35.3",
+        "Jun-Sep": "3261.5",
+        "Oct-Dec": "173.7"
+    },
+    "MAHARASHTRA_THANE": {
+        "STATE_UT_NAME": "MAHARASHTRA",
+        "DISTRICT": "THANE",
+        "ANNUAL": "2542.1",
+        "Jan-Feb": "0.5",
+        "Mar-May": "14.9",
+        "Jun-Sep": "2428.3",
+        "Oct-Dec": "98.4"
+    },
+    "MAHARASHTRA_SINDHUDURG": {
+        "STATE_UT_NAME": "MAHARASHTRA",
+        "DISTRICT": "SINDHUDURG",
+        "ANNUAL": "3269.2",
+        "Jan-Feb": "0.4",
+        "Mar-May": "63.6",
+        "Jun-Sep": "3021.8",
+        "Oct-Dec": "183.4"
+    },
+    "MAHARASHTRA_MUMBAI SUB": {
+        "STATE_UT_NAME": "MAHARASHTRA",
+        "DISTRICT": "MUMBAI SUB",
+        "ANNUAL": "2257.5",
+        "Jan-Feb": "2",
+        "Mar-May": "19.4",
+        "Jun-Sep": "2142.4",
+        "Oct-Dec": "93.7"
+    },
+    "GOA_NORTH GOA": {
+        "STATE_UT_NAME": "GOA",
+        "DISTRICT": "NORTH GOA",
+        "ANNUAL": "3471.4",
+        "Jan-Feb": "0.4",
+        "Mar-May": "104",
+        "Jun-Sep": "3154.9",
+        "Oct-Dec": "212.1"
+    },
+    "GOA_SOUTH GOA": {
+        "STATE_UT_NAME": "GOA",
+        "DISTRICT": "SOUTH GOA",
+        "ANNUAL": "3085.6",
+        "Jan-Feb": "0.8",
+        "Mar-May": "88.2",
+        "Jun-Sep": "2806.9",
+        "Oct-Dec": "189.7"
+    },
+    "MAHARASHTRA_AHMEDNAGAR": {
+        "STATE_UT_NAME": "MAHARASHTRA",
+        "DISTRICT": "AHMEDNAGAR",
+        "ANNUAL": "573.2",
+        "Jan-Feb": "1.9",
+        "Mar-May": "29.9",
+        "Jun-Sep": "437.6",
+        "Oct-Dec": "103.8"
+    },
+    "MAHARASHTRA_DHULE": {
+        "STATE_UT_NAME": "MAHARASHTRA",
+        "DISTRICT": "DHULE",
+        "ANNUAL": "607.2",
+        "Jan-Feb": "3.5",
+        "Mar-May": "15.1",
+        "Jun-Sep": "523.5",
+        "Oct-Dec": "65.1"
+    },
+    "MAHARASHTRA_JALGAON": {
+        "STATE_UT_NAME": "MAHARASHTRA",
+        "DISTRICT": "JALGAON",
+        "ANNUAL": "730.9",
+        "Jan-Feb": "5.7",
+        "Mar-May": "13.2",
+        "Jun-Sep": "641.8",
+        "Oct-Dec": "70.2"
+    },
+    "MAHARASHTRA_KOLHAPUR": {
+        "STATE_UT_NAME": "MAHARASHTRA",
+        "DISTRICT": "KOLHAPUR",
+        "ANNUAL": "1992.8",
+        "Jan-Feb": "1.8",
+        "Mar-May": "90.7",
+        "Jun-Sep": "1737.6",
+        "Oct-Dec": "162.7"
+    },
+    "MAHARASHTRA_NASHIK": {
+        "STATE_UT_NAME": "MAHARASHTRA",
+        "DISTRICT": "NASHIK",
+        "ANNUAL": "1029.6",
+        "Jan-Feb": "1.7",
+        "Mar-May": "20.8",
+        "Jun-Sep": "912.2",
+        "Oct-Dec": "94.9"
+    },
+    "MAHARASHTRA_PUNE": {
+        "STATE_UT_NAME": "MAHARASHTRA",
+        "DISTRICT": "PUNE",
+        "ANNUAL": "1015.7",
+        "Jan-Feb": "0.7",
+        "Mar-May": "36.6",
+        "Jun-Sep": "861",
+        "Oct-Dec": "117.4"
+    },
+    "MAHARASHTRA_SANGLI": {
+        "STATE_UT_NAME": "MAHARASHTRA",
+        "DISTRICT": "SANGLI",
+        "ANNUAL": "730.6",
+        "Jan-Feb": "2.5",
+        "Mar-May": "80.9",
+        "Jun-Sep": "508.1",
+        "Oct-Dec": "139.1"
+    },
+    "MAHARASHTRA_SATARA": {
+        "STATE_UT_NAME": "MAHARASHTRA",
+        "DISTRICT": "SATARA",
+        "ANNUAL": "912.5",
+        "Jan-Feb": "1.4",
+        "Mar-May": "53.5",
+        "Jun-Sep": "723.8",
+        "Oct-Dec": "133.8"
+    },
+    "MAHARASHTRA_SOLAPUR": {
+        "STATE_UT_NAME": "MAHARASHTRA",
+        "DISTRICT": "SOLAPUR",
+        "ANNUAL": "646.5",
+        "Jan-Feb": "4.2",
+        "Mar-May": "42.4",
+        "Jun-Sep": "474.2",
+        "Oct-Dec": "125.7"
+    },
+    "MAHARASHTRA_NANDURBAR": {
+        "STATE_UT_NAME": "MAHARASHTRA",
+        "DISTRICT": "NANDURBAR",
+        "ANNUAL": "890.7",
+        "Jan-Feb": "1",
+        "Mar-May": "11.1",
+        "Jun-Sep": "828.4",
+        "Oct-Dec": "50.2"
+    },
+    "MAHARASHTRA_AURANGABAD": {
+        "STATE_UT_NAME": "MAHARASHTRA",
+        "DISTRICT": "AURANGABAD",
+        "ANNUAL": "716.2",
+        "Jan-Feb": "4.1",
+        "Mar-May": "23",
+        "Jun-Sep": "594.2",
+        "Oct-Dec": "94.9"
+    },
+    "MAHARASHTRA_BEED": {
+        "STATE_UT_NAME": "MAHARASHTRA",
+        "DISTRICT": "BEED",
+        "ANNUAL": "708.4",
+        "Jan-Feb": "4.5",
+        "Mar-May": "30.5",
+        "Jun-Sep": "569.4",
+        "Oct-Dec": "104"
+    },
+    "MAHARASHTRA_NANDED": {
+        "STATE_UT_NAME": "MAHARASHTRA",
+        "DISTRICT": "NANDED",
+        "ANNUAL": "961.1",
+        "Jan-Feb": "9.4",
+        "Mar-May": "33.1",
+        "Jun-Sep": "816.4",
+        "Oct-Dec": "102.2"
+    },
+    "MAHARASHTRA_OSMANABAD": {
+        "STATE_UT_NAME": "MAHARASHTRA",
+        "DISTRICT": "OSMANABAD",
+        "ANNUAL": "779.3",
+        "Jan-Feb": "6",
+        "Mar-May": "37.7",
+        "Jun-Sep": "623.4",
+        "Oct-Dec": "112.2"
+    },
+    "MAHARASHTRA_PARBHANI": {
+        "STATE_UT_NAME": "MAHARASHTRA",
+        "DISTRICT": "PARBHANI",
+        "ANNUAL": "897",
+        "Jan-Feb": "8.7",
+        "Mar-May": "29.8",
+        "Jun-Sep": "757.2",
+        "Oct-Dec": "101.3"
+    },
+    "MAHARASHTRA_LATUR": {
+        "STATE_UT_NAME": "MAHARASHTRA",
+        "DISTRICT": "LATUR",
+        "ANNUAL": "910",
+        "Jan-Feb": "8",
+        "Mar-May": "40.4",
+        "Jun-Sep": "752.5",
+        "Oct-Dec": "109.1"
+    },
+    "MAHARASHTRA_JALNA": {
+        "STATE_UT_NAME": "MAHARASHTRA",
+        "DISTRICT": "JALNA",
+        "ANNUAL": "729.7",
+        "Jan-Feb": "5.2",
+        "Mar-May": "24.7",
+        "Jun-Sep": "606.4",
+        "Oct-Dec": "93.4"
+    },
+    "MAHARASHTRA_HINGOLI": {
+        "STATE_UT_NAME": "MAHARASHTRA",
+        "DISTRICT": "HINGOLI",
+        "ANNUAL": "979.4",
+        "Jan-Feb": "9.8",
+        "Mar-May": "26.7",
+        "Jun-Sep": "849.1",
+        "Oct-Dec": "93.8"
+    },
+    "MAHARASHTRA_AKOLA": {
+        "STATE_UT_NAME": "MAHARASHTRA",
+        "DISTRICT": "AKOLA",
+        "ANNUAL": "815.4",
+        "Jan-Feb": "13.9",
+        "Mar-May": "22.9",
+        "Jun-Sep": "702.3",
+        "Oct-Dec": "76.3"
+    },
+    "MAHARASHTRA_AMRAVATI": {
+        "STATE_UT_NAME": "MAHARASHTRA",
+        "DISTRICT": "AMRAVATI",
+        "ANNUAL": "897.4",
+        "Jan-Feb": "16.4",
+        "Mar-May": "17.9",
+        "Jun-Sep": "786.6",
+        "Oct-Dec": "76.5"
+    },
+    "MAHARASHTRA_BHANDARA": {
+        "STATE_UT_NAME": "MAHARASHTRA",
+        "DISTRICT": "BHANDARA",
+        "ANNUAL": "1292.7",
+        "Jan-Feb": "29.1",
+        "Mar-May": "39.3",
+        "Jun-Sep": "1137.2",
+        "Oct-Dec": "87.1"
+    },
+    "MAHARASHTRA_BULDHANA": {
+        "STATE_UT_NAME": "MAHARASHTRA",
+        "DISTRICT": "BULDHANA",
+        "ANNUAL": "746.9",
+        "Jan-Feb": "7.6",
+        "Mar-May": "17",
+        "Jun-Sep": "646.6",
+        "Oct-Dec": "75.7"
+    },
+    "MAHARASHTRA_CHANDRAPUR": {
+        "STATE_UT_NAME": "MAHARASHTRA",
+        "DISTRICT": "CHANDRAPUR",
+        "ANNUAL": "1272",
+        "Jan-Feb": "20.3",
+        "Mar-May": "37",
+        "Jun-Sep": "1131.8",
+        "Oct-Dec": "82.9"
+    },
+    "MAHARASHTRA_NAGPUR": {
+        "STATE_UT_NAME": "MAHARASHTRA",
+        "DISTRICT": "NAGPUR",
+        "ANNUAL": "1068.4",
+        "Jan-Feb": "24.6",
+        "Mar-May": "36.6",
+        "Jun-Sep": "923.9",
+        "Oct-Dec": "83.3"
+    },
+    "MAHARASHTRA_YAVATMAL": {
+        "STATE_UT_NAME": "MAHARASHTRA",
+        "DISTRICT": "YAVATMAL",
+        "ANNUAL": "982.8",
+        "Jan-Feb": "13.2",
+        "Mar-May": "30.6",
+        "Jun-Sep": "855",
+        "Oct-Dec": "84"
+    },
+    "MAHARASHTRA_WARDHA": {
+        "STATE_UT_NAME": "MAHARASHTRA",
+        "DISTRICT": "WARDHA",
+        "ANNUAL": "1027",
+        "Jan-Feb": "20.4",
+        "Mar-May": "37.5",
+        "Jun-Sep": "880.3",
+        "Oct-Dec": "88.8"
+    },
+    "MAHARASHTRA_GADCHIROLI": {
+        "STATE_UT_NAME": "MAHARASHTRA",
+        "DISTRICT": "GADCHIROLI",
+        "ANNUAL": "1449.8",
+        "Jan-Feb": "17.2",
+        "Mar-May": "43.2",
+        "Jun-Sep": "1303",
+        "Oct-Dec": "86.4"
+    },
+    "MAHARASHTRA_WASHIM": {
+        "STATE_UT_NAME": "MAHARASHTRA",
+        "DISTRICT": "WASHIM",
+        "ANNUAL": "940.9",
+        "Jan-Feb": "14.7",
+        "Mar-May": "20.7",
+        "Jun-Sep": "825.6",
+        "Oct-Dec": "79.9"
+    },
+    "MAHARASHTRA_GONDIA": {
+        "STATE_UT_NAME": "MAHARASHTRA",
+        "DISTRICT": "GONDIA",
+        "ANNUAL": "1370.7",
+        "Jan-Feb": "26.4",
+        "Mar-May": "33.8",
+        "Jun-Sep": "1228.8",
+        "Oct-Dec": "81.7"
+    },
+    "CHATISGARH_BASTAR": {
+        "STATE_UT_NAME": "CHATISGARH",
+        "DISTRICT": "BASTAR",
+        "ANNUAL": "1362.6",
+        "Jan-Feb": "16.8",
+        "Mar-May": "91.5",
+        "Jun-Sep": "1154.2",
+        "Oct-Dec": "100.1"
+    },
+    "CHATISGARH_BILASPUR": {
+        "STATE_UT_NAME": "CHATISGARH",
+        "DISTRICT": "BILASPUR",
+        "ANNUAL": "1229",
+        "Jan-Feb": "34.6",
+        "Mar-May": "51",
+        "Jun-Sep": "1067.8",
+        "Oct-Dec": "75.6"
+    },
+    "CHATISGARH_DURG": {
+        "STATE_UT_NAME": "CHATISGARH",
+        "DISTRICT": "DURG",
+        "ANNUAL": "1122.9",
+        "Jan-Feb": "12.1",
+        "Mar-May": "28.6",
+        "Jun-Sep": "1018",
+        "Oct-Dec": "64.2"
+    },
+    "CHATISGARH_RAIGARH": {
+        "STATE_UT_NAME": "CHATISGARH",
+        "DISTRICT": "RAIGARH",
+        "ANNUAL": "1269.9",
+        "Jan-Feb": "23.8",
+        "Mar-May": "41.3",
+        "Jun-Sep": "1143.5",
+        "Oct-Dec": "61.3"
+    },
+    "CHATISGARH_RAIPUR": {
+        "STATE_UT_NAME": "CHATISGARH",
+        "DISTRICT": "RAIPUR",
+        "ANNUAL": "1164.6",
+        "Jan-Feb": "15",
+        "Mar-May": "38",
+        "Jun-Sep": "1047",
+        "Oct-Dec": "64.6"
+    },
+    "CHATISGARH_SURGUJA": {
+        "STATE_UT_NAME": "CHATISGARH",
+        "DISTRICT": "SURGUJA",
+        "ANNUAL": "1331.9",
+        "Jan-Feb": "33.8",
+        "Mar-May": "36.6",
+        "Jun-Sep": "1195.1",
+        "Oct-Dec": "66.4"
+    },
+    "CHATISGARH_RAJNANDGAON": {
+        "STATE_UT_NAME": "CHATISGARH",
+        "DISTRICT": "RAJNANDGAON",
+        "ANNUAL": "1209.3",
+        "Jan-Feb": "18.2",
+        "Mar-May": "35.9",
+        "Jun-Sep": "1076.6",
+        "Oct-Dec": "78.6"
+    },
+    "CHATISGARH_DANTEWADA": {
+        "STATE_UT_NAME": "CHATISGARH",
+        "DISTRICT": "DANTEWADA",
+        "ANNUAL": "1327.9",
+        "Jan-Feb": "3.4",
+        "Mar-May": "41.1",
+        "Jun-Sep": "1178.1",
+        "Oct-Dec": "105.3"
+    },
+    "CHATISGARH_KANKER (NORH": {
+        "STATE_UT_NAME": "CHATISGARH",
+        "DISTRICT": "KANKER (NORH",
+        "ANNUAL": "1395.2",
+        "Jan-Feb": "19",
+        "Mar-May": "52.8",
+        "Jun-Sep": "1236.7",
+        "Oct-Dec": "86.7"
+    },
+    "CHATISGARH_JANJGIR-CHAMP": {
+        "STATE_UT_NAME": "CHATISGARH",
+        "DISTRICT": "JANJGIR-CHAMP",
+        "ANNUAL": "1315.8",
+        "Jan-Feb": "25.2",
+        "Mar-May": "32.5",
+        "Jun-Sep": "1201.9",
+        "Oct-Dec": "56.2"
+    },
+    "CHATISGARH_KORBA": {
+        "STATE_UT_NAME": "CHATISGARH",
+        "DISTRICT": "KORBA",
+        "ANNUAL": "1385.5",
+        "Jan-Feb": "32.6",
+        "Mar-May": "40.4",
+        "Jun-Sep": "1243.5",
+        "Oct-Dec": "69"
+    },
+    "CHATISGARH_JASHPUR": {
+        "STATE_UT_NAME": "CHATISGARH",
+        "DISTRICT": "JASHPUR",
+        "ANNUAL": "1544.4",
+        "Jan-Feb": "40.8",
+        "Mar-May": "63.3",
+        "Jun-Sep": "1348.6",
+        "Oct-Dec": "91.7"
+    },
+    "CHATISGARH_DHAMTARI": {
+        "STATE_UT_NAME": "CHATISGARH",
+        "DISTRICT": "DHAMTARI",
+        "ANNUAL": "1168.6",
+        "Jan-Feb": "12.9",
+        "Mar-May": "39.9",
+        "Jun-Sep": "1050.6",
+        "Oct-Dec": "65.2"
+    },
+    "CHATISGARH_MAHASAMUND": {
+        "STATE_UT_NAME": "CHATISGARH",
+        "DISTRICT": "MAHASAMUND",
+        "ANNUAL": "1141.3",
+        "Jan-Feb": "11.5",
+        "Mar-May": "28.2",
+        "Jun-Sep": "1044",
+        "Oct-Dec": "57.6"
+    },
+    "CHATISGARH_KORIYA": {
+        "STATE_UT_NAME": "CHATISGARH",
+        "DISTRICT": "KORIYA",
+        "ANNUAL": "1223.4",
+        "Jan-Feb": "23.1",
+        "Mar-May": "19.9",
+        "Jun-Sep": "1138.9",
+        "Oct-Dec": "41.5"
+    },
+    "CHATISGARH_KOWARDHA (KAB": {
+        "STATE_UT_NAME": "CHATISGARH",
+        "DISTRICT": "KOWARDHA (KAB",
+        "ANNUAL": "1029.3",
+        "Jan-Feb": "26.5",
+        "Mar-May": "38.3",
+        "Jun-Sep": "882.9",
+        "Oct-Dec": "81.6"
+    },
+    "CHATISGARH_NARAYANPUR": {
+        "STATE_UT_NAME": "CHATISGARH",
+        "DISTRICT": "NARAYANPUR",
+        "ANNUAL": "1404.5",
+        "Jan-Feb": "15.6",
+        "Mar-May": "61.9",
+        "Jun-Sep": "1227.4",
+        "Oct-Dec": "99.6"
+    },
+    "CHATISGARH_BIJAPUR": {
+        "STATE_UT_NAME": "CHATISGARH",
+        "DISTRICT": "BIJAPUR",
+        "ANNUAL": "1528.2",
+        "Jan-Feb": "10.4",
+        "Mar-May": "43.2",
+        "Jun-Sep": "1369.1",
+        "Oct-Dec": "105.5"
+    },
+    "ANDHRA PRADESH_EAST GODAVARI": {
+        "STATE_UT_NAME": "ANDHRA PRADESH",
+        "DISTRICT": "EAST GODAVARI",
+        "ANNUAL": "1106",
+        "Jan-Feb": "16.1",
+        "Mar-May": "109.4",
+        "Jun-Sep": "703.9",
+        "Oct-Dec": "276.6"
+    },
+    "ANDHRA PRADESH_WEST GODAVARI": {
+        "STATE_UT_NAME": "ANDHRA PRADESH",
+        "DISTRICT": "WEST GODAVARI",
+        "ANNUAL": "1160.4",
+        "Jan-Feb": "16.8",
+        "Mar-May": "83.5",
+        "Jun-Sep": "783.9",
+        "Oct-Dec": "276.2"
+    },
+    "ANDHRA PRADESH_GUNTUR": {
+        "STATE_UT_NAME": "ANDHRA PRADESH",
+        "DISTRICT": "GUNTUR",
+        "ANNUAL": "871.5",
+        "Jan-Feb": "13.2",
+        "Mar-May": "81.1",
+        "Jun-Sep": "543",
+        "Oct-Dec": "234.2"
+    },
+    "ANDHRA PRADESH_KRISHNA": {
+        "STATE_UT_NAME": "ANDHRA PRADESH",
+        "DISTRICT": "KRISHNA",
+        "ANNUAL": "1027.1",
+        "Jan-Feb": "10.9",
+        "Mar-May": "72.4",
+        "Jun-Sep": "701.4",
+        "Oct-Dec": "242.4"
+    },
+    "ANDHRA PRADESH_NELLORE": {
+        "STATE_UT_NAME": "ANDHRA PRADESH",
+        "DISTRICT": "NELLORE",
+        "ANNUAL": "1091.6",
+        "Jan-Feb": "27.3",
+        "Mar-May": "72.6",
+        "Jun-Sep": "352.4",
+        "Oct-Dec": "639.3"
+    },
+    "ANDHRA PRADESH_PRAKASAM": {
+        "STATE_UT_NAME": "ANDHRA PRADESH",
+        "DISTRICT": "PRAKASAM",
+        "ANNUAL": "805.9",
+        "Jan-Feb": "16.7",
+        "Mar-May": "77.7",
+        "Jun-Sep": "382.5",
+        "Oct-Dec": "329"
+    },
+    "ANDHRA PRADESH_SRIKAKULAM": {
+        "STATE_UT_NAME": "ANDHRA PRADESH",
+        "DISTRICT": "SRIKAKULAM",
+        "ANNUAL": "1165.2",
+        "Jan-Feb": "26",
+        "Mar-May": "107.4",
+        "Jun-Sep": "745.7",
+        "Oct-Dec": "286.1"
+    },
+    "ANDHRA PRADESH_VISAKHAPATNAM": {
+        "STATE_UT_NAME": "ANDHRA PRADESH",
+        "DISTRICT": "VISAKHAPATNAM",
+        "ANNUAL": "1120.7",
+        "Jan-Feb": "19.6",
+        "Mar-May": "158.9",
+        "Jun-Sep": "674.4",
+        "Oct-Dec": "267.8"
+    },
+    "ANDHRA PRADESH_VIZIANAGARAM": {
+        "STATE_UT_NAME": "ANDHRA PRADESH",
+        "DISTRICT": "VIZIANAGARAM",
+        "ANNUAL": "1140.4",
+        "Jan-Feb": "23.1",
+        "Mar-May": "140.7",
+        "Jun-Sep": "726.1",
+        "Oct-Dec": "250.5"
+    },
+    "ANDHRA PRADESH_ADILABAD": {
+        "STATE_UT_NAME": "ANDHRA PRADESH",
+        "DISTRICT": "ADILABAD",
+        "ANNUAL": "1120",
+        "Jan-Feb": "14.5",
+        "Mar-May": "41.5",
+        "Jun-Sep": "958.9",
+        "Oct-Dec": "105.1"
+    },
+    "ANDHRA PRADESH_HYDERABAD": {
+        "STATE_UT_NAME": "ANDHRA PRADESH",
+        "DISTRICT": "HYDERABAD",
+        "ANNUAL": "851.3",
+        "Jan-Feb": "13.3",
+        "Mar-May": "68.8",
+        "Jun-Sep": "643.5",
+        "Oct-Dec": "125.7"
+    },
+    "ANDHRA PRADESH_KARIMNAGAR": {
+        "STATE_UT_NAME": "ANDHRA PRADESH",
+        "DISTRICT": "KARIMNAGAR",
+        "ANNUAL": "979.8",
+        "Jan-Feb": "16.4",
+        "Mar-May": "50.5",
+        "Jun-Sep": "800.3",
+        "Oct-Dec": "112.6"
+    },
+    "ANDHRA PRADESH_KHAMMAM": {
+        "STATE_UT_NAME": "ANDHRA PRADESH",
+        "DISTRICT": "KHAMMAM",
+        "ANNUAL": "1094.9",
+        "Jan-Feb": "11.6",
+        "Mar-May": "87",
+        "Jun-Sep": "860.4",
+        "Oct-Dec": "135.9"
+    },
+    "ANDHRA PRADESH_MAHABUBNAGAR": {
+        "STATE_UT_NAME": "ANDHRA PRADESH",
+        "DISTRICT": "MAHABUBNAGAR",
+        "ANNUAL": "731.1",
+        "Jan-Feb": "4.7",
+        "Mar-May": "56.3",
+        "Jun-Sep": "559.7",
+        "Oct-Dec": "110.4"
+    },
+    "ANDHRA PRADESH_MEDAK": {
+        "STATE_UT_NAME": "ANDHRA PRADESH",
+        "DISTRICT": "MEDAK",
+        "ANNUAL": "922.3",
+        "Jan-Feb": "11.4",
+        "Mar-May": "56.3",
+        "Jun-Sep": "743.9",
+        "Oct-Dec": "110.7"
+    },
+    "ANDHRA PRADESH_NALGONDA": {
+        "STATE_UT_NAME": "ANDHRA PRADESH",
+        "DISTRICT": "NALGONDA",
+        "ANNUAL": "760.5",
+        "Jan-Feb": "8.4",
+        "Mar-May": "53",
+        "Jun-Sep": "554.7",
+        "Oct-Dec": "144.4"
+    },
+    "ANDHRA PRADESH_NIZAMABAD": {
+        "STATE_UT_NAME": "ANDHRA PRADESH",
+        "DISTRICT": "NIZAMABAD",
+        "ANNUAL": "1091.9",
+        "Jan-Feb": "12.3",
+        "Mar-May": "45.6",
+        "Jun-Sep": "920.1",
+        "Oct-Dec": "113.9"
+    },
+    "ANDHRA PRADESH_WARANGAL": {
+        "STATE_UT_NAME": "ANDHRA PRADESH",
+        "DISTRICT": "WARANGAL",
+        "ANNUAL": "986.9",
+        "Jan-Feb": "16.1",
+        "Mar-May": "55.2",
+        "Jun-Sep": "796.6",
+        "Oct-Dec": "119"
+    },
+    "ANDHRA PRADESH_RANGAREDDY": {
+        "STATE_UT_NAME": "ANDHRA PRADESH",
+        "DISTRICT": "RANGAREDDY",
+        "ANNUAL": "841.8",
+        "Jan-Feb": "7.1",
+        "Mar-May": "63.1",
+        "Jun-Sep": "653.7",
+        "Oct-Dec": "117.9"
+    },
+    "ANDHRA PRADESH_ANANTAPUR": {
+        "STATE_UT_NAME": "ANDHRA PRADESH",
+        "DISTRICT": "ANANTAPUR",
+        "ANNUAL": "572.7",
+        "Jan-Feb": "6.3",
+        "Mar-May": "81.7",
+        "Jun-Sep": "322.8",
+        "Oct-Dec": "161.9"
+    },
+    "ANDHRA PRADESH_CHITTOOR": {
+        "STATE_UT_NAME": "ANDHRA PRADESH",
+        "DISTRICT": "CHITTOOR",
+        "ANNUAL": "898.2",
+        "Jan-Feb": "15.3",
+        "Mar-May": "102.9",
+        "Jun-Sep": "417.1",
+        "Oct-Dec": "362.9"
+    },
+    "ANDHRA PRADESH_KUDDAPAH": {
+        "STATE_UT_NAME": "ANDHRA PRADESH",
+        "DISTRICT": "KUDDAPAH",
+        "ANNUAL": "716.9",
+        "Jan-Feb": "4.3",
+        "Mar-May": "69.6",
+        "Jun-Sep": "404.1",
+        "Oct-Dec": "238.9"
+    },
+    "ANDHRA PRADESH_KURNOOL": {
+        "STATE_UT_NAME": "ANDHRA PRADESH",
+        "DISTRICT": "KURNOOL",
+        "ANNUAL": "679.6",
+        "Jan-Feb": "3.1",
+        "Mar-May": "75.7",
+        "Jun-Sep": "460.2",
+        "Oct-Dec": "140.6"
+    },
+    "TAMIL NADU_VELLORE": {
+        "STATE_UT_NAME": "TAMIL NADU",
+        "DISTRICT": "VELLORE",
+        "ANNUAL": "936.2",
+        "Jan-Feb": "14.9",
+        "Mar-May": "106.5",
+        "Jun-Sep": "466.1",
+        "Oct-Dec": "348.7"
+    },
+    "TAMIL NADU_COIMBATORE": {
+        "STATE_UT_NAME": "TAMIL NADU",
+        "DISTRICT": "COIMBATORE",
+        "ANNUAL": "689.3",
+        "Jan-Feb": "20.3",
+        "Mar-May": "150.3",
+        "Jun-Sep": "189.8",
+        "Oct-Dec": "328.9"
+    },
+    "TAMIL NADU_DHARMAPURI": {
+        "STATE_UT_NAME": "TAMIL NADU",
+        "DISTRICT": "DHARMAPURI",
+        "ANNUAL": "902.1",
+        "Jan-Feb": "18.2",
+        "Mar-May": "160.4",
+        "Jun-Sep": "393.4",
+        "Oct-Dec": "330.1"
+    },
+    "TAMIL NADU_KANYAKUMARI": {
+        "STATE_UT_NAME": "TAMIL NADU",
+        "DISTRICT": "KANYAKUMARI",
+        "ANNUAL": "1302.5",
+        "Jan-Feb": "40.4",
+        "Mar-May": "288.3",
+        "Jun-Sep": "477.4",
+        "Oct-Dec": "496.4"
+    },
+    "TAMIL NADU_CHENNAI": {
+        "STATE_UT_NAME": "TAMIL NADU",
+        "DISTRICT": "CHENNAI",
+        "ANNUAL": "1324.2",
+        "Jan-Feb": "36.7",
+        "Mar-May": "58.5",
+        "Jun-Sep": "439.1",
+        "Oct-Dec": "789.9"
+    },
+    "TAMIL NADU_MADURAI": {
+        "STATE_UT_NAME": "TAMIL NADU",
+        "DISTRICT": "MADURAI",
+        "ANNUAL": "927.9",
+        "Jan-Feb": "28.1",
+        "Mar-May": "144.8",
+        "Jun-Sep": "335.9",
+        "Oct-Dec": "419.1"
+    },
+    "TAMIL NADU_NILGIRIS": {
+        "STATE_UT_NAME": "TAMIL NADU",
+        "DISTRICT": "NILGIRIS",
+        "ANNUAL": "1522.7",
+        "Jan-Feb": "49.3",
+        "Mar-May": "235.3",
+        "Jun-Sep": "759.9",
+        "Oct-Dec": "478.2"
+    },
+    "TAMIL NADU_RAMANATHAPURA": {
+        "STATE_UT_NAME": "TAMIL NADU",
+        "DISTRICT": "RAMANATHAPURA",
+        "ANNUAL": "807.8",
+        "Jan-Feb": "51.3",
+        "Mar-May": "115.5",
+        "Jun-Sep": "149.3",
+        "Oct-Dec": "491.7"
+    },
+    "TAMIL NADU_SALEM": {
+        "STATE_UT_NAME": "TAMIL NADU",
+        "DISTRICT": "SALEM",
+        "ANNUAL": "997.9",
+        "Jan-Feb": "16",
+        "Mar-May": "170.8",
+        "Jun-Sep": "440.6",
+        "Oct-Dec": "370.5"
+    },
+    "TAMIL NADU_THANJAVUR": {
+        "STATE_UT_NAME": "TAMIL NADU",
+        "DISTRICT": "THANJAVUR",
+        "ANNUAL": "1013.1",
+        "Jan-Feb": "42.3",
+        "Mar-May": "102.1",
+        "Jun-Sep": "318.4",
+        "Oct-Dec": "550.3"
+    },
+    "TAMIL NADU_TIRUCHIRAPPAL": {
+        "STATE_UT_NAME": "TAMIL NADU",
+        "DISTRICT": "TIRUCHIRAPPAL",
+        "ANNUAL": "818",
+        "Jan-Feb": "22.7",
+        "Mar-May": "109.9",
+        "Jun-Sep": "293.9",
+        "Oct-Dec": "391.5"
+    },
+    "TAMIL NADU_TIRUNELVELI": {
+        "STATE_UT_NAME": "TAMIL NADU",
+        "DISTRICT": "TIRUNELVELI",
+        "ANNUAL": "845.1",
+        "Jan-Feb": "69.3",
+        "Mar-May": "166.2",
+        "Jun-Sep": "142.4",
+        "Oct-Dec": "467.2"
+    },
+    "TAMIL NADU_ERODE": {
+        "STATE_UT_NAME": "TAMIL NADU",
+        "DISTRICT": "ERODE",
+        "ANNUAL": "702.9",
+        "Jan-Feb": "16.1",
+        "Mar-May": "142.4",
+        "Jun-Sep": "229.8",
+        "Oct-Dec": "314.6"
+    },
+    "TAMIL NADU_PUDUKKOTTAI": {
+        "STATE_UT_NAME": "TAMIL NADU",
+        "DISTRICT": "PUDUKKOTTAI",
+        "ANNUAL": "887.4",
+        "Jan-Feb": "33.1",
+        "Mar-May": "97.5",
+        "Jun-Sep": "350.6",
+        "Oct-Dec": "406.2"
+    },
+    "TAMIL NADU_DINDIGUL": {
+        "STATE_UT_NAME": "TAMIL NADU",
+        "DISTRICT": "DINDIGUL",
+        "ANNUAL": "930.7",
+        "Jan-Feb": "30.9",
+        "Mar-May": "168",
+        "Jun-Sep": "295.4",
+        "Oct-Dec": "436.4"
+    },
+    "TAMIL NADU_VIRUDHUNAGAR": {
+        "STATE_UT_NAME": "TAMIL NADU",
+        "DISTRICT": "VIRUDHUNAGAR",
+        "ANNUAL": "820.1",
+        "Jan-Feb": "42.8",
+        "Mar-May": "161.5",
+        "Jun-Sep": "196.8",
+        "Oct-Dec": "419"
+    },
+    "TAMIL NADU_SIVAGANGA": {
+        "STATE_UT_NAME": "TAMIL NADU",
+        "DISTRICT": "SIVAGANGA",
+        "ANNUAL": "872.8",
+        "Jan-Feb": "27.9",
+        "Mar-May": "121.2",
+        "Jun-Sep": "301",
+        "Oct-Dec": "422.7"
+    },
+    "TAMIL NADU_THOOTHUKUDI": {
+        "STATE_UT_NAME": "TAMIL NADU",
+        "DISTRICT": "THOOTHUKUDI",
+        "ANNUAL": "656.3",
+        "Jan-Feb": "42.8",
+        "Mar-May": "111.6",
+        "Jun-Sep": "74.9",
+        "Oct-Dec": "427"
+    },
+    "TAMIL NADU_TIRUVANNAMALA": {
+        "STATE_UT_NAME": "TAMIL NADU",
+        "DISTRICT": "TIRUVANNAMALA",
+        "ANNUAL": "1040",
+        "Jan-Feb": "26.5",
+        "Mar-May": "98.9",
+        "Jun-Sep": "468.1",
+        "Oct-Dec": "446.5"
+    },
+    "TAMIL NADU_NAGAPATTINAM": {
+        "STATE_UT_NAME": "TAMIL NADU",
+        "DISTRICT": "NAGAPATTINAM",
+        "ANNUAL": "1393.3",
+        "Jan-Feb": "85.7",
+        "Mar-May": "80.5",
+        "Jun-Sep": "286.1",
+        "Oct-Dec": "941"
+    },
+    "TAMIL NADU_VILUPPURAM": {
+        "STATE_UT_NAME": "TAMIL NADU",
+        "DISTRICT": "VILUPPURAM",
+        "ANNUAL": "1011.6",
+        "Jan-Feb": "28.2",
+        "Mar-May": "76",
+        "Jun-Sep": "408.3",
+        "Oct-Dec": "499.1"
+    },
+    "TAMIL NADU_CUDDALORE": {
+        "STATE_UT_NAME": "TAMIL NADU",
+        "DISTRICT": "CUDDALORE",
+        "ANNUAL": "1206.7",
+        "Jan-Feb": "44.1",
+        "Mar-May": "81.7",
+        "Jun-Sep": "383.1",
+        "Oct-Dec": "697.8"
+    },
+    "TAMIL NADU_KANCHIPURAM": {
+        "STATE_UT_NAME": "TAMIL NADU",
+        "DISTRICT": "KANCHIPURAM",
+        "ANNUAL": "1227.7",
+        "Jan-Feb": "29.1",
+        "Mar-May": "66",
+        "Jun-Sep": "490.8",
+        "Oct-Dec": "641.8"
+    },
+    "TAMIL NADU_TIRUVALLUR": {
+        "STATE_UT_NAME": "TAMIL NADU",
+        "DISTRICT": "TIRUVALLUR",
+        "ANNUAL": "1139.6",
+        "Jan-Feb": "31.5",
+        "Mar-May": "67.2",
+        "Jun-Sep": "451.6",
+        "Oct-Dec": "589.3"
+    },
+    "TAMIL NADU_THENI": {
+        "STATE_UT_NAME": "TAMIL NADU",
+        "DISTRICT": "THENI",
+        "ANNUAL": "720",
+        "Jan-Feb": "35.4",
+        "Mar-May": "168.3",
+        "Jun-Sep": "158.4",
+        "Oct-Dec": "357.9"
+    },
+    "TAMIL NADU_NAMAKKAL": {
+        "STATE_UT_NAME": "TAMIL NADU",
+        "DISTRICT": "NAMAKKAL",
+        "ANNUAL": "793.4",
+        "Jan-Feb": "13.9",
+        "Mar-May": "148.6",
+        "Jun-Sep": "339.3",
+        "Oct-Dec": "291.6"
+    },
+    "TAMIL NADU_KARUR": {
+        "STATE_UT_NAME": "TAMIL NADU",
+        "DISTRICT": "KARUR",
+        "ANNUAL": "655",
+        "Jan-Feb": "17.5",
+        "Mar-May": "109.2",
+        "Jun-Sep": "213.6",
+        "Oct-Dec": "314.7"
+    },
+    "TAMIL NADU_PERAMBALUR": {
+        "STATE_UT_NAME": "TAMIL NADU",
+        "DISTRICT": "PERAMBALUR",
+        "ANNUAL": "861.9",
+        "Jan-Feb": "21.4",
+        "Mar-May": "108.9",
+        "Jun-Sep": "290.7",
+        "Oct-Dec": "440.9"
+    },
+    "TAMIL NADU_TIRUVARUR": {
+        "STATE_UT_NAME": "TAMIL NADU",
+        "DISTRICT": "TIRUVARUR",
+        "ANNUAL": "1173.3",
+        "Jan-Feb": "60.1",
+        "Mar-May": "97.7",
+        "Jun-Sep": "296.4",
+        "Oct-Dec": "719.1"
+    },
+    "TAMIL NADU_KRISHNAGIRI": {
+        "STATE_UT_NAME": "TAMIL NADU",
+        "DISTRICT": "KRISHNAGIRI",
+        "ANNUAL": "850.7",
+        "Jan-Feb": "10.7",
+        "Mar-May": "151.6",
+        "Jun-Sep": "399",
+        "Oct-Dec": "289.4"
+    },
+    "TAMIL NADU_ARIYALUR": {
+        "STATE_UT_NAME": "TAMIL NADU",
+        "DISTRICT": "ARIYALUR",
+        "ANNUAL": "1071.8",
+        "Jan-Feb": "32.5",
+        "Mar-May": "101.8",
+        "Jun-Sep": "392",
+        "Oct-Dec": "545.5"
+    },
+    "TAMIL NADU_TIRUPUR": {
+        "STATE_UT_NAME": "TAMIL NADU",
+        "DISTRICT": "TIRUPUR",
+        "ANNUAL": "618.2",
+        "Jan-Feb": "14",
+        "Mar-May": "135.1",
+        "Jun-Sep": "154.8",
+        "Oct-Dec": "314.3"
+    },
+    "PONDICHERRY_PONDICHERRY": {
+        "STATE_UT_NAME": "PONDICHERRY",
+        "DISTRICT": "PONDICHERRY",
+        "ANNUAL": "1336.5",
+        "Jan-Feb": "37.5",
+        "Mar-May": "70.9",
+        "Jun-Sep": "385",
+        "Oct-Dec": "843.1"
+    },
+    "PONDICHERRY_KARAIKAL": {
+        "STATE_UT_NAME": "PONDICHERRY",
+        "DISTRICT": "KARAIKAL",
+        "ANNUAL": "1504.4",
+        "Jan-Feb": "96.2",
+        "Mar-May": "66.6",
+        "Jun-Sep": "293.1",
+        "Oct-Dec": "1048.5"
+    },
+    "PONDICHERRY_MAHE": {
+        "STATE_UT_NAME": "PONDICHERRY",
+        "DISTRICT": "MAHE",
+        "ANNUAL": "1336.5",
+        "Jan-Feb": "37.5",
+        "Mar-May": "70.9",
+        "Jun-Sep": "385",
+        "Oct-Dec": "843.1"
+    },
+    "PONDICHERRY_YANAM": {
+        "STATE_UT_NAME": "PONDICHERRY",
+        "DISTRICT": "YANAM",
+        "ANNUAL": "1336.5",
+        "Jan-Feb": "37.5",
+        "Mar-May": "70.9",
+        "Jun-Sep": "385",
+        "Oct-Dec": "843.1"
+    },
+    "KARNATAKA_UTTAR KANNADA": {
+        "STATE_UT_NAME": "KARNATAKA",
+        "DISTRICT": "UTTAR KANNADA",
+        "ANNUAL": "3070.5",
+        "Jan-Feb": "0.4",
+        "Mar-May": "138.8",
+        "Jun-Sep": "2720.9",
+        "Oct-Dec": "210.4"
+    },
+    "KARNATAKA_DAKSHIN KANDA": {
+        "STATE_UT_NAME": "KARNATAKA",
+        "DISTRICT": "DAKSHIN KANDA",
+        "ANNUAL": "3915.8",
+        "Jan-Feb": "2.6",
+        "Mar-May": "227.1",
+        "Jun-Sep": "3351.6",
+        "Oct-Dec": "334.5"
+    },
+    "KARNATAKA_UDUPI": {
+        "STATE_UT_NAME": "KARNATAKA",
+        "DISTRICT": "UDUPI",
+        "ANNUAL": "4306",
+        "Jan-Feb": "1.8",
+        "Mar-May": "227.3",
+        "Jun-Sep": "3759.7",
+        "Oct-Dec": "317.2"
+    },
+    "KARNATAKA_BELGAM": {
+        "STATE_UT_NAME": "KARNATAKA",
+        "DISTRICT": "BELGAM",
+        "ANNUAL": "839.2",
+        "Jan-Feb": "1.6",
+        "Mar-May": "111.2",
+        "Jun-Sep": "574.1",
+        "Oct-Dec": "152.3"
+    },
+    "KARNATAKA_BIDAR": {
+        "STATE_UT_NAME": "KARNATAKA",
+        "DISTRICT": "BIDAR",
+        "ANNUAL": "890.7",
+        "Jan-Feb": "12",
+        "Mar-May": "63.2",
+        "Jun-Sep": "694.9",
+        "Oct-Dec": "120.6"
+    },
+    "KARNATAKA_BIJAPUR": {
+        "STATE_UT_NAME": "KARNATAKA",
+        "DISTRICT": "BIJAPUR",
+        "ANNUAL": "656.4",
+        "Jan-Feb": "5.1",
+        "Mar-May": "71.8",
+        "Jun-Sep": "436",
+        "Oct-Dec": "143.5"
+    },
+    "KARNATAKA_DHARWAD": {
+        "STATE_UT_NAME": "KARNATAKA",
+        "DISTRICT": "DHARWAD",
+        "ANNUAL": "791.7",
+        "Jan-Feb": "5.5",
+        "Mar-May": "136",
+        "Jun-Sep": "484",
+        "Oct-Dec": "166.2"
+    },
+    "KARNATAKA_GULBARGA": {
+        "STATE_UT_NAME": "KARNATAKA",
+        "DISTRICT": "GULBARGA",
+        "ANNUAL": "820.6",
+        "Jan-Feb": "7.2",
+        "Mar-May": "62.3",
+        "Jun-Sep": "620.5",
+        "Oct-Dec": "130.6"
+    },
+    "KARNATAKA_YADGIR": {
+        "STATE_UT_NAME": "KARNATAKA",
+        "DISTRICT": "YADGIR",
+        "ANNUAL": "834.5",
+        "Jan-Feb": "8",
+        "Mar-May": "62.5",
+        "Jun-Sep": "610.8",
+        "Oct-Dec": "153.2"
+    },
+    "KARNATAKA_RAICHUR": {
+        "STATE_UT_NAME": "KARNATAKA",
+        "DISTRICT": "RAICHUR",
+        "ANNUAL": "665.1",
+        "Jan-Feb": "3.4",
+        "Mar-May": "62.3",
+        "Jun-Sep": "461.6",
+        "Oct-Dec": "137.8"
+    },
+    "KARNATAKA_BAGALKOTE": {
+        "STATE_UT_NAME": "KARNATAKA",
+        "DISTRICT": "BAGALKOTE",
+        "ANNUAL": "597",
+        "Jan-Feb": "3.3",
+        "Mar-May": "85.3",
+        "Jun-Sep": "363.3",
+        "Oct-Dec": "145.1"
+    },
+    "KARNATAKA_GADAG": {
+        "STATE_UT_NAME": "KARNATAKA",
+        "DISTRICT": "GADAG",
+        "ANNUAL": "641.2",
+        "Jan-Feb": "2.2",
+        "Mar-May": "109.1",
+        "Jun-Sep": "368.3",
+        "Oct-Dec": "161.6"
+    },
+    "KARNATAKA_HAVERI": {
+        "STATE_UT_NAME": "KARNATAKA",
+        "DISTRICT": "HAVERI",
+        "ANNUAL": "791.9",
+        "Jan-Feb": "0.8",
+        "Mar-May": "126.1",
+        "Jun-Sep": "495.1",
+        "Oct-Dec": "169.9"
+    },
+    "KARNATAKA_KOPPAL": {
+        "STATE_UT_NAME": "KARNATAKA",
+        "DISTRICT": "KOPPAL",
+        "ANNUAL": "598.3",
+        "Jan-Feb": "1.6",
+        "Mar-May": "72.2",
+        "Jun-Sep": "382.6",
+        "Oct-Dec": "141.9"
+    },
+    "KARNATAKA_BANGALORE RUR": {
+        "STATE_UT_NAME": "KARNATAKA",
+        "DISTRICT": "BANGALORE RUR",
+        "ANNUAL": "837",
+        "Jan-Feb": "7.5",
+        "Mar-May": "136.9",
+        "Jun-Sep": "451.9",
+        "Oct-Dec": "240.7"
+    },
+    "KARNATAKA_BELLARY": {
+        "STATE_UT_NAME": "KARNATAKA",
+        "DISTRICT": "BELLARY",
+        "ANNUAL": "622.8",
+        "Jan-Feb": "2.8",
+        "Mar-May": "87",
+        "Jun-Sep": "376",
+        "Oct-Dec": "157"
+    },
+    "KARNATAKA_CHIKMAGALUR": {
+        "STATE_UT_NAME": "KARNATAKA",
+        "DISTRICT": "CHIKMAGALUR",
+        "ANNUAL": "2077.5",
+        "Jan-Feb": "3.6",
+        "Mar-May": "178.1",
+        "Jun-Sep": "1657.3",
+        "Oct-Dec": "238.5"
+    },
+    "KARNATAKA_CHITRADURGA": {
+        "STATE_UT_NAME": "KARNATAKA",
+        "DISTRICT": "CHITRADURGA",
+        "ANNUAL": "527.7",
+        "Jan-Feb": "2.6",
+        "Mar-May": "95.1",
+        "Jun-Sep": "271",
+        "Oct-Dec": "159"
+    },
+    "KARNATAKA_KODAGU": {
+        "STATE_UT_NAME": "KARNATAKA",
+        "DISTRICT": "KODAGU",
+        "ANNUAL": "2741.4",
+        "Jan-Feb": "7.7",
+        "Mar-May": "261",
+        "Jun-Sep": "2181.9",
+        "Oct-Dec": "290.8"
+    },
+    "KARNATAKA_HASSAN": {
+        "STATE_UT_NAME": "KARNATAKA",
+        "DISTRICT": "HASSAN",
+        "ANNUAL": "967.1",
+        "Jan-Feb": "3.8",
+        "Mar-May": "168",
+        "Jun-Sep": "574.3",
+        "Oct-Dec": "221"
+    },
+    "KARNATAKA_KOLAR": {
+        "STATE_UT_NAME": "KARNATAKA",
+        "DISTRICT": "KOLAR",
+        "ANNUAL": "731.1",
+        "Jan-Feb": "7.2",
+        "Mar-May": "112.6",
+        "Jun-Sep": "382.7",
+        "Oct-Dec": "228.6"
+    },
+    "KARNATAKA_MANDYA": {
+        "STATE_UT_NAME": "KARNATAKA",
+        "DISTRICT": "MANDYA",
+        "ANNUAL": "662.7",
+        "Jan-Feb": "5.5",
+        "Mar-May": "158",
+        "Jun-Sep": "285.1",
+        "Oct-Dec": "214.1"
+    },
+    "KARNATAKA_MYSORE": {
+        "STATE_UT_NAME": "KARNATAKA",
+        "DISTRICT": "MYSORE",
+        "ANNUAL": "758.6",
+        "Jan-Feb": "6",
+        "Mar-May": "194.7",
+        "Jun-Sep": "343.6",
+        "Oct-Dec": "214.3"
+    },
+    "KARNATAKA_SHIMOGA": {
+        "STATE_UT_NAME": "KARNATAKA",
+        "DISTRICT": "SHIMOGA",
+        "ANNUAL": "1827.9",
+        "Jan-Feb": "0.9",
+        "Mar-May": "122.6",
+        "Jun-Sep": "1514",
+        "Oct-Dec": "190.4"
+    },
+    "KARNATAKA_TUMKUR": {
+        "STATE_UT_NAME": "KARNATAKA",
+        "DISTRICT": "TUMKUR",
+        "ANNUAL": "698.5",
+        "Jan-Feb": "5.4",
+        "Mar-May": "128.2",
+        "Jun-Sep": "359.2",
+        "Oct-Dec": "205.7"
+    },
+    "KARNATAKA_BANGALORE URB": {
+        "STATE_UT_NAME": "KARNATAKA",
+        "DISTRICT": "BANGALORE URB",
+        "ANNUAL": "870",
+        "Jan-Feb": "9",
+        "Mar-May": "153.7",
+        "Jun-Sep": "475.7",
+        "Oct-Dec": "231.6"
+    },
+    "KARNATAKA_CHAMARAJANAGA": {
+        "STATE_UT_NAME": "KARNATAKA",
+        "DISTRICT": "CHAMARAJANAGA",
+        "ANNUAL": "788.4",
+        "Jan-Feb": "9.4",
+        "Mar-May": "213.6",
+        "Jun-Sep": "320.6",
+        "Oct-Dec": "244.8"
+    },
+    "KARNATAKA_DAVANGERE": {
+        "STATE_UT_NAME": "KARNATAKA",
+        "DISTRICT": "DAVANGERE",
+        "ANNUAL": "676.7",
+        "Jan-Feb": "1.9",
+        "Mar-May": "113.2",
+        "Jun-Sep": "384.9",
+        "Oct-Dec": "176.7"
+    },
+    "KARNATAKA_RAMNAGAR(BNGR)": {
+        "STATE_UT_NAME": "KARNATAKA",
+        "DISTRICT": "RAMNAGAR(BNGR)",
+        "ANNUAL": "883.7",
+        "Jan-Feb": "6.2",
+        "Mar-May": "180.4",
+        "Jun-Sep": "454",
+        "Oct-Dec": "243.1"
+    },
+    "KARNATAKA_CHICKBALLAPUR": {
+        "STATE_UT_NAME": "KARNATAKA",
+        "DISTRICT": "CHICKBALLAPUR",
+        "ANNUAL": "748.5",
+        "Jan-Feb": "6.7",
+        "Mar-May": "104.8",
+        "Jun-Sep": "411.8",
+        "Oct-Dec": "225.2"
+    },
+    "KERALA_ALAPPUZHA": {
+        "STATE_UT_NAME": "KERALA",
+        "DISTRICT": "ALAPPUZHA",
+        "ANNUAL": "2841.2",
+        "Jan-Feb": "45.4",
+        "Mar-May": "477.8",
+        "Jun-Sep": "1745.9",
+        "Oct-Dec": "572.1"
+    },
+    "KERALA_CANNUR": {
+        "STATE_UT_NAME": "KERALA",
+        "DISTRICT": "CANNUR",
+        "ANNUAL": "3319.1",
+        "Jan-Feb": "4.5",
+        "Mar-May": "300.5",
+        "Jun-Sep": "2669",
+        "Oct-Dec": "345.1"
+    },
+    "KERALA_ERNAKULAM": {
+        "STATE_UT_NAME": "KERALA",
+        "DISTRICT": "ERNAKULAM",
+        "ANNUAL": "3029.9",
+        "Jan-Feb": "32",
+        "Mar-May": "443.6",
+        "Jun-Sep": "2065",
+        "Oct-Dec": "489.3"
+    },
+    "KERALA_KOTTAYAM": {
+        "STATE_UT_NAME": "KERALA",
+        "DISTRICT": "KOTTAYAM",
+        "ANNUAL": "2930.5",
+        "Jan-Feb": "37.9",
+        "Mar-May": "460.2",
+        "Jun-Sep": "1897.3",
+        "Oct-Dec": "535.1"
+    },
+    "KERALA_KOZHIKODE": {
+        "STATE_UT_NAME": "KERALA",
+        "DISTRICT": "KOZHIKODE",
+        "ANNUAL": "3384.1",
+        "Jan-Feb": "6.2",
+        "Mar-May": "352.6",
+        "Jun-Sep": "2603.1",
+        "Oct-Dec": "422.2"
+    },
+    "KERALA_MALAPPURAM": {
+        "STATE_UT_NAME": "KERALA",
+        "DISTRICT": "MALAPPURAM",
+        "ANNUAL": "2835.1",
+        "Jan-Feb": "5.6",
+        "Mar-May": "320.8",
+        "Jun-Sep": "2060.4",
+        "Oct-Dec": "448.3"
+    },
+    "KERALA_PALAKKAD": {
+        "STATE_UT_NAME": "KERALA",
+        "DISTRICT": "PALAKKAD",
+        "ANNUAL": "2290",
+        "Jan-Feb": "9.4",
+        "Mar-May": "279.9",
+        "Jun-Sep": "1572.7",
+        "Oct-Dec": "428"
+    },
+    "KERALA_KOLLAM": {
+        "STATE_UT_NAME": "KERALA",
+        "DISTRICT": "KOLLAM",
+        "ANNUAL": "2491.7",
+        "Jan-Feb": "51.2",
+        "Mar-May": "469.6",
+        "Jun-Sep": "1332.3",
+        "Oct-Dec": "638.6"
+    },
+    "KERALA_THRISSUR": {
+        "STATE_UT_NAME": "KERALA",
+        "DISTRICT": "THRISSUR",
+        "ANNUAL": "3063.1",
+        "Jan-Feb": "10.9",
+        "Mar-May": "385.3",
+        "Jun-Sep": "2197.5",
+        "Oct-Dec": "469.4"
+    },
+    "KERALA_THIRUVANANTHA": {
+        "STATE_UT_NAME": "KERALA",
+        "DISTRICT": "THIRUVANANTHA",
+        "ANNUAL": "1803.2",
+        "Jan-Feb": "40.4",
+        "Mar-May": "368.8",
+        "Jun-Sep": "871.3",
+        "Oct-Dec": "522.7"
+    },
+    "KERALA_IDUKKI": {
+        "STATE_UT_NAME": "KERALA",
+        "DISTRICT": "IDUKKI",
+        "ANNUAL": "3302.5",
+        "Jan-Feb": "35.5",
+        "Mar-May": "426.6",
+        "Jun-Sep": "2276.2",
+        "Oct-Dec": "564.2"
+    },
+    "KERALA_KASARGOD": {
+        "STATE_UT_NAME": "KERALA",
+        "DISTRICT": "KASARGOD",
+        "ANNUAL": "3621.6",
+        "Jan-Feb": "3.3",
+        "Mar-May": "272.9",
+        "Jun-Sep": "3007.5",
+        "Oct-Dec": "337.9"
+    },
+    "KERALA_PATHANAMTHITTA": {
+        "STATE_UT_NAME": "KERALA",
+        "DISTRICT": "PATHANAMTHITTA",
+        "ANNUAL": "2958.4",
+        "Jan-Feb": "65",
+        "Mar-May": "553.5",
+        "Jun-Sep": "1715.7",
+        "Oct-Dec": "624.2"
+    },
+    "KERALA_WAYANAD": {
+        "STATE_UT_NAME": "KERALA",
+        "DISTRICT": "WAYANAD",
+        "ANNUAL": "3253.1",
+        "Jan-Feb": "13.1",
+        "Mar-May": "275.4",
+        "Jun-Sep": "2632.1",
+        "Oct-Dec": "332.5"
+    },
+    "LAKSHADWEEP_LAKSHADWEEP": {
+        "STATE_UT_NAME": "LAKSHADWEEP",
+        "DISTRICT": "LAKSHADWEEP",
+        "ANNUAL": "1600",
+        "Jan-Feb": "35.5",
+        "Mar-May": "232.4",
+        "Jun-Sep": "998.5",
+        "Oct-Dec": "333.6"
+    }
+}

@@ -1,0 +1,21 @@
+input[type="submit"] {
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+}
+select {
+  padding: 10px;
+  border: 1px solid black;
+  font-size: 16px;
+  color: black;
+}
+input{
+  padding:10px 20px;
+  color:black;
+  margin:10px;
+  font-size: 16px;
+}
+  

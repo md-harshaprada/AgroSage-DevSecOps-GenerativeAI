@@ -1,0 +1,167 @@
+{
+    "ANDAMAN And NICOBAR ISLANDS": {
+        "State": "ANDAMAN And NICOBAR ISLANDS",
+        "Temperature": "27",
+        "Humidity": "80"
+    },
+    "ARUNACHAL PRADESH": {
+        "State": "ARUNACHAL PRADESH",
+        "Temperature": "20",
+        "Humidity": "79"
+    },
+    "ASSAM": {
+        "State": "ASSAM",
+        "Temperature": "28",
+        "Humidity": "80"
+    },
+    "MEGHALAYA": {
+        "State": "MEGHALAYA",
+        "Temperature": "23",
+        "Humidity": "75"
+    },
+    "MANIPUR": {
+        "State": "MANIPUR",
+        "Temperature": "28",
+        "Humidity": "80"
+    },
+    "MIZORAM": {
+        "State": "MIZORAM",
+        "Temperature": "23",
+        "Humidity": "80"
+    },
+    "NAGALAND": {
+        "State": "NAGALAND",
+        "Temperature": "23",
+        "Humidity": "78"
+    },
+    "TRIPURA": {
+        "State": "TRIPURA",
+        "Temperature": "28",
+        "Humidity": "80"
+    },
+    "WEST BENGAL": {
+        "State": "WEST BENGAL",
+        "Temperature": "28",
+        "Humidity": "76"
+    },
+    "SIKKIM": {
+        "State": "SIKKIM",
+        "Temperature": "23",
+        "Humidity": "80"
+    },
+    "ORISSA": {
+        "State": "ORISSA",
+        "Temperature": "28",
+        "Humidity": "80"
+    },
+    "JHARKHAND": {
+        "State": "JHARKHAND",
+        "Temperature": "30",
+        "Humidity": "70"
+    },
+    "BIHAR": {
+        "State": "BIHAR",
+        "Temperature": "30",
+        "Humidity": "80"
+    },
+    "UTTAR PRADESH": {
+        "State": "UTTAR PRADESH",
+        "Temperature": "35",
+        "Humidity": "50"
+    },
+    "UTTARANCHAL": {
+        "State": "UTTARANCHAL",
+        "Temperature": "30",
+        "Humidity": "50"
+    },
+    "HARYANA": {
+        "State": "HARYANA",
+        "Temperature": "35",
+        "Humidity": "50"
+    },
+    "CHANDIGARH": {
+        "State": "CHANDIGARH",
+        "Temperature": "35",
+        "Humidity": "50"
+    },
+    "DELHI": {
+        "State": "DELHI",
+        "Temperature": "40",
+        "Humidity": "50"
+    },
+    "PUNJAB": {
+        "State": "PUNJAB",
+        "Temperature": "35",
+        "Humidity": "50"
+    },
+    "HIMACHAL": {
+        "State": "HIMACHAL",
+        "Temperature": "30",
+        "Humidity": "50"
+    },
+    "JAMMU AND KASHMIR": {
+        "State": "JAMMU AND KASHMIR",
+        "Temperature": "30",
+        "Humidity": "50"
+    },
+    "RAJASTHAN": {
+        "State": "RAJASTHAN",
+        "Temperature": "45",
+        "Humidity": "30"
+    },
+    "MADHYA PRADESH": {
+        "State": "MADHYA PRADESH",
+        "Temperature": "43",
+        "Humidity": "30"
+    },
+    "GUJARAT": {
+        "State": "GUJARAT",
+        "Temperature": "43",
+        "Humidity": "30"
+    },
+    "DADAR NAGAR HAVELI": {
+        "State": "DADAR NAGAR HAVELI",
+        "Temperature": "33",
+        "Humidity": "70"
+    },
+    "DAMAN AND DUI": {
+        "State": "DAMAN AND DUI",
+        "Temperature": "33",
+        "Humidity": "70"
+    },
+    "MAHARASHTRA": {
+        "State": "MAHARASHTRA",
+        "Temperature": "35",
+        "Humidity": "70"
+    },
+    "CHATISGARH": {
+        "State": "CHATISGARH",
+        "Temperature": "43",
+        "Humidity": "30"
+    },
+    "ANDHRA PRADESH": {
+        "State": "ANDHRA PRADESH",
+        "Temperature": "35",
+        "Humidity": "30"
+    },
+    "TAMIL NADU": {
+        "State": "TAMIL NADU",
+        "Temperature": "33",
+        "Humidity": "70"
+    },
+    "PONDICHERRY": {
+        "State": "PONDICHERRY",
+        "Temperature": "33",
+        "Humidity": "70"
+    },
+    "KARNATAKA": {
+        "State": "KARNATAKA",
+        "Temperature": "35",
+        "Humidity": "30"
+    },
+    "KERALA": {
+        "State": "KERALA",
+        "Temperature": "30",
+        "Humidity": "70"
+    }
+}

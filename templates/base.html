@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crop Prediction</title>
+    <script src="/static/js/district.js"></script>
+    <script src="/static/js/suggestions.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    
+    <link rel="stylesheet" type="text/css" href="/static/css/styles.css">
+    
+    <link rel="stylesheet" type="text/css" href="/static/css/style.css">
+    <link rel="stylesheet" type="text/css" href="/static/css/sts.css">
+    <link rel="stylesheet" type="text/css" href="/static/css/normalize.css">
+</head>
+<body>
+  <header >
+    <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #8ac79a;">
+      <div class="container-fluid">
+          <a class="navbar-brand" href="/"><b>Crop Price Prediction</b></a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+              <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                  <li class="nav-item">
+                      <a class="nav-link" href="/"><b>Home Page</b></a>
+                  </li>
+                  <li class="nav-item">
+                      <a class="nav-link" href="/about"><b>About Us</b></a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="/help"><b>Discussion Forum</b></a>
+                  </li>
+                  <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Services</a>
+                    <div class="dropdown-menu">
+                      <a class="dropdown-item" href="/predictpage">Crop Prediction</a>
+                      <a class="dropdown-item" href="/base">Suggestion For Crop</a>
+                      <a class="dropdown-item" href="/fertilizer">Fertilizer Predictions</a>
+                    
+            
+                    </div>
+                  </li>
+                 
+              </ul>
+               <ul class="navbar-nav">
+                <li class="nav-item" id="user-dropdown">
+                    <a class="nav-link" href="#">
+                        <div style="display: flex; align-items: center;">
+                            <div style="width: 32px; height: 32px; border-radius: 50%; overflow: hidden; margin-right: 10px;">
+                                <img src="/static/images/plogo.jpg" alt="User Profile" style="width: 100%; height: 100%;">
+                            </div>
+                            <span>{{ session['user']['name'] }}</span>
+                        </div>
+                    </a>
+                    <div class="user-dropdown-content">
+                        <p><strong>Location:</strong> {{ session['user']['location'] }}</p>
+                        <p><strong>Profession:</strong> {{ session['user']['profession'] }}</p>
+                        <a href="/user/signout">Sign Out</a>
+                    </div>
+                </li>
+            </ul>
+            
+          </div>
+      </div>
+  </nav>
+  
+       
+        <!-- Title heading -->
+       
+        
+    </header>
+
+  <br>
+  <div class="container-fluid">
+    <h1 style="color:green;">Give your Inputs</h1>
+  </div>
+  <br><br><br>
+  <div class="container-fluid d-flex p-4 text-dark align-items-center justify-content-center" style="height: 300px; background-color: lightgray;">
+    <div style="width: 500px; "class="mx-auto">
+  <form action="/input" method="post" id="suggest">
+    <div class="form-group m-100">
+        <label for="states">Select State:</label>
+        <select id="states" name="states" onchange="updateDistricts()">
+          <option value="">Select a state</option>
+          <option value="ANDAMAN And NICOBAR ISLANDS">Andaman And Nicobar</option>
+          <option value="ARUNACHAL PRADESH">ARUNACHAL PRADESH</option>
+          <option value="ASSAM">ASSAM</option>
+          <option value="MEGHALAYA">MEGHALAYA</option>
+          <option value="MANIPUR">MANIPUR</option>
+          <option value="MIZORAM">MIZORAM</option>
+          <option value="NAGALAND">NAGALAND</option>
+          <option value="TRIPURA">TRIPURA</option>
+          <option value="WEST BENGAL">WEST BENGAL</option>
+          <option value="SIKKIM">SIKKIM</option>
+          <option value="ORISSA">ORISSA</option>
+          <option value="JHARKHAND">JHARKHAND</option>
+          <option value="BIHAR">BIHAR</option>
+          <option value="UTTAR PRADESH">UTTAR PRADESH</option>
+          <option value="UTTARANCHAL">UTTARANCHAL</option>
+          <option value="HARYANA">HARYANA</option>
+          <option value="DELHI">DELHI</option>
+          <option value="PUNJAB">PUNJAB</option>
+          <option value="HIMACHAL">HIMACHAL</option>
+          <option value="JAMMU AND KASHMIR">JAMMU AND KASHMIR</option>
+          <option value="RAJASTHAN">RAJASTHAN</option>
+          <option value="CHANDIGARH">CHANDIGARH</option>
+          <option value="GUJARAT">GUJARAT</option>
+          <option value="PUNJAB">PUNJAB</option>
+          <option value="HIMACHAL">HIMACHAL</option>
+          <option value="JAMMU AND KASHMIR">JAMMU AND KASHMIR</option>
+          <option value="DADAR NAGAR HAVELI">DADAR NAGAR HAVELI</option>
+          <option value="DAMAN AND DUI">DAMAN AND DUI</option>
+          <option value="MAHARASHTRA">MAHARASHTRA</option>
+          <option value="CHATISGARH">CHATISGARH</option>
+          <option value="ANDHRA PRADESH">ANDHRA PRADESH</option>
+          <option value="TAMIL NADU">TAMIL NADU</option>
+          <option value="PONDICHERRY">PONDICHERRY</option>
+          <option value="KARNATAKA">KARNATAKA</option>
+          <option value="KERALA">KERALA</option>
+        </select>
+      </div>
+      
+      <div class="form-group">
+        <label for="districts">Select District:</label>
+        <select id="districts" name="districts">
+          <option value="">Select a district</option>
+        </select>
+      </div>
+      
+    <div class="form-group">
+      <label for="seasons">Seasons :</label>
+      <select id="seasons" name="seasons">
+      <option value="">Select a season</option>
+          <option value="Jan-Feb">Jan-Feb</option>
+          <option value="Mar-May">Mar-May</option>
+          <option value="Jun-Sep">Jun-Sep</option>
+          <option value="Oct-Dec">Oct-Dec</option>
+          </select>    </div>
+          <button type="submit" class="btn btn-primary">Get Suggestions</button>
+      </form>
+      </div>
+      </div>
+      <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+      <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.3/dist/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.1.3/dist/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+      
+      <!-- Footer -->
+
+<!-- // Footer -->
+</body>
+</html>
