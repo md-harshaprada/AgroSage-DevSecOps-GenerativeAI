@@ -14,7 +14,7 @@ app = Flask(__name__)
 app.secret_key = b'\xcc^\x91\xea\x17-\xd0W\x03\xa7\xf8J0\xac8\xc5'
 
 # Database
-client=pymongo.MongoClient("mongodb+srv://SRISAILA:saila1410@cluster0.jnllygb.mongodb.net/?retryWrites=true&w=majority")
+client = pymongo.MongoClient(os.environ['MONGODB_URI'])
 db=client.get_database('AgroSage')
 collection = db["questions"]
 
