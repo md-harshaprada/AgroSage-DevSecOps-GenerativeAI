@@ -11,4 +11,4 @@ jobs:
         with:
           python-version: "3.9"
       - run: pip install -r requirements.txt
-      - run: flask run # Or your build command
+      - run: python -m flask run
