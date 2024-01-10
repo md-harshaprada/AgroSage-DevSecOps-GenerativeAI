@@ -1,0 +1,15 @@
+name: Python CI/CD
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: "3.9"
+      - run: pip install -r requirements.txt
+      - run: pytest # Replace with your test command
+      - run: flask run # Or your build command
